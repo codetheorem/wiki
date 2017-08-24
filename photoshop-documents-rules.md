@@ -18,7 +18,7 @@ for example “home Icon”
 - Inside the header folder there will be subfolders that will group layers that compose a the same object. For example the username and the icon next to it will be grouped in the same subfolder.
 - Folders have to be always named.
 
-**5)Smart objects**
+**5) Smart objects**
 Certain elements like Heather or Footer will repeat on every artboard, to facilitate the process and to be able to apply changes all at once for every artboards the best way is to use “Smart Object”.
 Therefore common elements will be converted in “Smart Object” and insert into a specific library  so that they can be replicate in a fast way, without error, and once a change is applied it will apply to all the documents and artboards that use that Smart Object.
 
