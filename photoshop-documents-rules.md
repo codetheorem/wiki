@@ -75,3 +75,5 @@ All files need to be stored in a location where all the team have easy access to
 
 
 
+
+[All in all, i think it is a good start, but we have to set more rigid rules. I would suggest following the guide I posted: https://www.dtelepathy.com/blog/design/25-best-practices-collaborative-work-photoshop, and check the screenshots (maybe just using those could be good). They have very easy to understand rules for collaboration and many rules that we can apply here as well -- cynthia]
