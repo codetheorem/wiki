@@ -76,4 +76,7 @@ All files need to be stored in a location where all the team have easy access to
 
 
 
-[All in all, i think it is a good start, but we have to set more rigid rules. I would suggest following the guide I posted: https://www.dtelepathy.com/blog/design/25-best-practices-collaborative-work-photoshop, and check the screenshots (maybe just using those could be good). They have very easy to understand rules for collaboration and many rules that we can apply here as well -- cynthia]
+[All in all, i think it is a good start, but we have to set more rigid rules. I would suggest following the guide I posted: https://www.dtelepathy.com/blog/design/25-best-practices-collaborative-work-photoshop, and check the screenshots (maybe just using those could be good). They have very easy to understand rules for collaboration and many rules that we can apply here as well.
+
+
+Check in rule number 16 of the document I sent you, that rule is really important. Adding a layer style of type "color overlay" should be the lassst option always!, always replace the color of the vector layer -- cynthia]
