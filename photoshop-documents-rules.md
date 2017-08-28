@@ -11,6 +11,8 @@ In case the height of the document is not enough for a certain project it’s po
 Each page will be displayed on a different Artboard. 
 Artboards must always have a name, the more specific you the better because InVision and other software generate screens from artboards use the names from Photoshop.
 
+[CAN YOU GIVE AN EXAMPLE OF GOOD NAMING, AND ONE OF BAD NAMING? -- cynthia]
+
 **3) Layers**
 
 Layers should always be named with the name of the description and the kind of object;
