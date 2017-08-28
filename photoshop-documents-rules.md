@@ -9,7 +9,7 @@ In case the height of the document is not enough for a certain project it’s po
 **2) Artboards**
 
 Each page will be displayed on a different Artboard. 
-Artboards must always have a name, the more specific you the better because InVision and other software generate screens from artboards use the names from Photoshop.
+Artboards must always have a name, the more specific, the better. InVision and other software generate screens from artboards use the names from Photoshop so be careful how you name your Artboards (MORE INFO NEEDED).
 
 [CAN YOU GIVE AN EXAMPLE OF GOOD NAMING, AND ONE OF BAD NAMING? -- cynthia]
 
