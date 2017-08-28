@@ -20,9 +20,12 @@ for example “home Icon”
 
 **4) Folders**
 
-- Each layer must always be put inside a folder. The folder should group objects inside the same conceptual area. For example the folder “header” will contain all layers that contain objects that are inside the header area. 
-- Inside the header folder there will be subfolders that will group layers that compose an  object. For example the username and the icon next to it will be grouped in the same subfolder.
 - Folders have to be always named.
+- Each layer must always be put inside a folder. The folder should group objects inside the same conceptual area. For example, the folder “header” will contain all layers that contain objects that are inside the header area. 
+- Inside the header folder, there will be subfolders that will group layers that compose an object. For example, the username and the icon next to it will be grouped in the same subfolder.
+
+
+[I THINK WE NEED TO DESCRIBE THE HTML5 STRUCTURE FOR FOLDER BETTER. MAKE SURE EVERYONE UNDERSTAND THE BASIC HTML5 STRUCTURE WE NEED TO FOLLOW: HEADER, SECTION, NAV, AND FOOTER. INSIDE OF THOSE, WE NEED TO GROUP THE COMPONENTS IN FOLDERS AS WELL, USING THE EXAMPLE YOU GAVE OF THE USERNAME INSIDE THE HEADER. -- CYNTHIA]
 
 **5) Smart objects**
 
