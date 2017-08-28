@@ -20,7 +20,7 @@ for example “home Icon”
 
 **4) Folders**
 
-- Each layers must always be put inside a folder. The folder should group objects inside the same conceptual area. For example the folder “header” will contain all layers that contain objects that are inside the header area. 
+- Each layer must always be put inside a folder. The folder should group objects inside the same conceptual area. For example the folder “header” will contain all layers that contain objects that are inside the header area. 
 - Inside the header folder there will be subfolders that will group layers that compose an  object. For example the username and the icon next to it will be grouped in the same subfolder.
 - Folders have to be always named.
 
