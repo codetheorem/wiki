@@ -30,23 +30,26 @@ for example “home Icon”
 **5) Smart objects**
 
 Certain elements like Header or Footer will repeat on every artboard, to facilitate the process and to be able to apply changes at once across all artboards use a “Smart Object”.
-Therefore common elements will be converted in “Smart Object” and inserted into a specific library  in order for them to be replicated in a fast way, without error, and by automatically propagating changes across all artboards which use the Smart Object.
+Therefore common elements will be converted into “Smart Objects” and inserted into a specific library in order for them to be replicated in a fast way, without error, and by automatically propagating changes across all artboards which use the Smart Object.
 
 *this also means to be very careful with existing smart objects since they may affect not only the document you’re working on, but also other file(s) from other team members.*
 
 **6) Colors**
 
-We will use color labels on folders and layers to communicate a state of an element ( folder or layer )using the following scheme:
-RED = the element is already defined don’t change it.
+We will use colored labels on folders and layers to communicate a state of an element (folder or layer) using the following scheme:
+RED = the element is already defined don’t change it. 
 GRAY = an experiment, just a test
 GREEN = work in progress
 YELLOW = ready for review
 BLUE = just a place holder
 VIOLET = need to be changed
 
+[I DONT LIKE IT SO MUCH... RED IS DANGER, I THINK IT SHOULD BE GREEN THE DONE, AND RED THE WORK IN PROGRESS -- CYNTHIA]
+[IN THE OTHER HAND, I DONT THINK WE NEED SOMETHING LIKE THIS, BECAUSE IN THE END WHEN WE FINISH A PSD FILE, EVERYTHING SHOULD BE DONE, AND THEN WE WOULD SEE THE PSD FILE FROM INSIDE, MEANING, HAVING THE STATE OF THE WORK IN PROGRESS INSIDE THE FILE WOULD MAKE IT COMPLICATED. THAT SHOULD BE TRACKED IN TRELLO IF SOMETHING IS NOT YET FINISHED. WHAT I WOULD RECOMMEND IS USING THIS GUIDE FOR COLORS: https://www.dtelepathy.com/blog/design/25-best-practices-collaborative-work-photoshop]
+
 **7) Libraries**
 
-All the common elements will be stored in our Adobe shared library for a faster and consistant design. 
+All the common elements will be stored in our Adobe shared library for a faster and consistent design. 
 The elements are:
 - Colors
 - Logos
@@ -55,13 +58,19 @@ The elements are:
 - Graphic objects
 - Icons
 
+[I LIKE THE PLAN, BUT WE NEED TO HAVE AN STRATEGY FOR THIS FIRST, WHICH IM MISSING HERE. FOR EXAMPLE, IF I MAKE SOMETHING, WOULD THAT MEAN I CAN JUST UPLOAD IT TO THE LIBRARY? NO!! WE CAN ONLY UPLOAD ITEMS TO THE LIBRARY WHEN THEY ARE DONE AND APPROVED. I WOULD REMOVE THIS RULE NOW BECAUSE IT WOULD ONLY ADD UNCERTAINTY. I WOULD SUGGEST THAT THE LIBRARY IS TAKEN CARE OF WHEN, AND UPDATED, ONCE WE MOVE CARDS TO DONE AND WE KNOW FOR SURE THAT THIS IS THE FINAL DESIGN AND THERE WILL BE NO RE-DESIGN OF THE PIECE -- CYNTHIA]
+
 **8) Layers modification**
 
 Never rasterize a layer and always chose effect in line with the possibilities the media, be it html5/css3 or static images. 
 
+[I HONESTLY DONT UNDERSTAND THIS RULE; I GET THAT WE DONT WANT TO RASTERIZE LAYERS, 100% AGREE WITH THAT ONE. BUT THE MENTION OF HTML5 AND MEDIA IS UNCLEAR TO ME -- CYNTHIA]
+
 **9) Location of the file**
 
 All files need to be stored in a location where all the team have easy access to. Invision allows you to upload the assets of a prototype.
+
+[MAKE IT CLEAR THAT WE HAVE TO USE INVISION. IT READS AS IF IT WAS A SUGGESTION ONLY :) -- CYNTHIA]
 
 
 
