@@ -10,5 +10,5 @@ The following documentation defines the Design System used to deliver UX, UI, fr
 ## Developing the EOS project:
 
 - [Naming conventions for new branches](naming-conventions-for-new-branches)
-- [Pull requests, approvals, and merging to Master](https://gitlab.com/SUSE-UIUX/eos/wikis/pull-requests,-approvals,-and-merging-to-master)
-- (Deployments and versioning releases with tags)[]
+- [Pull requests, approvals, and merging to Master](pull-requests,-approvals,-and-merging-to-master)
+- [Deployments and versioning releases with tags](deployments-and-versioning-releases-with-tags)
