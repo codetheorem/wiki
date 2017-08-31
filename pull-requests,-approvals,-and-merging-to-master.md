@@ -7,3 +7,12 @@ These are some basic general rules for creating PRs (pull requests) in git, plus
   b. You want to test that CI is green as you continue making commits to the branch. In this case, please make sure you only do it for a limited time and only when your branch is closer to be finished, otherwise, you will be slowing down the CI queue for other PR in vain.
 
 2. Use as a suffix the ID of the trello card you are working on, e.g.: **Create documentation for delivery strategy. 3**, where 3 is the ID of the card in trello:  https://trello.com/c/Q4o4qz67/3-implement-and-document-a-non-disruptive-delivery-strategy. This will help us in a future identify the PR that solved a specific card in our Roadmap.
+
+3. Request someone to review your PR. Depending on the nature of your PR, whether you are modifying just code, or code and UI, you will need the approval from a UX/UI designer or a developer, or both. 
+  - People allowed to approve code: Richa Bisht, Cynthia Sanchez, Jesus Herman. 
+  - People allowed to approve UX/UI: if you are implementing a design that was already designed by someone, you must request the approval of the same designer. If you are making changes/fixed in the UI/UX yourself, you can request approval to: Cynthia Sanchez, Manuele Carlini, Kenneth Wimer.
+
+4. On top of the UX/UI or code approval, you will need the approval of PO (Cynthia Sanchez) or PO deputy (Kenneth Wimer)
+
+# Being assigned to a PR and approving it
+
