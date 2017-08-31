@@ -11,3 +11,13 @@ They are:
 6. Front-end
 
 This theme will be easy for you to find out since it will be part of the card you are working on. If the card you are working on has no theme, then this card is not properly following the **Definition of Ready** and it should be moved back to the backlog column **New cards**
+
+## Using Fork for Mac?
+
+Download from: https://git-fork.com/
+
+If you do, you will notice that using the slash character naming branches makes it very easy to navigate through branches since it will show you folders for all the pre-slash names, themes in our case. In fork you will see something like this:
+
+![image](/uploads/400f5b5bd2168c776a69f245f2b05caa/image.png)
+
+
