@@ -2,13 +2,13 @@ When using Photoshop to create a document that will present the user interface o
 
 **1) Creating a new photoshop document**
 
-When creating a new document Photoshop proposes to choose among different formats: 
+When creating a new document Photoshop proposes to choose among different formats:
 the one to choose is “Web” because it has “Art boards”,  choose a width of 1366x768 pixels @72 ppi, RGB.
 In case the height of the document is not enough for a certain project it’s possible to increase it, but only on a specific artboard and not across the whole document.
 
 **2) Artboards**
 
-Each page will be displayed on a different Artboard. 
+Each page will be displayed on a different Artboard.
 Artboards must always have a name, the more specific, the better. InVision and other software generate screens from artboards use the names from Photoshop so be careful how you name your Artboards (MORE INFO NEEDED).
 
 [CAN YOU GIVE AN EXAMPLE OF GOOD NAMING, AND ONE OF BAD NAMING? -- cynthia]
@@ -21,7 +21,7 @@ for example “home Icon”
 **4) Folders**
 
 - Folders have to be always named.
-- Each layer must always be put inside a folder. The folder should group objects inside the same conceptual area. For example, the folder “header” will contain all layers that contain objects that are inside the header area. 
+- Each layer must always be put inside a folder. The folder should group objects inside the same conceptual area. For example, the folder “header” will contain all layers that contain objects that are inside the header area.
 - Inside the header folder, there will be subfolders that will group layers that compose an object. For example, the username and the icon next to it will be grouped in the same subfolder.
 
 
@@ -37,7 +37,7 @@ Therefore common elements will be converted into “Smart Objects” and inserte
 **6) Colors**
 
 We will use colored labels on folders and layers to communicate a state of an element (folder or layer) using the following scheme:
-RED = the element is already defined don’t change it. 
+RED = the element is already defined don’t change it.
 GRAY = an experiment, just a test
 GREEN = work in progress
 YELLOW = ready for review
@@ -49,7 +49,7 @@ VIOLET = need to be changed
 
 **7) Libraries**
 
-All the common elements will be stored in our Adobe shared library for a faster and consistent design. 
+All the common elements will be stored in our Adobe shared library for a faster and consistent design.
 The elements are:
 - Colors
 - Logos
@@ -62,16 +62,13 @@ The elements are:
 
 **8) Layers modification**
 
-Never rasterize a layer and always chose effect in line with the possibilities the media, be it html5/css3 or static images. 
+Never rasterize a layer and always chose effect in line with the possibilities the media, be it html5/css3 or static images.
 
 [I HONESTLY DONT UNDERSTAND THIS RULE; I GET THAT WE DONT WANT TO RASTERIZE LAYERS, 100% AGREE WITH THAT ONE. BUT THE MENTION OF HTML5 AND MEDIA IS UNCLEAR TO ME -- CYNTHIA]
 
 **9) Location of the file**
 
 All files need to be stored in a location where all the team have easy access to. Invision allows you to upload the assets of a prototype.
-
-[MAKE IT CLEAR THAT WE HAVE TO USE INVISION. IT READS AS IF IT WAS A SUGGESTION ONLY :) -- CYNTHIA]
-
 
 
 
