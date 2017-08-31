@@ -12,6 +12,8 @@ They are:
 
 This theme will be easy for you to find out since it will be part of the card you are working on. If the card you are working on has no theme, then this card is not properly following the **Definition of Ready** and it should be moved back to the backlog column **New cards**
 
+Using the slash character to separate Theme and Branch-name will, in the end, be detected by most git software, including gitlab, as a directory/file format.
+
 ## Using Fork for Mac?
 
 Download from: https://git-fork.com/
