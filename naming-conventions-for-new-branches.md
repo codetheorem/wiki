@@ -20,4 +20,6 @@ If you do, you will notice that using the slash character naming branches makes 
 
 ![image](/uploads/400f5b5bd2168c776a69f245f2b05caa/image.png)
 
+# Avoid conflicts
 
+You can't have both a file and a directory with the same name. This means you should never name a branch simply **UX** because it will cause conflicts with all the other branches that are named **UX/branch-name**, **UX/main-navigation**, etc.
