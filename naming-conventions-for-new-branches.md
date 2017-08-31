@@ -12,7 +12,7 @@ They are:
 
 This theme will be easy for you to find out since it will be part of the card you are working on. If the card you are working on has no theme, then this card is not properly following the **Definition of Ready** and it should be moved back to the backlog column **New cards**
 
-Using the slash character to separate Theme and Branch-name will, in the end, be detected by most git software, as a directory/file format.
+Using the slash character to separate Theme and Branch-name will, in the end, be detected by most git software, as a directory/file format, improving the browsing of extensive lists of branches for later review.
 
 ## Using Fork for Mac?
 
