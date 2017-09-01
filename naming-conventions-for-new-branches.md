@@ -18,10 +18,10 @@ Using the slash character to separate Theme and Branch-name will, in the end, be
 
 Download from: https://git-fork.com/
 
-If you do, you will notice that using the slash character naming branches makes it very easy to navigate through branches since it will show you folders for all the pre-slash names, themes in our case. In fork you will see something like this:
+If you do, you will notice that using the slash character when naming branches makes it very easy to navigate through branches since it will show you folders for all the pre-slash names, themes in our case. In fork you will see something like this:
 
 ![image](/uploads/400f5b5bd2168c776a69f245f2b05caa/image.png)
 
 # Avoid conflicts
 
-You can't have both a file and a directory with the same name. This means you should never name a branch simply **UX** because it will cause conflicts with all the other branches that are named **UX/branch-name**, **UX/main-navigation**, etc.
+Names need to be unique. For example, you can't have both a file and a directory with the same name. This means you should never name a branch simply **UX** because it will cause conflicts with all the other branches that are named **UX/branch-name**, **UX/main-navigation**, etc.
