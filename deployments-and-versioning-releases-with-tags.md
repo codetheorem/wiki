@@ -2,13 +2,13 @@
 
 Our CI is configured to continuously deploy to our staging server (with URL: http://eos-test.herokuapp.com) every time a PR is merged into the Master branch.
 
-All PR should be opened to merge against Master and not any other branch unless specific needs require so.
+All PR's should be opened to merge against Master and not any other branch unless specifically required to do so.
 
 # Tags and versions
 
 Master will always hold the latest and most updated version of our application, although unstable and not ready to be published internally, while stable releases will be tagged and published by our PO (Cynthia Sanchez) when all cards in the **Current (now)** column in the EOS project roadmap are marked as done.
 
-A tag can be created before all items in the roadmap are done if PO suggests there is an important patch or feature our consumers would benefit from having.
+A tag can be created before all items in the roadmap are done if the PO suggests there is an important patch or feature our consumers would benefit from having.
 
 We will follow the Semantic Versioning (http://semver.org/) as follows below:
 
