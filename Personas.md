@@ -6,19 +6,19 @@ Tech+, GUI+++, Windows/Explorer, Age+++, Responsibility+++, Wants to be impresse
 ### Finance Clerk:
 Tech-, GUI+++, Windows/Explorer, Age+/++, Responsibility+, Wants to ensure compliance, deals with organisational aspects of subscriptions
 
-### Advanced Admin
+### Advanced Administrator
 Tech+++, GUI+/CLI+++, Linux/Firefox, Creates POC's, Age++/+++, Responsibility+++ Lead/Architect/Project Owner
 
-### Normal Admin/Technician
+### Normal Administrator/Technician
 Tech++, GUI+++/CLI++, Linux/Firefox & Windows/Firefox, Age+/++, Responsibility++
 
-### Hardware Admin/Technician
+### Hardware Administrator/Technician
 Tech+, GUI+++/CLI+, Linux/Firefox & Windows/Firefox, Age+, Responsibility+
 
-### Network Admin
+### Network Administrator
 Tech+++, GUI++/CLI+++, Linux/Firefox & Windows/Firefox, Creates POC's, Age++, Responsibility+++, Lead/Architect/Project Owner
 
-### Application Dev
+### Application Developer
 Tech+, GUI+++/CLI+, Windows/Chrome, Responsibility+++, Creates/Maintains their own products
 
 ### Desktop User
@@ -29,38 +29,38 @@ All of the above
 ### SCC
 - Business Decider
 - Finance Clerk
-- Advanced Admin
+- Advanced Administrator
 
 ### SUMA
-- Advanced Admin
-- Normal Admin
-- Hardware Admin
+- Advanced Administrator
+- Normal Administrator
+- Hardware Administrator
 
 ### SLES HA
-- Advanced Admin
+- Advanced Administrator
 
 ### SLES SAP
-- Advanced Admin???
-- Normal Admin???
+- Advanced Administrator???
+- Normal Administrator???
 
 ### Cloud
-- Advanced Admin
-- Normal Admin
-- Network Admin
-- Hardware Admin
-- Application Dev
+- Advanced Administrator
+- Normal Administrator
+- Network Administrator
+- Hardware Administrator
+- Application Developer
 
 ### CaaSP
-- Advanced Admin
-- Normal Admin
-- Network Admin
-- Hardware Admin
+- Advanced Administrator
+- Normal Administrator
+- Network Administrator
+- Hardware Administrator
 
 ### PaaS
-- Advanced Admin
-- Normal Admin
-- Network Admin
-- Hardware Admin
+- Advanced Administrator
+- Normal Administrator
+- Network Administrator
+- Hardware Administrator
 
 ### SLES
 - Desktop User (All of the above)
