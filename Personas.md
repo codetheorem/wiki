@@ -63,6 +63,6 @@ All of the above, LibreOffice, Email
 - Hardware Administrator
 
 ### SLES
-- Desktop User (All of the above)
+- Desktop User
 
 
