@@ -22,7 +22,7 @@ Tech+++, GUI++/CLI+++, Linux/Firefox & Windows/Firefox, Creates POC's, Age++, Re
 Tech+, GUI+++/CLI+, Windows/Chrome, Responsibility+++, Creates/Maintains their own products
 
 ### Desktop User
-All of the above
+All of the above, LibreOffice, Email
 
 ## Personas by Product:
 
