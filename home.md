@@ -13,3 +13,4 @@ The following documentation defines the Design System used to deliver UX, UI, fr
 - [Pull requests, approvals, and merging to Master](pull-requests,-approvals,-and-merging-to-master)
 - [Deployments and versioning releases with tags](deployments-and-versioning-releases-with-tags)
 - [Writting CSS/SASS style guide](https://gitlab.com/SUSE-UIUX/eos/wikis/Editing-css-style-guide)
+- [Personas](https://gitlab.com/SUSE-UIUX/eos/wikis/Personas)
