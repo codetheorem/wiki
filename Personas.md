@@ -7,7 +7,7 @@ Tech+, GUI+++, Windows/Explorer, Age+++, Responsibility+++, *Wants to be impress
 Tech-, GUI+++, Windows/Explorer, Age+/++, Responsibility+, *Wants to ensure compliance, deals with organisational aspects of subscriptions*
 
 ### Advanced Administrator
-Tech+++, GUI+/CLI+++, Linux/Firefox, Creates POC's, Age++/+++, Responsibility+++ Lead/Architect/Project Owner
+Tech+++, GUI+/CLI+++, Linux/Firefox, Creates POC's, Age++/+++, Responsibility+++ *Lead/Architect/Project Owner*
 
 ### Normal Administrator/Technician
 Tech++, GUI+++/CLI++, Linux/Firefox & Windows/Firefox, Age+/++, Responsibility++
