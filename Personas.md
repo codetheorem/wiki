@@ -1,4 +1,4 @@
-## List of Current Personas Across all Products
+# List of Current Personas of all Products
 
 ### Business Decider:
 Tech+, GUI+++, Windows/Explorer, Age+++, Wants to be impressed and think that there is money to be saved/made
