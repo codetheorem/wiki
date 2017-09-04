@@ -138,7 +138,7 @@ G**UI vs CLI**
 
 ## Personas by Product:
 
-### SCC
+#### SCC
 - Business Decider
 - Finance Clerk
 - Advanced Administrator
