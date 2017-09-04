@@ -89,7 +89,26 @@ Responsibility
 
 
 ## Hardware Administrator/Technician
-Tech+, GUI+++/CLI+, Linux/Firefox & Windows/Firefox, Age+, Responsibility+
+***Uses Linux/Firefox & Windows/Firefox***
+
+
+Technical Knowledge
+
+![0-33](/uploads/58f62592475daf6dc67af722ffbb3ce2/0-33.png)
+
+GUI vs CLI
+
+
+![0-33](/uploads/58f62592475daf6dc67af722ffbb3ce2/0-33.png)
+
+Age
+
+![0](/uploads/329948c3cf97485979ffcd8af218d30a/0.png)
+
+Responsibility
+
+![0](/uploads/329948c3cf97485979ffcd8af218d30a/0.png)
+
 
 ## Network Administrator
 Tech+++, GUI++/CLI+++, Linux/Firefox & Windows/Firefox, Age++, Responsibility+++, *Creates POC's, Lead/Architect/Project Owner*
