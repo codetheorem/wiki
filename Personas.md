@@ -1,13 +1,8 @@
 # List of Current Personas of all Products
-
-### Business Decider
-
+## Business Decider
 >  Uses Windows/Explorer. Wants to be impressed and think that there is money to be saved/made.
-
 Technical Knowledge
-
 ![0-33](/uploads/58f62592475daf6dc67af722ffbb3ce2/0-33.png)
-
 GUI vs CLI
 
 ![0](/uploads/329948c3cf97485979ffcd8af218d30a/0.png)
@@ -20,9 +15,7 @@ Responsibility
 
 ![66-100](/uploads/59ea0ebb99aedb32dbba00c216a0bcc5/66-100.png)
 
-
-
-### Finance Clerk
+## Finance Clerk
 >  Uses Windows/Explorer. Wants to ensure compliance, deals with organisational aspects of subscriptions.
 
 Technical Knowledge
