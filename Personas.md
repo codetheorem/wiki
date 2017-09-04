@@ -4,7 +4,7 @@
 
 ![100](/uploads/81bb6489680429fefd24d049a01e6cde/100.png)
 
-### Business Decider
+## Business Decider
 ***Uses Windows/Explorer. Wants to be impressed and think that there is money to be saved/made.***
 
 Technical Knowledge
@@ -24,7 +24,7 @@ Responsibility
 ![66-100](/uploads/59ea0ebb99aedb32dbba00c216a0bcc5/66-100.png)
 
 
-### Finance Clerk
+## Finance Clerk
 ***Uses Windows/Explorer. Wants to ensure compliance, deals with organisational aspects of subscriptions.***
 
 Technical Knowledge
@@ -44,7 +44,7 @@ Responsibility
 ![0-33](/uploads/58f62592475daf6dc67af722ffbb3ce2/0-33.png)
 
 
-### Advanced Administrator
+## Advanced Administrator
 ***Uses Linux/Firefox, Creates POC's and is a Lead/Architect/Project Owner***
 
 Technical Knowledge
@@ -65,19 +65,19 @@ Responsibility
 
 
 
-### Normal Administrator/Technician
+## Normal Administrator/Technician
 Tech++, GUI+++/CLI++, Linux/Firefox & Windows/Firefox, Age+/++, Responsibility++
 
-### Hardware Administrator/Technician
+## Hardware Administrator/Technician
 Tech+, GUI+++/CLI+, Linux/Firefox & Windows/Firefox, Age+, Responsibility+
 
-### Network Administrator
+## Network Administrator
 Tech+++, GUI++/CLI+++, Linux/Firefox & Windows/Firefox, Age++, Responsibility+++, *Creates POC's, Lead/Architect/Project Owner*
 
-### Application Developer
+## Application Developer
 Tech+, GUI+++/CLI+, Windows/Chrome, Responsibility+++, *Creates/Maintains their own products*
 
-### Desktop User
+## Desktop User
 All of the above, LibreOffice, Email
 
 ## Personas by Product:
