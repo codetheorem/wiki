@@ -31,6 +31,7 @@ Responsibility
 
 
 ### Finance Clerk
+***Uses Windows/Explorer. Wants to ensure compliance, deals with organisational aspects of subscriptions.***
 
 Technical Knowledge
 
@@ -44,7 +45,10 @@ Age
 
 ![33-100](/uploads/bd961846313c3e3fe82e7c25962e7197/33-100.png)
 
- Windows/Explorer,  Responsibility+, *Wants to ensure compliance, deals with organisational aspects of subscriptions*
+Responsiblity
+
+![0-33](/uploads/58f62592475daf6dc67af722ffbb3ce2/0-33.png)
+
 
 ### Advanced Administrator
 Tech+++, GUI+/CLI+++, Linux/Firefox, Creates POC's, Age++/+++, Responsibility+++ *Lead/Architect/Project Owner*
