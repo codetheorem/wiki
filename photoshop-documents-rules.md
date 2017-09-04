@@ -14,7 +14,15 @@ Artboards must always have a name, the more specific, the better. InVision and o
 **3) Layers**
 
 Layers should always be named with the name of the description and the kind of object;
-for example “home Icon”
+for example the logo on the top of the header should be called "top-right-logo-icon". 
+Layers named like "layer 32" or "logo" should not exists.
+
+The layers structure should reflect the actually format of the application.
+For example the folder "heather" should be on the top and the folder "footer"on the bottom.
+
+Hidden layer should exists only when a part of a document needed to be hidden, if I layer has not function should be deleted.
+
+
 
 **4) Folders**
 
