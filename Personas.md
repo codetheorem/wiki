@@ -76,7 +76,7 @@ Responsibility
 ![33-66](/uploads/bd4352ca8821c99a974d0fea5f801ea4/33-66.png)
 
 ## Hardware Administrator/Technician
-***Uses Linux/Firefox & Windows/Firefox***
+***Uses Linux/Firefox & Windows/Firefox. Acts upon requests/approval from other Administrators***
 
 Technical Knowledge
 
