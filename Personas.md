@@ -108,14 +108,30 @@ GUI vs CLI
 
 Age
 
-![33-100](/uploads/bd961846313c3e3fe82e7c25962e7197/33-100.png)
+![33-66](/uploads/bd4352ca8821c99a974d0fea5f801ea4/33-66.png)
 
 Responsibility
 
 ![66-100](/uploads/59ea0ebb99aedb32dbba00c216a0bcc5/66-100.png)
 
 ## Application Developer
-Tech+, GUI+++/CLI+, Windows/Chrome, Responsibility+++, *Creates/Maintains their own products*
+***Uses Linux/Firefox & Windows/Firefox, Creates/Maintains their own products***
+
+Technical Knowledge
+
+![0-66](/uploads/f235bf9d68ce308b53fb2be740397911/0-66.png)
+
+GUI vs CLI
+
+![0-33](/uploads/58f62592475daf6dc67af722ffbb3ce2/0-33.png)
+
+Age
+
+![0-66](/uploads/f235bf9d68ce308b53fb2be740397911/0-66.png)
+
+Responsibility
+
+![100](/uploads/81bb6489680429fefd24d049a01e6cde/100.png)
 
 ## Desktop User
 All of the above, LibreOffice, Email
