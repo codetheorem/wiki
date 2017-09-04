@@ -2,16 +2,31 @@
 
 ![0-66](/uploads/f235bf9d68ce308b53fb2be740397911/0-66.png)
 
-![0-33](/uploads/58f62592475daf6dc67af722ffbb3ce2/0-33.png)
-
 ![33-100](/uploads/bd961846313c3e3fe82e7c25962e7197/33-100.png)
 
 ![33-66](/uploads/bd4352ca8821c99a974d0fea5f801ea4/33-66.png)
 
-![66-100](/uploads/59ea0ebb99aedb32dbba00c216a0bcc5/66-100.png)
+
 
 ### Business Decider
-Tech+, GUI+++, Windows/Explorer, Age+++, Responsibility+++, *Wants to be impressed and think that there is money to be saved/made*
+Technical Knowledge
+
+![0-33](/uploads/58f62592475daf6dc67af722ffbb3ce2/0-33.png)
+
+GUI vs CLI
+
+![0-33](/uploads/58f62592475daf6dc67af722ffbb3ce2/0-33.png)
+
+Age
+
+![66-100](/uploads/59ea0ebb99aedb32dbba00c216a0bcc5/66-100.png)
+
+Responsibility
+
+![66-100](/uploads/59ea0ebb99aedb32dbba00c216a0bcc5/66-100.png)
+
+Uses Windows/Explorer. Wants to be impressed and think that there is money to be saved/made.
+
 
 ### Finance Clerk
 Tech-, GUI+++, Windows/Explorer, Age+/++, Responsibility+, *Wants to ensure compliance, deals with organisational aspects of subscriptions*
