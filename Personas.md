@@ -1,4 +1,6 @@
 # List of Current Personas of all Products
+
+
 ## Business Decider
 ***Uses Windows/Explorer. Wants to be impressed and think that there is money to be saved/made.***
 
@@ -17,6 +19,8 @@ Age
 Responsibility
 
 ![66-100](/uploads/59ea0ebb99aedb32dbba00c216a0bcc5/66-100.png)
+
+
 
 ## Finance Clerk
 ***Uses Windows/Explorer. Wants to ensure compliance, deals with organisational aspects of subscriptions.***
