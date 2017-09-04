@@ -7,6 +7,7 @@
 ## Business Decider
 ***Uses Windows/Explorer. Wants to be impressed and think that there is money to be saved/made.***
 
+
 Technical Knowledge
 
 ![0-33](/uploads/58f62592475daf6dc67af722ffbb3ce2/0-33.png)
@@ -27,6 +28,7 @@ Responsibility
 ## Finance Clerk
 ***Uses Windows/Explorer. Wants to ensure compliance, deals with organisational aspects of subscriptions.***
 
+
 Technical Knowledge
 
 ![0](/uploads/329948c3cf97485979ffcd8af218d30a/0.png)
@@ -46,6 +48,7 @@ Responsibility
 
 ## Advanced Administrator
 ***Uses Linux/Firefox, Creates POC's and is a Lead/Architect/Project Owner***
+
 
 Technical Knowledge
 
