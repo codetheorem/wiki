@@ -519,14 +519,14 @@ No heights on anything that contains text. Components should be flexible and the
 ```scss
 /* Good - no width specified */
 
-.calloutContent {
+.callout-content {
   border: 1px solid @callout-border-color;
   background: @callout-bg;
 }
 
 /* Bad - dimension specified */
 
-.calloutContent {
+.callout-content {
   width: 200px;
   height: 150px;
   border: 1px solid @callout-border-color;
