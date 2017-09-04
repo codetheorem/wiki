@@ -18,6 +18,8 @@
 
 ![66-100](/uploads/59ea0ebb99aedb32dbba00c216a0bcc5/66-100.png)
 
+
+
 ## Finance Clerk
 >  Uses Windows/Explorer. Wants to ensure compliance, deals with organisational aspects of subscriptions.
 
