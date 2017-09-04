@@ -1,17 +1,11 @@
 # List of Current Personas of all Products
 
-![0-66](/uploads/f235bf9d68ce308b53fb2be740397911/0-66.png)
-
-
-
 ![33-66](/uploads/bd4352ca8821c99a974d0fea5f801ea4/33-66.png)
-
-
 
 ![100](/uploads/81bb6489680429fefd24d049a01e6cde/100.png)
 
 ### Business Decider
-**Uses Windows/Explorer. Wants to be impressed and think that there is money to be saved/made.**
+***Uses Windows/Explorer. Wants to be impressed and think that there is money to be saved/made.***
 
 Technical Knowledge
 
@@ -43,15 +37,33 @@ GUI vs CLI
 
 Age
 
-![33-100](/uploads/bd961846313c3e3fe82e7c25962e7197/33-100.png)
+![0-66](/uploads/f235bf9d68ce308b53fb2be740397911/0-66.png)
 
-Responsiblity
+Responsibility
 
 ![0-33](/uploads/58f62592475daf6dc67af722ffbb3ce2/0-33.png)
 
 
 ### Advanced Administrator
-Tech+++, GUI+/CLI+++, Linux/Firefox, Creates POC's, Age++/+++, Responsibility+++ *Lead/Architect/Project Owner*
+***Uses Linux/Firefox, Creates POC's and is a Lead/Architect/Project Owner***
+
+Technical Knowledge
+
+![66-100](/uploads/59ea0ebb99aedb32dbba00c216a0bcc5/66-100.png)
+
+GUI vs CLI
+
+![66-100](/uploads/59ea0ebb99aedb32dbba00c216a0bcc5/66-100.png)
+
+Age
+
+![33-100](/uploads/bd961846313c3e3fe82e7c25962e7197/33-100.png)
+
+Responsibility
+
+![66-100](/uploads/59ea0ebb99aedb32dbba00c216a0bcc5/66-100.png)
+
+
 
 ### Normal Administrator/Technician
 Tech++, GUI+++/CLI++, Linux/Firefox & Windows/Firefox, Age+/++, Responsibility++
