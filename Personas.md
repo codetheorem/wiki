@@ -1,8 +1,6 @@
 # List of Current Personas of all Products
 
-![33-66](/uploads/bd4352ca8821c99a974d0fea5f801ea4/33-66.png)
 
-![100](/uploads/81bb6489680429fefd24d049a01e6cde/100.png)
 
 ## Business Decider
 ***Uses Windows/Explorer. Wants to be impressed and think that there is money to be saved/made.***
@@ -69,7 +67,26 @@ Responsibility
 
 
 ## Normal Administrator/Technician
-Tech++, GUI+++/CLI++, Linux/Firefox & Windows/Firefox, Age+/++, Responsibility++
+***Linux/Firefox & Windows/Firefox***
+
+
+Technical Knowledge
+
+![33-66](/uploads/bd4352ca8821c99a974d0fea5f801ea4/33-66.png)
+
+GUI vs CLI
+
+![33-66](/uploads/bd4352ca8821c99a974d0fea5f801ea4/33-66.png)
+
+Age
+
+![0-33](/uploads/58f62592475daf6dc67af722ffbb3ce2/0-33.png)
+
+Responsibility
+
+![33-66](/uploads/bd4352ca8821c99a974d0fea5f801ea4/33-66.png)
+
+
 
 ## Hardware Administrator/Technician
 Tech+, GUI+++/CLI+, Linux/Firefox & Windows/Firefox, Age+, Responsibility+
