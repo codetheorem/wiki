@@ -104,7 +104,7 @@
 
 **GUI vs CLI**
 
-![66-100](/uploads/59ea0ebb99aedb32dbba00c216a0bcc5/66-100.png)
+![33-100](/uploads/bd961846313c3e3fe82e7c25962e7197/33-100.png)
 
 **Age**
 
