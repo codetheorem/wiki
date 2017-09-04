@@ -5,7 +5,7 @@ By **Theme** we mean you need to use one of the 6th different themes (or Trello 
 They are:
 1. UX
 2. UI
-3. Operations
+3. Ops
 4. Engagement
 5. Training
 6. Front-end
