@@ -2,11 +2,11 @@
 
 ![0-66](/uploads/f235bf9d68ce308b53fb2be740397911/0-66.png)
 
-![33-100](/uploads/bd961846313c3e3fe82e7c25962e7197/33-100.png)
+
 
 ![33-66](/uploads/bd4352ca8821c99a974d0fea5f801ea4/33-66.png)
 
-![0](/uploads/329948c3cf97485979ffcd8af218d30a/0.png)
+
 
 ![100](/uploads/81bb6489680429fefd24d049a01e6cde/100.png)
 
@@ -31,7 +31,20 @@ Responsibility
 
 
 ### Finance Clerk
-Tech-, GUI+++, Windows/Explorer, Age+/++, Responsibility+, *Wants to ensure compliance, deals with organisational aspects of subscriptions*
+
+Technical Knowledge
+
+![0](/uploads/329948c3cf97485979ffcd8af218d30a/0.png)
+
+GUI vs CLI
+
+![0](/uploads/329948c3cf97485979ffcd8af218d30a/0.png)
+
+Age
+
+![33-100](/uploads/bd961846313c3e3fe82e7c25962e7197/33-100.png)
+
+ Windows/Explorer,  Responsibility+, *Wants to ensure compliance, deals with organisational aspects of subscriptions*
 
 ### Advanced Administrator
 Tech+++, GUI+/CLI+++, Linux/Firefox, Creates POC's, Age++/+++, Responsibility+++ *Lead/Architect/Project Owner*
