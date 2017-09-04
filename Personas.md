@@ -1,4 +1,4 @@
-# List of Current Personas of all Products
+# List of Current Personas
 
 
 ## Business Decider
