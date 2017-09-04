@@ -9,6 +9,8 @@
 
 
 ### Business Decider
+#### Uses Windows/Explorer. Wants to be impressed and think that there is money to be saved/made.
+
 Technical Knowledge
 
 ![0-33](/uploads/58f62592475daf6dc67af722ffbb3ce2/0-33.png)
@@ -24,8 +26,6 @@ Age
 Responsibility
 
 ![66-100](/uploads/59ea0ebb99aedb32dbba00c216a0bcc5/66-100.png)
-
-Uses Windows/Explorer. Wants to be impressed and think that there is money to be saved/made.
 
 
 ### Finance Clerk
