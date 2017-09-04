@@ -148,7 +148,7 @@
 <br>
 
 ## Desktop User
-**All of the above, + LibreOffice & Email****
+***All of the above, + LibreOffice & Email***
 
 ## Personas by Product:
 
