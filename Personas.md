@@ -17,7 +17,6 @@
 **Responsibility**
 
 ![66-100](/uploads/59ea0ebb99aedb32dbba00c216a0bcc5/66-100.png)
-
 <br>
 
 ## Finance Clerk
@@ -38,6 +37,7 @@
 **Responsibility**
 
 ![0-33](/uploads/58f62592475daf6dc67af722ffbb3ce2/0-33.png)
+<br>
 
 ## Advanced Administrator
 >  Uses Linux/Firefox, Creates POC's and is a Lead/Architect/Project Owner
@@ -57,6 +57,7 @@
 **Responsibility**
 
 ![66-100](/uploads/59ea0ebb99aedb32dbba00c216a0bcc5/66-100.png)
+<br>
 
 ## Normal Administrator/Technician
 >  Uses Linux/Firefox & Windows/Firefox. CLI usage is a norm but GUI is preferred.
@@ -76,6 +77,7 @@
 **Responsibility**
 
 ![33-66](/uploads/bd4352ca8821c99a974d0fea5f801ea4/33-66.png)
+<br>
 
 ## Hardware Administrator/Technician
 >  Uses Linux/Firefox & Windows/Firefox. Acts upon requests/approval from other Administrators
@@ -95,7 +97,7 @@
 **Responsibility**
 
 ![0](/uploads/329948c3cf97485979ffcd8af218d30a/0.png)
-
+<br>
 
 ## Network Administrator
 >  Uses Linux/Firefox & Windows/Firefox, Creates POC's and is a Lead/Architect/Project Owner
@@ -115,6 +117,7 @@
 **Responsibility**
 
 ![66-100](/uploads/59ea0ebb99aedb32dbba00c216a0bcc5/66-100.png)
+<br>
 
 ## Application Developer
 >  Uses Linux/Firefox & Windows/Firefox, Creates/Maintains their own products
@@ -134,6 +137,7 @@
 **Responsibility**
 
 ![100](/uploads/81bb6489680429fefd24d049a01e6cde/100.png)
+<br>
 
 ## Desktop User
 **All of the above, + LibreOffice & Email****
