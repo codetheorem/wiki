@@ -102,7 +102,7 @@
 
 ![66-100](/uploads/59ea0ebb99aedb32dbba00c216a0bcc5/66-100.png)
 
-G**UI vs CLI**
+**GUI vs CLI**
 
 ![66-100](/uploads/59ea0ebb99aedb32dbba00c216a0bcc5/66-100.png)
 
