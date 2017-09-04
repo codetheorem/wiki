@@ -533,3 +533,22 @@ No heights on anything that contains text. Components should be flexible and the
   background: @callout-bg;
 }
 ```
+
+
+#### Single quotes
+
+Don't use double quotes in properties values
+
+```scss
+/* Good */
+
+.callout-content {
+  content: 'some text to display';
+}
+
+/* Bad */
+
+.callout-content {
+  content: "some text to display";
+}
+```
