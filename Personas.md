@@ -134,7 +134,7 @@ Responsibility
 ![100](/uploads/81bb6489680429fefd24d049a01e6cde/100.png)
 
 ## Desktop User
-All of the above, LibreOffice, Email
+All of the above, + LibreOffice & Email
 
 ## Personas by Product:
 
