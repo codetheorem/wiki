@@ -18,7 +18,7 @@ GUI vs CLI
 
 Age
 
-![66-100](/uploads/59ea0ebb99aedb32dbba00c216a0bcc5/66-100.png)
+![100](/uploads/81bb6489680429fefd24d049a01e6cde/100.png)
 
 Responsibility
 
