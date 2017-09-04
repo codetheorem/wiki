@@ -67,7 +67,7 @@ Responsibility
 
 
 ## Normal Administrator/Technician
-***Linux/Firefox & Windows/Firefox***
+***Uses Linux/Firefox & Windows/Firefox. CLI usage is a norm but GUI is preferred.***
 
 
 Technical Knowledge
