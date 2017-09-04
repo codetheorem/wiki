@@ -1,5 +1,5 @@
 # List of Current Personas
-
+<br>
 
 ## Business Decider
 >  Uses Windows/Explorer. Wants to be impressed and think that there is money to be saved/made.
