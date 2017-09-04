@@ -150,6 +150,8 @@
 ## Desktop User
 ***All of the above, + LibreOffice & Email***
 
+<br>
+
 ## Personas by Product:
 
 #### SCC
