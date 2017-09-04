@@ -1,9 +1,12 @@
 # List of Current Personas of all Products
 ## Business Decider
 >  Uses Windows/Explorer. Wants to be impressed and think that there is money to be saved/made.
-Technical Knowledge
+
+**Technical Knowledge**
+
 ![0-33](/uploads/58f62592475daf6dc67af722ffbb3ce2/0-33.png)
-GUI vs CLI
+
+**GUI vs CLI**
 
 ![0](/uploads/329948c3cf97485979ffcd8af218d30a/0.png)
 
