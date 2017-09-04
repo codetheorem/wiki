@@ -16,3 +16,11 @@ These are some basic general rules for creating PRs (pull requests) in git, plus
 
 # Being assigned to a PR and approving it
 
+When being assigned to a PR, you must:
+- Verify the work done in the UI, by pulling the changes and running the server locally to then be able to verify the implementation satisfies all requirements in the UI.
+- Verify the code has no errors and suggest improvements, when possible.
+- Sass-lint checks for most of our rules to be applied consistently against our documentation, but the following rules need to be verified manually, so always consider checking these rules are followed:
+  - https://gitlab.com/SUSE-UIUX/eos/wikis/Editing-css-style-guide#no-id-selectors
+  - https://gitlab.com/SUSE-UIUX/eos/wikis/Editing-css-style-guide#javascript-hooks
+
+
