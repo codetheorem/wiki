@@ -1,10 +1,6 @@
 # List of Current Personas of all Products
-
-
-
 ## Business Decider
 ***Uses Windows/Explorer. Wants to be impressed and think that there is money to be saved/made.***
-
 
 Technical Knowledge
 
@@ -22,10 +18,8 @@ Responsibility
 
 ![66-100](/uploads/59ea0ebb99aedb32dbba00c216a0bcc5/66-100.png)
 
-
 ## Finance Clerk
 ***Uses Windows/Explorer. Wants to ensure compliance, deals with organisational aspects of subscriptions.***
-
 
 Technical Knowledge
 
@@ -43,10 +37,8 @@ Responsibility
 
 ![0-33](/uploads/58f62592475daf6dc67af722ffbb3ce2/0-33.png)
 
-
 ## Advanced Administrator
 ***Uses Linux/Firefox, Creates POC's and is a Lead/Architect/Project Owner***
-
 
 Technical Knowledge
 
@@ -64,11 +56,8 @@ Responsibility
 
 ![66-100](/uploads/59ea0ebb99aedb32dbba00c216a0bcc5/66-100.png)
 
-
-
 ## Normal Administrator/Technician
 ***Uses Linux/Firefox & Windows/Firefox. CLI usage is a norm but GUI is preferred.***
-
 
 Technical Knowledge
 
@@ -86,18 +75,14 @@ Responsibility
 
 ![33-66](/uploads/bd4352ca8821c99a974d0fea5f801ea4/33-66.png)
 
-
-
 ## Hardware Administrator/Technician
 ***Uses Linux/Firefox & Windows/Firefox***
-
 
 Technical Knowledge
 
 ![0-33](/uploads/58f62592475daf6dc67af722ffbb3ce2/0-33.png)
 
 GUI vs CLI
-
 
 ![0-33](/uploads/58f62592475daf6dc67af722ffbb3ce2/0-33.png)
 
@@ -111,7 +96,23 @@ Responsibility
 
 
 ## Network Administrator
-Tech+++, GUI++/CLI+++, Linux/Firefox & Windows/Firefox, Age++, Responsibility+++, *Creates POC's, Lead/Architect/Project Owner*
+***Uses Linux/Firefox & Windows/Firefox, Creates POC's and is a Lead/Architect/Project Owner***
+
+Technical Knowledge
+
+![66-100](/uploads/59ea0ebb99aedb32dbba00c216a0bcc5/66-100.png)
+
+GUI vs CLI
+
+![66-100](/uploads/59ea0ebb99aedb32dbba00c216a0bcc5/66-100.png)
+
+Age
+
+![33-100](/uploads/bd961846313c3e3fe82e7c25962e7197/33-100.png)
+
+Responsibility
+
+![66-100](/uploads/59ea0ebb99aedb32dbba00c216a0bcc5/66-100.png)
 
 ## Application Developer
 Tech+, GUI+++/CLI+, Windows/Chrome, Responsibility+++, *Creates/Maintains their own products*
