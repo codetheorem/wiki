@@ -14,7 +14,7 @@ These are some basic general rules for creating PRs (pull requests) in git, plus
 
 4. On top of the UX/UI or code approval, you will need the approval of PO (Cynthia Sanchez) or PO deputy (Kenneth Wimer)
 
-# Being assigned to a PR and approving it
+# Being assigned to a PR, approving it, and Mergin to Master
 
 When being assigned to a PR, you must:
 - Verify the work done in the UI, by pulling the changes and running the server locally to then be able to verify the implementation satisfies all requirements in the UI.
@@ -26,4 +26,5 @@ When being assigned to a PR, you must:
   - https://gitlab.com/SUSE-UIUX/eos/wikis/Editing-css-style-guide#hover-and-focus
 
 For every issue you find you should **Start a discussion** from the comments interface.
-Only once all issues are resolved, you can approve the merge request by clicking on the green button so then the person who initially opened the PR can merge it.
+
+Only once all issues are resolved, you can approve the merge request by clicking on the green button so then the person who initially opened the PR can **merge it to master**.
