@@ -34,6 +34,7 @@ Hidden layer should exists only when a part of a document needed to be hidden, i
 -- Section
 -- Navbar(s)
 -- Footer
+-- Background
 inside each folder there will be subfolders for each element contained in that folder.
 EXAMPLE:
 in the Header folder there will be a subfolder called "user menu" where will be placed the icon for the user and the text layer of the username. If, like in our current version, the user menu area activates dropdown menu on click, than another folder with the drop down menu elements will have to be created.
@@ -79,4 +80,14 @@ All the elements that are in the library should be discussed and approved from t
 
 **9) Location of the file**
 
-All files need to be stored in a location where all the team have easy access to. Invision allows you to upload the assets of a prototype.
+All files need to be stored in the Adobe Creative Cloud drive.
+
+**10) Guides**
+- Use only essential guides.
+- Guides should reflect the Margins among elements.
+
+**11) Space for experiment**
+Make a folder that sits at the bottom of your layers panel and name it “Unused” pile” and throw all of your experimental groups and layers in there. Collaborators will know to ignore the folder and you can go back to it at any time if you decide to change your mind about a design.
+
+**12) Lock element**
+Element that are already discussed, approved and in his final design version should be locked to avoid mistakes. There could be the case where someone need to unlock to experiment something, that's ok, but always remember to lock it again.
