@@ -5,7 +5,7 @@ By **Theme** we mean you need to use one of the 6th different themes (or Trello 
 They are:
 1. UX
 2. UI
-3. Ops (don't use *operations*, gitlab seems to have conflicts letting you push folders with that name)
+3. Ops *(don't use **operations**, gitlab seems to have conflicts letting you push folders with that name)*
 4. Engagement
 5. Training
 6. Front-end
