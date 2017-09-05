@@ -29,6 +29,19 @@ Hidden layer should exists only when a part of a document needed to be hidden, i
 - Folders have to be always named.
 - Each layer must always be put inside a folder. The folder should group objects inside the same conceptual area. For example, the folder “header” will contain all layers that contain objects that are inside the header area. 
 - Inside the header folder, there will be subfolders that will group layers that compose an object. For example, the username and the icon next to it will be grouped in the same subfolder.
+- Folders structure should reflect the actual HTML structure in this order:
+-- Header
+-- Section
+-- Navbar(s)
+-- Footer
+inside each folder there will be subfolders for each element contained in that folder.
+EXAMPLE:
+in the Header folder there will be a subfolder called "user menu" where will be placed the icon for the user and the text layer of the username. If, like in our current version, the user menu area activates dropdown menu on click, than another folder with the drop down menu elements will have to be created.
+
+The subfolder structure should be organized creating first the element on top and, in case there are elements that are on the same height, first the one on the left.
+EXAMPLE:
+Assuming that in the section folder there is a title and a table you will find first the title, than the subfolder with the table. In the subfolder of the table there will be other subfolder and the elements on the left should be placed first. 
+
 
 **5) Smart objects**
 
@@ -57,10 +70,12 @@ The elements are:
 - Smart Objects
 - Graphic objects
 - Icons
+All the elements that are in the library should be discussed and approved from the team first.
 
 **8) Layers modification**
 
-Never rasterize a layer and always chose effect in line with the possibilities the media, be it html5/css3 or static images. 
+- Never rasterize a layer.
+- when changing the color of a shape don't use the layer effects panel but change the actual color from the top panel
 
 **9) Location of the file**
 
