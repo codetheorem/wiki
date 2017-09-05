@@ -25,6 +25,6 @@ When being assigned to a PR, you must:
   - https://gitlab.com/SUSE-UIUX/eos/wikis/Editing-css-style-guide#vendor-prefixed-auto-prefixes
   - https://gitlab.com/SUSE-UIUX/eos/wikis/Editing-css-style-guide#hover-and-focus
 
-For every issue you find you should **Start a discussion** from the comments interface.
+For every issue you find you should **Start a discussion** from the comments interface or by writting a comment inline in the code written.
 
 Only once all issues are resolved, you can approve the merge request by clicking on the green button so then the person who initially opened the PR can **merge it to master**.
