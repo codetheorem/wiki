@@ -22,7 +22,7 @@
 <br>
 
 ## Finance Clerk
->  Uses Windows/Explorer. Wants to ensure compliance, deals with organisational aspects of subscriptions.
+>  Uses Windows/Chrome. Wants to ensure compliance, deals with organisational aspects of subscriptions.
 
 **Technical Knowledge**
 
@@ -43,7 +43,7 @@
 <br>
 
 ## Advanced Administrator
->  Uses Linux/Firefox, Creates POC's and is a Lead/Architect/Project Owner
+>  Uses Linux/Firefox/Chrome, Creates POC's and is a Lead/Architect/Project Owner
 
 **Technical Knowledge**
 
@@ -64,7 +64,7 @@
 <br>
 
 ## Normal Administrator/Technician
->  Uses Linux/Firefox & Windows/Firefox. CLI usage is a norm but GUI is preferred.
+>  Uses Linux/Firefox & Windows/Chrome. CLI usage is a norm but GUI is preferred.
 
 **Technical Knowledge**
 
@@ -85,7 +85,7 @@
 <br>
 
 ## Hardware Administrator/Technician
->  Uses Linux/Firefox & Windows/Firefox. Acts upon requests/approval from other Administrators
+>  Uses Linux/Firefox & Windows/Chrome. Acts upon requests/approval from other Administrators
 
 **Technical Knowledge**
 
@@ -106,7 +106,7 @@
 <br>
 
 ## Network Administrator
->  Uses Linux/Firefox & Windows/Firefox, Creates POC's and is a Lead/Architect/Project Owner
+>  Uses Linux/Firefox & Windows/Chrome, Creates POC's and is a Lead/Architect/Project Owner
 
 **Technical Knowledge**
 
@@ -127,7 +127,7 @@
 <br>
 
 ## Application Developer
->  Uses Linux/Firefox & Windows/Firefox, Creates/Maintains their own products
+>  Uses Linux/Chrome & Windows/Chrome, Creates/Maintains their own products
 
 **Technical Knowledge**
 
