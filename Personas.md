@@ -148,7 +148,7 @@
 <br>
 
 ## Desktop User
-***All of the above, + LibreOffice & Email***
+>  A true rarity in nature, the normal desktop user encompasses each and every one of our personas who runs linux. In addition to the software included in SLES the desktop user also requires LibreOffice for editing presentations, spreadsheets and text documents as well as the Evolution email client for Outlook.
 
 <br>
 
