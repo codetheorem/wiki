@@ -51,15 +51,9 @@ Therefore common elements will be converted into “Smart Objects” and inserte
 
 *this also means to be very careful with existing smart objects since they may affect not only the document you’re working on, but also other file(s) from other team members.*
 
-**6) Colors**
+**6) Naming convention**
 
-We will use colored labels on folders and layers to communicate a state of an element (folder or layer) using the following scheme:
-RED = the element is already defined don’t change it. 
-GRAY = an experiment, just a test
-GREEN = work in progress
-YELLOW = ready for review
-BLUE = just a place holder
-VIOLET = need to be changed
+
 
 **7) Libraries**
 
