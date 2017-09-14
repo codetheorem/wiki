@@ -2,7 +2,7 @@
 
 The [Google Material Icons](https://material.io/icons/) provide the base upon which we build our icon set. 
 
-Google has provided a guide for using the Material Icons in various formats and contexts:
+Google has provided a guide for attaining and using the Material Icons in various formats and contexts:
 http://google.github.io/material-design-icons/
 
 ### Design
