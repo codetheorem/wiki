@@ -13,6 +13,8 @@ All icons should follow Googles' [Guide for Creating System Icons](https://mater
 
 ### Exceptions make the Rule
 
+Please note that we do **not** follow Googles suggested colour/opacity for the various icon states but rather adhere to the [SUSE Colour Palette](LINK_NEEDED)
+
 
 
 
