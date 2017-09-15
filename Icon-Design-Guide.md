@@ -4,6 +4,8 @@ The [Google Material Icons](https://material.io/icons/) provide the base upon wh
 
 [Google provides a guide](http://google.github.io/material-design-icons/) for attaining and using the Material Icons in various formats and contexts.
 
+All icons are needed in SVG format. There should only be one path and no groups (the SVG format does not allow for layers).
+
 
 ### Design
 
