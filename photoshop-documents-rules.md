@@ -31,8 +31,8 @@ Hidden layer should exists only when a part of a document needed to be hidden, i
 - Inside the header folder, there will be subfolders that will group layers that compose an object. For example, the username and the icon next to it will be grouped in the same subfolder.
 - Folders structure should reflect the actual HTML structure in this order:
 -- Header
--- Section
 -- Navbar(s)
+-- Section
 -- Footer
 -- Background
 inside each folder there will be subfolders for each element contained in that folder.
@@ -65,6 +65,7 @@ The elements are:
 - Smart Objects
 - Graphic objects
 - Icons
+
 All the elements that are in the library should be discussed and approved from the team first.
 
 **8) Layers modification**
