@@ -14,6 +14,11 @@ Artboards must always have a name, the more specific, the better. InVision and o
 
 **3) Layers**
 ![3](/uploads/34fee7a1abde5aef36f62362aa820a82/3.png)
+
+
+
+
+
 Layers should always be named with the name of the description and the kind of object;
 for example the logo on the top of the header should be called "top-right-logo-icon". 
 Layers named like "layer 32" or "logo" should not exists.
@@ -27,6 +32,11 @@ Hidden layer should exists only when a part of a document needed to be hidden, i
 
 **4) Folders**
 ![Screen_Shot_2017-09-21_at_09.29.17](/uploads/38ebac9a520c83ecc1c1b1889fd73aff/Screen_Shot_2017-09-21_at_09.29.17.png)
+
+
+
+
+
 - Folders have to be always named.
 - Each layer must always be put inside a folder. The folder should group objects inside the same conceptual area. For example, the folder “header” will contain all layers that contain objects that are inside the header area. 
 - Inside the header folder, there will be subfolders that will group layers that compose an object. For example, the username and the icon next to it will be grouped in the same subfolder.
@@ -47,6 +57,11 @@ Assuming that in the section folder there is a title and a table you will find f
 
 **5) Smart objects**
 ![5](/uploads/0665d33acb1be19aa029dcfc15e9eba2/5.png)
+
+
+
+
+
 Certain elements like Header or Footer will repeat on every artboard, to facilitate the process and to be able to apply changes at once across all artboards use a “Smart Object”.
 Therefore common elements will be converted into “Smart Objects” and inserted into a specific library in order for them to be replicated in a fast way, without error, and by automatically propagating changes across all artboards which use the Smart Object.
 
@@ -63,6 +78,11 @@ EXAMPLE: Icon-user-header-top-right.
 
 **7) Libraries**
 ![Screen_Shot_2017-09-21_at_09.35.04](/uploads/df272820971acbe1eb4334436fc03c5c/Screen_Shot_2017-09-21_at_09.35.04.png)
+
+
+
+
+
 All the common elements will be stored in our Adobe shared library for a faster and consistent design. 
 The elements are:
 - Colors
@@ -89,8 +109,18 @@ The files will be stored primarily in our remote disk station and, also, on the 
 
 **11) Space for experiment**
 ![Screen_Shot_2017-09-21_at_09.40.30](/uploads/b25f01508eec57ba74e0798a5f4946bd/Screen_Shot_2017-09-21_at_09.40.30.png)
+
+
+
+
+
 Make a folder that sits at the bottom of your layers panel and name it “Unused” pile” and throw all of your experimental groups and layers in there. Collaborators will know to ignore the folder and you can go back to it at any time if you decide to change your mind about a design.
 
 **12) Lock element**
 ![Screen_Shot_2017-09-21_at_09.41.23](/uploads/a12083d01838ef0164b6d16ea3b53bf9/Screen_Shot_2017-09-21_at_09.41.23.png)
+
+
+
+
+
 Element that are already discussed, approved and in his final design version should be locked to avoid mistakes. There could be the case where someone need to unlock to experiment something, that's ok, but always remember to lock it again.
