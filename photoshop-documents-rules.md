@@ -13,6 +13,13 @@ Each page will be displayed on a different Artboard.
 Artboards must always have a name, the more specific, the better. InVision and other software generate screens from artboards use the names from Photoshop so be careful how you name your Artboards (MORE INFO NEEDED).
 
 **3) Layers**
+
+
+
+
+
+
+
 ![3](/uploads/34fee7a1abde5aef36f62362aa820a82/3.png)
 
 
@@ -31,6 +38,12 @@ Hidden layer should exists only when a part of a document needed to be hidden, i
 
 
 **4) Folders**
+
+
+
+
+
+
 ![Screen_Shot_2017-09-21_at_09.29.17](/uploads/38ebac9a520c83ecc1c1b1889fd73aff/Screen_Shot_2017-09-21_at_09.29.17.png)
 
 
@@ -56,6 +69,11 @@ Assuming that in the section folder there is a title and a table you will find f
 
 
 **5) Smart objects**
+
+
+
+
+
 ![5](/uploads/0665d33acb1be19aa029dcfc15e9eba2/5.png)
 
 
@@ -77,6 +95,11 @@ EXAMPLE: Icon-user-header-top-right.
 
 
 **7) Libraries**
+
+
+
+
+
 ![Screen_Shot_2017-09-21_at_09.35.04](/uploads/df272820971acbe1eb4334436fc03c5c/Screen_Shot_2017-09-21_at_09.35.04.png)
 
 
@@ -108,6 +131,11 @@ The files will be stored primarily in our remote disk station and, also, on the 
 - Guides should reflect the Margins among elements.
 
 **11) Space for experiment**
+
+
+
+
+
 ![Screen_Shot_2017-09-21_at_09.40.30](/uploads/b25f01508eec57ba74e0798a5f4946bd/Screen_Shot_2017-09-21_at_09.40.30.png)
 
 
@@ -117,6 +145,11 @@ The files will be stored primarily in our remote disk station and, also, on the 
 Make a folder that sits at the bottom of your layers panel and name it “Unused” pile” and throw all of your experimental groups and layers in there. Collaborators will know to ignore the folder and you can go back to it at any time if you decide to change your mind about a design.
 
 **12) Lock element**
+
+
+
+
+
 ![Screen_Shot_2017-09-21_at_09.41.23](/uploads/a12083d01838ef0164b6d16ea3b53bf9/Screen_Shot_2017-09-21_at_09.41.23.png)
 
 
