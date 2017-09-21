@@ -10,7 +10,7 @@ In case the height of the document is not enough for a certain project it’s po
 **2) Artboards**
 ![Screen_Shot_2017-09-21_at_09.21.27](/uploads/a2d7e8785eb32135f930ac7b92cfbcaf/Screen_Shot_2017-09-21_at_09.21.27.png)
 Each page will be displayed on a different Artboard. 
-Artboards must always have a name, the more specific, the better. InVision and other software generate screens from artboards use the names from Photoshop so be careful how you name your Artboards (MORE INFO NEEDED).
+Artboards must always have a name, the more specific, the better. InVision and other software generate screens from artboards use the names from Photoshop so be careful how you name your Artboards.
 
 **3) Layers**
 
