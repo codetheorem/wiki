@@ -127,6 +127,17 @@ The files will be stored primarily in our remote disk station and, also, on the 
 
 
 **10) Guides**
+
+
+
+
+![Screen_Shot_2017-09-21_at_09.47.20](/uploads/8e9a53cd1f37371f3e0c31c7ed05558f/Screen_Shot_2017-09-21_at_09.47.20.png)
+
+
+
+
+
+
 - Use only essential guides.
 - Guides should reflect the Margins among elements.
 
