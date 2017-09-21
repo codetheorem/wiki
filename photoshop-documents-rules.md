@@ -2,6 +2,7 @@ When using Photoshop to create a document that will present the user interface o
 
 **1) Creating a new photoshop document**
 
+![1](/uploads/9f541badea61da5914fc09391a9f710a/1.png)
 When creating a new document Photoshop proposes to choose among different formats: 
 the one to choose is “Web” because it has “Art boards”,  choose a width of 1366x768 pixels @72 ppi, RGB.
 In case the height of the document is not enough for a certain project it’s possible to increase it, but only on a specific artboard and not across the whole document.
