@@ -9,7 +9,7 @@ In case the height of the document is not enough for a certain project it’s po
 
 **2) Artboards**
 ![Screen_Shot_2017-09-25_at_17.01.42](/uploads/dbe15db7623929b8f2ad0d4a4f0d5195/Screen_Shot_2017-09-25_at_17.01.42.png)
-Elements of the user interface that occupy most of the frames will be displaied in artboards, that includes navbars, modals, header etc...
+Elements of the user interface that occupy most of the frames will be displayed in artboards, that includes navbars, modals, header etc...
 Each element's status will be displayed on a different Artboard and artboards will be named with the name of the element and his status
 
 **3) Layers**
@@ -19,8 +19,7 @@ Each element's status will be displayed on a different Artboard and artboards wi
 
 
 
-
-![3](/uploads/34fee7a1abde5aef36f62362aa820a82/3.png)
+![Screen_Shot_2017-09-25_at_17.28.02](/uploads/40a0bba659321449f7872449b9ea1f5f/Screen_Shot_2017-09-25_at_17.28.02.png)
 
 
 
@@ -31,7 +30,7 @@ for example the logo on the top of the header should be called "top-right-logo-i
 Layers named like "layer 32" or "logo" should not exists.
 
 The layers structure should reflect the actually format of the application.
-For example the folder "heather" should be on the top and the folder "footer"on the bottom.
+The layers on top and those on the left should be first .
 
 Hidden layer should exists only when a part of a document needed to be hidden, if I layer has not function should be deleted.
 
@@ -44,22 +43,17 @@ Hidden layer should exists only when a part of a document needed to be hidden, i
 
 
 
-![Screen_Shot_2017-09-21_at_09.29.17](/uploads/38ebac9a520c83ecc1c1b1889fd73aff/Screen_Shot_2017-09-21_at_09.29.17.png)
+![Screen_Shot_2017-09-21_at_09.29.17](/uploads/38ebac9a520c83ecc1c1b1889fd73aff/Screen_Shot_2017-09-21_at_09.29.17.png)!
 
 
 
 
 
 - Folders have to be always named.
-- Each layer must always be put inside a folder. The folder should group objects inside the same conceptual area. For example, the folder “header” will contain all layers that contain objects that are inside the header area. 
+- The folder should group objects inside the same conceptual area. For example, the folder “header” will contain all layers that contain objects that are inside the header area. 
 - Inside the header folder, there will be subfolders that will group layers that compose an object. For example, the username and the icon next to it will be grouped in the same subfolder.
-- Folders structure should reflect the actual HTML structure in this order:
--- Header
--- Navbar(s)
--- Section
--- Footer
--- Background
 inside each folder there will be subfolders for each element contained in that folder.
+
 EXAMPLE:
 in the Header folder there will be a subfolder called "user menu" where will be placed the icon for the user and the text layer of the username. If, like in our current version, the user menu area activates dropdown menu on click, than another folder with the drop down menu elements will have to be created.
 
@@ -80,18 +74,14 @@ Assuming that in the section folder there is a title and a table you will find f
 
 
 
-Certain elements like Header or Footer will repeat on every artboard, to facilitate the process and to be able to apply changes at once across all artboards use a “Smart Object”.
+Certain elements like Header or call-to-action button will repeat on every document, to facilitate the process and to be able to apply changes at once across all artboards use a “Smart Object”.
 Therefore common elements will be converted into “Smart Objects” and inserted into a specific library in order for them to be replicated in a fast way, without error, and by automatically propagating changes across all artboards which use the Smart Object.
 
 *this also means to be very careful with existing smart objects since they may affect not only the document you’re working on, but also other file(s) from other team members.*
 
-**6) Naming convention**
-The name of a layer should communicate first the kind of element(for example : icon, box...)
-If needed a speficication (example : icon-user)
-than the container where the element is placed (example: footer, navbar)
-than the position (example: right, top-left)
-
-EXAMPLE: Icon-user-header-top-right.
+**6) Files naming convention**
+Each file name should communicate the content of the file,
+for example "tables.psd", "header.psd"
 
 
 **7) Libraries**
@@ -123,8 +113,7 @@ All the elements that are in the library should be discussed and approved from t
 - when changing the color of a shape don't use the layer effects panel but change the actual color from the top panel
 
 **9) Location of the file**
-The files will be stored primarily in our remote disk station and, also, on the Adobe Cloud Storage Space. The Adobe Cloud Storage Space can be synced with the folder on our local computer, so we can store each file for each collaborator in every computer and than sync that folder with our remote disk station.
-
+To be discussed
 
 **10) Guides**
 
