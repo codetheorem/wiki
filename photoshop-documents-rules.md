@@ -8,9 +8,9 @@ the one to choose is “Web” because it has “Art boards”,  choose a width 
 In case the height of the document is not enough for a certain project it’s possible to increase it, but only on a specific artboard and not across the whole document.
 
 **2) Artboards**
-![Screen_Shot_2017-09-21_at_09.21.27](/uploads/a2d7e8785eb32135f930ac7b92cfbcaf/Screen_Shot_2017-09-21_at_09.21.27.png)
-Each page will be displayed on a different Artboard. 
-Artboards must always have a name, the more specific, the better. InVision and other software generate screens from artboards use the names from Photoshop so be careful how you name your Artboards.
+![Screen_Shot_2017-09-25_at_17.01.42](/uploads/dbe15db7623929b8f2ad0d4a4f0d5195/Screen_Shot_2017-09-25_at_17.01.42.png)
+Elements of the user interface that occupy most of the frames will be displaied in artboards, that includes navbars, modals, header etc...
+Each element's status will be displayed on a different Artboard and artboards will be named with the name of the element and his status
 
 **3) Layers**
 
