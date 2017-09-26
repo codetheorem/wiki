@@ -460,12 +460,12 @@ div
   , value='value'
   )  
 
-//- Valid input(type='text' name='name' value='value') 
+//- Valid input(type='text', name='name', value='value') 
 div   
   input(type='text'   
-  name='name'   
-  value='value' 
-)
+    name='name'   
+    value='value' 
+  )
 ```
 
 
