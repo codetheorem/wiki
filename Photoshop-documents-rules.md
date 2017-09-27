@@ -26,7 +26,7 @@ Each element's status will be displayed on a different Artboard and artboards wi
 
 
 Layers should always be named with the name of the description and the kind of object;
-for example the logo on the top of the header should be called "top-right-logo-icon". 
+for example the logo on the top of the header should be called "header-logo". 
 Layers named like "layer 32" or "logo" should not exists.
 
 The layers structure should reflect the actually format of the application.
@@ -79,12 +79,9 @@ Therefore common elements will be converted into “Smart Objects” and inserte
 
 *this also means to be very careful with existing smart objects since they may affect not only the document you’re working on, but also other file(s) from other team members.*
 
-**6) Files naming convention**
-Each file name should communicate the content of the file,
-for example "tables.psd", "header.psd"
 
 
-**7) Libraries**
+**6) Libraries**
 
 
 
@@ -107,15 +104,15 @@ The elements are:
 
 All the elements that are in the library should be discussed and approved from the team first.
 
-**8) Layers modification**
+**7) Layers modification**
 
 - Never rasterize a layer.
 - when changing the color of a shape don't use the layer effects panel but change the actual color from the top panel
 
-**9) Location of the file**
+**8) Location of the file**
 To be discussed
 
-**10) Guides**
+**9) Guides**
 
 
 
@@ -130,7 +127,7 @@ To be discussed
 - Use only essential guides.
 - Guides should reflect the Margins among elements.
 
-**11) Space for experiment**
+**10) Space for experiment**
 
 
 
@@ -144,7 +141,7 @@ To be discussed
 
 Make a folder that sits at the bottom of your layers panel and name it “Unused” pile” and throw all of your experimental groups and layers in there. Collaborators will know to ignore the folder and you can go back to it at any time if you decide to change your mind about a design.
 
-**12) Lock element**
+**11) Lock element**
 
 
 
