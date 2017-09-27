@@ -28,8 +28,6 @@ Each element's status will be displayed on a different Artboard and artboards wi
 We will follow the rules describer in this webpage: http://photoshopetiquette.com/layers/
 plus:
 Layers should always be named with the name of the description and the kind of object;
-for example the logo on the top of the header should be called "header-logo". 
-Layers named like "layer 32" or "logo" should not exists.
 
 The layers structure should reflect the actually format of the application.
 The layers on top and those on the left should be first .
@@ -111,10 +109,9 @@ All the elements that are in the library should be discussed and approved from t
 - Never rasterize a layer.
 - when changing the color of a shape don't use the layer effects panel but change the actual color from the top panel
 
-**8) Location of the file**
-To be discussed
 
-**9) Guides**
+
+**8) Guides**
 
 
 
@@ -129,7 +126,7 @@ To be discussed
 - Use only essential guides.
 - Guides should reflect the Margins among elements.
 
-**10) Space for experiment**
+**9) Space for experiment**
 
 
 
@@ -143,7 +140,7 @@ To be discussed
 
 Make a folder that sits at the bottom of your layers panel and name it “Unused” pile” and throw all of your experimental groups and layers in there. Collaborators will know to ignore the folder and you can go back to it at any time if you decide to change your mind about a design.
 
-**11) Lock element**
+**10) Lock element**
 
 
 
