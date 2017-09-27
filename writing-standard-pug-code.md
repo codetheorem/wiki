@@ -192,10 +192,10 @@ All tags must be written in lower case. Files with doctype xml are ignored.
 
 ```
 //- Invalid 
-Div(class='class')  
+Div
 
 //- Valid 
-div(class='class')
+div
 ```
 
 <br>
