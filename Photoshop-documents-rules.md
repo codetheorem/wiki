@@ -25,6 +25,8 @@ Each element's status will be displayed on a different Artboard and artboards wi
 
 
 
+We will follow the rules describer in this webpage: http://photoshopetiquette.com/layers/
+plus:
 Layers should always be named with the name of the description and the kind of object;
 for example the logo on the top of the header should be called "header-logo". 
 Layers named like "layer 32" or "logo" should not exists.
