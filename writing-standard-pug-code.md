@@ -22,8 +22,6 @@ input.class(type='text')
 All ID literals must be written before any class literals.
 
 ```
-** If true **
-
 //- Invalid 
 input.class#id(type='text') 
 
