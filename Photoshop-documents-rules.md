@@ -41,9 +41,9 @@ Hidden layer should exists only when a part of a document needed to be hidden, i
 
 
 
+![Screen_Shot_2017-09-29_at_11.42.22](/uploads/28e159a70bb827b9e1a7315594ec66d0/Screen_Shot_2017-09-29_at_11.42.22.png)
 
 
-![Screen_Shot_2017-09-21_at_09.29.17](/uploads/38ebac9a520c83ecc1c1b1889fd73aff/Screen_Shot_2017-09-21_at_09.29.17.png)!
 
 
 
