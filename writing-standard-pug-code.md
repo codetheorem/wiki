@@ -166,6 +166,11 @@ input( type='text' name='name' value='value' )
 //- Valid 
 input(type='text' name='name' value='value')
 ```
+<br>
+#### disallowTrailingSpaces: true
+
+Lines in Pug file must not contain useless spaces at the end.
+
 
 <br>
 #### requireLineFeedAtFileEnd: true
