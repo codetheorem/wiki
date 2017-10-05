@@ -199,24 +199,6 @@ div
 ```
 
 <br>
-#### requireSpecificAttributes:
-  [ { "form": "action" }
-  , { "img": "alt" }
-  , { "input": "type" }
-  , { "input[type=submit]": "value" }
-  ]
-
-**e.g.:** img tags must contain all of the attributes specified.
-
-```
-//- Invalid 
-img(src='src')  
-
-//- Valid 
-img(src='src' alt='alt')
-```
-
-<br>
 #### requireStrictEqualityOperators: true
 
 Requires the use of === and !== instead of == and !=.
