@@ -24,16 +24,15 @@ If this should become an issue we will use a dual push via the .git/config file 
 ```
 _Note: The url's above are only placeholders._
 
-By adding a remote as given above to the .git/config of the repository calling ```git push BOTH``` will push to the repositories defined sequentially. 
+By adding a remote as given above to the .git/config of the repository calling ```git push BOTH``` will push to the repositories defined sequentially. In this case, calling anything other than "git push BOTH" will lead to the repositories no longer being in sync. 
  
 
 ## Naming Conventions
 Naming conventions help provide a consistent way to find content at a glance. Consistency within the project is vital.
 
-* Do use consistent names for all assets named after what they represent and do match the assets file name to the naming in the source file (group or layer, etc.)
-* Do name all source files after the conceptual piece(s)/component  they contain. Examples are header, footer, etc.
-* Do name all source files
 * Do not use capital letters
-* Periods will be used for separating component hierarchy. Example: main_component.more_specific_component_name
-* Underscores will be used for separators between words which describe a conceptual piece/component itself. Example: header.user_login.psd main_navigation.dropdown_menu.psd, main_navigation.accordion.psd
+* Do use consistent names for all assets named after what they represent and do match the assets file name to the naming in the source file (group name or layer name, etc.) Being consistent is important in order improve clarity when looking for a specific item in a psd file.
+* Do name all source files after the conceptual piece(s)/component they contain. Examples are "header", "footer", etc.
+* Do name files using hierarchy within components. Periods will be used for separating component hierarchy. Example: main_component.more_specific_component_name
+* Do separate words within one conceptual piece/component. Underscores will be used for separators between words which describe a conceptual piece/component itself. Example: header.user_login.psd main_navigation.dropdown_menu.psd, main_navigation.accordion.psd
 
