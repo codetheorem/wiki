@@ -13,7 +13,7 @@ Another repository (see below) will automatically copy this git repository as a 
 
 An automatic backup of the main git repository (mentioned above) will be created at regular intervals thanks to gitlab.com's automatic mirroring functionality.
 
-### Limitations
+#### Limitations
 There is one limitation of this approach. The mirroring will time-out if the process takes longer than 15min.
 
 If this should become an issue we will use a dual push via the .git/config file as follows:
