@@ -31,8 +31,9 @@ By adding a remote as given above to the .git/config of the repository calling `
 Naming conventions help provide a consistent way to find content at a glance. Consistency within the project is vital.
 
 * Do use consistent names for all assets named after what they represent and do match the assets file name to the naming in the source file (group or layer, etc.)
-* Do name all source files after the conceptual piece(s) they contain. Examples are header, footer.
+* Do name all source files after the conceptual piece(s)/component  they contain. Examples are header, footer, etc.
 * Do name all source files
-* Do not use capital letters 
-* Underscores will be used for file name separators within  conceptual pieces. Example: main_navigation
+* Do not use capital letters
+* Periods will be used for separating component hierarchy. Example: main_component.more_specific_component_name
+* Underscores will be used for separators between words which describe a conceptual piece/component itself. Example: header.user_login.psd main_navigation.dropdown_menu.psd, main_navigation.accordion.psd
 
