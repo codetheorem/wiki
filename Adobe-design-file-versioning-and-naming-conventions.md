@@ -28,6 +28,11 @@ By adding a remote as given above to the .git/config of the repository calling `
  
 
 ## Naming Conventions
-* Naming
-* Underscores will be used for file name separators between conceptual pieces. Example: header_user-login
+Naming conventions help provide a consistent way to find content at a glance. Consistency within the project is vital.
+
+* Do use consistent names for all assets named after what they represent and do match the assets file name to the naming in the source file (group or layer, etc.)
+* Do name all source files after the conceptual piece(s) they contain. Examples are header, footer.
+* Do name all source files
+* Do not use capital letters 
+* Underscores will be used for file name separators within  conceptual pieces. Example: main_navigation
 
