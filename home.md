@@ -25,3 +25,4 @@ The following documentation defines the Design System used to deliver UX, UI, fr
 - [Personas](https://gitlab.com/SUSE-UIUX/eos/wikis/Personas)
 - [Photoshop documents guideline] (https://gitlab.com/SUSE-UIUX/eos/wikis/photoshop-documents-rules)
 - [Icon design guide](https://gitlab.com/SUSE-UIUX/eos/wikis/Icon-design-guide)
+- [Adobe design file versioning and naming](https://gitlab.com/SUSE-UIUX/eos/wikis/Adobe-design-file-versioning-and-naming)
