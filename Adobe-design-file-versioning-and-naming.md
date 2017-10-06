@@ -1,9 +1,9 @@
 ## Versioning System
-All file versioning and backup will be done via git. An automatic mirroring system has been configured to copy the git repository to another service for backup purposes
+All file versioning and backup will be done via git. An automatic mirroring system has been configured to copy the git repository to another service for backup purposes.
 
 ### Working Space
 The main repository for our Adobe files is in github: 
-https://github.com/SUSE/EOS/
+https://github.com/SUSE/EOS/ (TBD!!!)
 
 All work (completed and WIP) will be pushed to this git repository on github. 
 
@@ -12,6 +12,8 @@ Another repository (see below) will automatically copy this git repository as a 
 ### Automatic Backup
 
 An automatic backup of the main git repository (mentioned above) will be created at regular intervals thanks to gitlab.com's automatic mirroring functionality.
+
+The mirrored repository can be found here: https://gitlab.com/SUSE-UIUX/eos (TBD!!!). In gitlab's repository settings for this repository the option "Pull from external source" has been configured.
 
 #### Limitations
 There is one limitation of this approach. The mirroring will time-out if the process takes longer than 15min.
@@ -31,8 +33,11 @@ By adding a remote as given above to the .git/config of the repository calling `
 Naming conventions help provide a consistent way to find content at a glance. Consistency within the project is vital.
 
 * Do not use capital letters
-* Do use consistent names for all assets named after what they represent and do match the assets file name to the naming in the source file (group name or layer name, etc.) Being consistent is important in order improve clarity when looking for a specific item in a psd file.
+* Do avoid "special" characters (: / \ ¢ ™ $ ® [ ] { } ( ) ! ; " ' * ? < > |) and never use spaces, tabs, new lines and embedded returns.
+* Do use consistent names for all assets named after what they represent.
+* Do match the assets file name to the naming in the source file (group name or layer name, etc.) Being consistent is important in order improve clarity when looking for a specific item in a psd file.
 * Do name all source files after the conceptual piece(s)/component they contain. Examples are "header", "footer", etc.
 * Do name files using hierarchy within components. Periods will be used for separating component hierarchy. Example: main_component.more_specific_component_name
 * Do separate words within one conceptual piece/component. Underscores will be used for separators between words which describe a conceptual piece/component itself. Example: header.user_login.psd main_navigation.dropdown_menu.psd, main_navigation.accordion.psd
+* Do use a dash "-" reflect the state. Examples are "button-hover" or "checkbox-on"
 
