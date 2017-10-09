@@ -30,7 +30,7 @@ By adding a remote as given above to the .git/config of the repository calling `
  
 
 ## Naming Conventions
-Naming conventions help provide a consistent way to find content at a glance. Consistency within the project is vital.
+Naming conventions help provide a consistent way to find content at a glance. Consistency within the project is vital. Follow the rules below for naming Adobe files as well as the assets produced from them.
 
 * Do not use capital letters.
 * Do avoid "special" characters (: / \ ¢ ™ $ ® [ ] { } ( ) ! ; " ' * ? < > |) and never use spaces, tabs, new lines and embedded returns.
