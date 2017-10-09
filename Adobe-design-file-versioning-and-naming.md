@@ -40,4 +40,5 @@ Naming conventions help provide a consistent way to find content at a glance. Co
 * Do name files using hierarchy within components. Periods will be used for separating component hierarchy. For example  "main_component.more_specific_component_name".
 * Do separate words within one conceptual piece/component. Underscores will be used for separators between words which describe a conceptual piece/component itself. Examples are "header.user_login.psd",  "main_navigation.dropdown_menu.psd", or "main_navigation.accordion.psd".
 * Do use a dash "-" to reflect state. Examples are "button-hover" or "checkbox-on".
+* Do add the postfix "WIP" to a filename to save work which is unfinished. Only one "WIP" file should be created for a given name.
 
