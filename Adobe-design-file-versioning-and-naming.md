@@ -27,7 +27,7 @@ If this should become an issue we will use a dual push via the .git/config file 
 	url = https://github.com/SUSE/EOS.git
 	url = https://gitlab.com/SUSE-UIUX/EOS-PS-BAK.git
 ```
-__Note: Do not push to the gitlab repository above. Doing so will inactivate the automatic mirroring described above__
+__Note: Do not push to the gitlab repository. Doing so will inactivate the automatic mirroring described above__
 
 By adding a remote as given above to the .git/config of the repository calling ```git push BOTH``` will push to the repositories defined sequentially. In this case, calling anything other than "git push BOTH" will lead to the repositories no longer being in sync. 
  
