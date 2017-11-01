@@ -71,8 +71,15 @@ URL: https://www.npmjs.com/package/svgicons2svgfont
 - Handles multiple svg files.
 - Extracts ligatures from the file name.
 - If an icon has shapes not merged into 1 path, it will take care of merging them.
+- From this project come the following options:
 
-https://www.npmjs.com/package/grunt-webfont
+a) https://www.npmjs.com/package/grunt-webfont
+b) https://github.com/nfroidure/gulp-iconfont
+c) https://github.com/nfroidure/gulp-svgicons2svgfont
+d) https://www.npmjs.com/package/webfonts-generator
+
+
+
 
 
 **Problems:**
