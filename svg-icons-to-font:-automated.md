@@ -30,12 +30,45 @@ URL: https://www.npmjs.com/package/iconfont-maker
 
 **Evaluation:** 1/5
 
-https://github.com/Kat5ura/iconfont-maker-cli
+**3)** svg-font-create
+URL: https://www.npmjs.com/package/svg-font-create
 
-https://www.npmjs.com/package/svg-font-create
+**Problems:**
 
-https://www.npmjs.com/package/icon-font-generator
+- The library is old and it was last updated 4 years ago. 
+- Outdated dependencies.
+
+**4)** icon-font-generator
+URL: https://www.npmjs.com/package/icon-font-generator
+
+**Problems:**
+
+-
+
+**Good:**
+
+-
+
+
 
 https://www.npmjs.com/package/svgicons2svgfont
 
+
+**Problems:**
+
+-
+
+**Good:**
+
+-
+
 https://www.npmjs.com/package/grunt-webfont
+
+
+**Problems:**
+
+-
+
+**Good:**
+
+-
