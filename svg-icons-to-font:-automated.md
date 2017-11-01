@@ -86,15 +86,7 @@ a) https://www.npmjs.com/package/grunt-webfont
 - Supports ligatures with fontforge (default engine).
 
 
-b) https://github.com/nfroidure/gulp-iconfont
-
-**Problems:**
-
-- It requires Gulp, which we dont use. To use it we would have to invest extra time configuring and maintaining a gulp builder. 
-
---- It is generally the same as the one below
-
-c) https://github.com/nfroidure/gulp-svgicons2svgfont
+b) https://github.com/nfroidure/gulp-svgicons2svgfont
 
 **Problems:**
 
@@ -108,7 +100,7 @@ c) https://github.com/nfroidure/gulp-svgicons2svgfont
 - Very popular library.
 - Last updated 1 month ago.
 
-d) https://www.npmjs.com/package/webfonts-generator
+c) https://www.npmjs.com/package/webfonts-generator
 
 
 **Problems:**
