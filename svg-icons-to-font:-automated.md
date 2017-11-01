@@ -38,29 +38,39 @@ URL: https://www.npmjs.com/package/svg-font-create
 - The library is old and it was last updated 4 years ago. 
 - Outdated dependencies.
 
+**Evaluation:** 1/5
+
 **4)** icon-font-generator
 URL: https://www.npmjs.com/package/icon-font-generator
 
 **Problems:**
 
--
+- Cant process LESS/SCSS
+- Cant create ligatures
 
 **Good:**
 
--
+- Accepts multiple (single icon) svg files
+- Npm package we can manipulate in nodejs or perhaps simply as a script in package.json.
+- Popular and has many downloads. Last updated 5 months ago.
 
+**Evaluation:** 2/5
 
-
-https://www.npmjs.com/package/svgicons2svgfont
-
+**5)** svgicons2svgfont
+URL: https://www.npmjs.com/package/svgicons2svgfont
 
 **Problems:**
 
--
+- Doesnt take care of CSS, at all
 
 **Good:**
 
--
+- It seems to be the original module all others are integrating inside.
+- The most popular module seen.
+- Last updated 1 month ago.
+- Handles multiple svg files.
+- Extracts ligatures from the file name.
+- If an icon has shapes not merged into 1 path, it will take care of merging them.
 
 https://www.npmjs.com/package/grunt-webfont
 
