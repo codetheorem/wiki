@@ -5,7 +5,6 @@ URL: https://www.npmjs.com/package/gulp-iconfont
 
 **Problems:** 
 - It requires Gulp, which we dont use. To use it we would have to invest extra time configuring and maintaining a gulp builder. 
-- Requires svg in 500min height, contrary to our icon design guidelines, which would mean extra work exporting designing in 24px but exporting to 500px.
 - No option for ligature
 
 **Good:** 
@@ -21,7 +20,7 @@ URL: https://www.npmjs.com/package/iconfont-maker
 
 - Doesn export less
 - Doesnt accept ligatures
-- Only a few downloads a week. Doesnt seem to be a popular module.
+- Only a few downloads a week. Doesnt seem to be a popular library.
 
 **Good:** 
 
@@ -66,7 +65,7 @@ URL: https://www.npmjs.com/package/svgicons2svgfont
 **Good:**
 
 - It seems to be the original module all others are integrating inside.
-- The most popular module seen.
+- Popular library.
 - Last updated 1 month ago.
 - Handles multiple svg files.
 - Extracts ligatures from the file name.
@@ -75,9 +74,39 @@ URL: https://www.npmjs.com/package/svgicons2svgfont
 
 a) https://www.npmjs.com/package/grunt-webfont
 
+**Problems:**
+
+- We dont use Grunt in any project (no actual experience within the team) and it seems a bit pointless to have it only for 1 task.
+
+**Good:**
+
+- Can export css, sass, scss or less.
+- Popular enough and well maintained.
+- Exports HTML demo page.
+- Supports ligatures with fontforge (default engine).
+
+
 b) https://github.com/nfroidure/gulp-iconfont
 
+**Problems:**
+
+- It requires Gulp, which we dont use. To use it we would have to invest extra time configuring and maintaining a gulp builder. 
+
+--- It is generally the same as the one below
+
 c) https://github.com/nfroidure/gulp-svgicons2svgfont
+
+**Problems:**
+
+- It requires Gulp, which we dont use. To use it we would have to invest extra time configuring and maintaining a gulp builder. 
+
+**Good:**
+
+- Exports css/scss
+- CLI usage.
+- Generates CSS files and HTML preview, allows using custom templates.
+- Very popular library.
+- Last updated 1 month ago.
 
 d) https://www.npmjs.com/package/webfonts-generator
 
@@ -96,5 +125,5 @@ d) https://www.npmjs.com/package/webfonts-generator
 
 
 
-
+ALL: All libraries require a minimum height of 500px in the SVGs.
 
