@@ -17,7 +17,7 @@ All additional icons "live" in the Adobe Illustrator File for Icons(NAME/LINK!?)
 
 ### Exceptions make the Rule
 
-Please note that we do **not** follow Googles suggested colour/opacity for the various icon states but rather adhere to the [SUSE Colour Palette](LINK_NEEDED).
+Please note that we do **not** follow Googles suggested colour/opacity for the various icon states but rather adhere to the EOS Colour Palette [to be defined in a later stage].
 
 
 
