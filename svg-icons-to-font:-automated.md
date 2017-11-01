@@ -74,18 +74,27 @@ URL: https://www.npmjs.com/package/svgicons2svgfont
 - From this project come the following options:
 
 a) https://www.npmjs.com/package/grunt-webfont
+
 b) https://github.com/nfroidure/gulp-iconfont
+
 c) https://github.com/nfroidure/gulp-svgicons2svgfont
+
 d) https://www.npmjs.com/package/webfonts-generator
-
-
-
 
 
 **Problems:**
 
--
+- Only exports css.
+- Last updated 9 months ago.
 
 **Good:**
 
--
+- CLI usage.
+- Generates CSS files and HTML preview, allows to use custom templates.
+- Good popularity.
+
+
+
+
+
+
