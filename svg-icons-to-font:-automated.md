@@ -2,6 +2,7 @@
 
 **1)** gulp-iconfont 
 URL: https://www.npmjs.com/package/gulp-iconfont
+
 **Problems:** 
 - It requires Gulp, which we dont use. To use it we would have to invest extra time configuring and maintaining a gulp builder. 
 - Requires svg in 500min height, contrary to our icon design guidelines, which would mean extra work exporting designing in 24px but exporting to 500px.
@@ -16,6 +17,20 @@ URL: https://www.npmjs.com/package/gulp-iconfont
 **2)** iconfont-maker
 URL: https://www.npmjs.com/package/iconfont-maker
 
+**Problems:** 
+
+- Doesn export less
+- Doesnt accept ligatures
+- Only a few downloads a week. Doesnt seem to be a popular module.
+
+**Good:** 
+
+- Npm package we can manipulate in nodejs or perhaps simply as a script in package.json
+- Exports scss
+
+**Evaluation:** 1/5
+
+https://github.com/Kat5ura/iconfont-maker-cli
 
 https://www.npmjs.com/package/svg-font-create
 
