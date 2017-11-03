@@ -18,7 +18,7 @@ URL: https://www.npmjs.com/package/iconfont-maker
 
 **Problems:** 
 
-- Doesn export less
+- Doesn export less (we dont need it)
 - Doesnt accept ligatures
 - Only a few downloads a week. Doesnt seem to be a popular library.
 
@@ -44,7 +44,7 @@ URL: https://www.npmjs.com/package/icon-font-generator
 
 **Problems:**
 
-- Cant process LESS/SCSS
+- Cant process LESS/SCSS  (we dont need it)
 - Cant create ligatures
 
 **Good:**
@@ -68,7 +68,7 @@ URL: https://www.npmjs.com/package/svgicons2svgfont
 - Popular library.
 - Last updated 1 month ago.
 - Handles multiple svg files.
-- Extracts ligatures from the file name.
+- Extracts ligatures from the file name. (couldnt make it work)
 - If an icon has shapes not merged into 1 path, it will take care of merging them.
 - From this project come the following options:
 
@@ -85,8 +85,20 @@ a) https://www.npmjs.com/package/grunt-webfont
 - Exports HTML demo page.
 - Supports ligatures with fontforge (default engine).
 
+b) https://www.npmjs.com/package/gulp-webfont
 
-b) https://github.com/nfroidure/gulp-svgicons2svgfont
+Same as the one above, but made for Gulp. +1
+
+**Good:**
+
+- Can export css, sass, scss or less.
+- Popular enough and well maintained.
+- Exports HTML demo page.
+- Supports ligatures with fontforge (default engine).
+
+**CHOOSEN!**
+
+c) https://github.com/nfroidure/gulp-svgicons2svgfont
 
 **Problems:**
 
@@ -100,7 +112,7 @@ b) https://github.com/nfroidure/gulp-svgicons2svgfont
 - Very popular library.
 - Last updated 1 month ago.
 
-c) https://www.npmjs.com/package/webfonts-generator
+d) https://www.npmjs.com/package/webfonts-generator
 
 
 **Problems:**
