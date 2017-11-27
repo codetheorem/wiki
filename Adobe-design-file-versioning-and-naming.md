@@ -24,8 +24,8 @@ There is one limitation of this approach. The mirroring will time-out if the pro
 If this should become an issue we will use a dual push via the .git/config file as follows:
 ```
 [remote "BOTH"]
-	url = https://github.com/SUSE/EOS.git
-	url = https://gitlab.com/SUSE-UIUX/EOS-PS-BAK.git
+	url = https://github.com/SUSE/eos-backup.git
+	url = https://gitlab.com/SUSE-UIUX/eos-backup.git
 ```
 __Note: Do not push to the gitlab repository. Doing so will inactivate the automatic mirroring described above__
 
