@@ -13,7 +13,11 @@ When creating icons it is important to first ensure that no icon already exists 
 
 All icons should follow Googles' [Guide for Creating System Icons](https://material.io/guidelines/style/icons.html#icons-system-icons).
 
-All additional icons "live" in the Adobe Illustrator File for Icons(NAME/LINK!?) so if you have designed your icon on it's own please be sure to add it to the rest upon completion. Also, be sure to add the icon to the list of additional icons - when doing so please fill out all fields with the proper information about the icon you've created.
+All additional icons "live" in the gitlab repository: https://gitlab.com/SUSE-UIUX/eos-icons.
+
+### File name
+
+All icons must have a prefix "eos-" in its .svg file name. For the second part, which contains the actual name of the icon, please follow the naming conventions: https://gitlab.com/SUSE-UIUX/eos/wikis/Adobe-design-file-versioning-and-naming
 
 ### Exceptions make the Rule
 
