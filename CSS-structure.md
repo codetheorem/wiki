@@ -1,0 +1,1 @@
+This is a placeholder for the missing explanation on why we (and how) use [SMACSS](https://smacss.com)
