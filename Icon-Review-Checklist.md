@@ -22,7 +22,7 @@ Some icons might exhibit differences in line-thickness and padding(?). Every suc
 
 1. Check that all or most-all lines are 2px in thickness. If any line is less than 2px thick it should only use geometric forms which other icons are based upon.
 
-1. Check that all outer corners (fillets) have a 2px radius. 
+1. Check that all outer corners have a 2px radius. 
 
 1. Check that line-ends are not rounded.
 
