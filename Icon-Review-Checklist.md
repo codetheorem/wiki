@@ -18,8 +18,6 @@ Use the checklist below to ensure that each pull-request can be merged:
 
 1. Check that the icon is 24p high and 24px wide and that there are 2 empty pixels on all sides of the icon.
 
-1. Check to see that the entire icon is one unified path without masking or clipping.
-
 1. Check if the lines and shapes in the icon are aligned to the grid.
 
 1. Check to see that the grid is not visible in the icon.
