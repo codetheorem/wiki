@@ -1,5 +1,7 @@
 It is important that each icon pull-request is reviewed properly before merging. The checklist below can help you ensure that a given pull-request is ready to be  merged.
 
+Some icons might exhibit differences in line-thickness and padding(?). Every such case should be discussed with the submitter to determine whether an exception to the rule is warranted (#13).
+
 1. Clone or download the pull-request branch in order to view the file locally. Do not view the icon in the browser!
 
 1. Check two see that the name of the icon follows the [icon naming rules](https://gitlab.com/SUSE-UIUX/eos/wikis/Designing-and-compiling-svg-icons#naming-conventions-for-icons-files).
