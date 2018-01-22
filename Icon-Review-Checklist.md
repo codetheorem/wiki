@@ -1,6 +1,6 @@
 ## All icon pull-requests should be reviewed properly.
 
-Use the checklist below to ensure that the pull-request can be merged:
+Use the checklist below to ensure that each pull-request can be merged:
 
 1. Clone or download the pull-request branch in order to view the file locally. Do not view the icon in the browser!
 
