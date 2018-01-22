@@ -4,7 +4,7 @@ It is important that each icon pull-request is reviewed properly before merging.
 
 1. Check two see that the name of the icon follows the [icon naming rules](https://gitlab.com/SUSE-UIUX/eos/wikis/Designing-and-compiling-svg-icons#naming-conventions-for-icons-files) 
 
-1. Check to see that the .ai original file is properly saved in the correct repository: https://github.com/SUSE/eos-backup
+1. Check to see that the .ai original file is properly saved in the [correct repository] (https://github.com/SUSE/eos-backup)
 
 1. Check to see if the icon fits the description of it's purpose in the trello card for each specific icon.
 
