@@ -1,5 +1,7 @@
 ## All icon pull-requests should be reviewed properly.
 
+Use the checklist below to ensure that the pull-request can be merged:
+
 1. Clone or download the pull-request branch in order to view the file locally. Do not view the icon in the browser!
 
 1. Check two see that the name of the icon follows the rules here: https://gitlab.com/SUSE-UIUX/eos/wikis/Designing-and-compiling-svg-icons#naming-conventions-for-icons-files
