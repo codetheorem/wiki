@@ -1,4 +1,4 @@
-It is important that each icon pull-request is reviewed properly before merging. The checklist below can help you ensure that each pull-request is ready to be  merged.
+It is important that each icon pull-request is reviewed properly before merging. The checklist below can help you ensure that a given pull-request is ready to be  merged.
 
 1. Clone or download the pull-request branch in order to view the file locally. Do not view the icon in the browser!
 
