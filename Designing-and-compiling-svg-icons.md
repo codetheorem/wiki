@@ -46,6 +46,6 @@ All you have to do is:
 
 First off, make sure that all the above has been followed. Secondarily:
 
-1. Check that the SVG icon added to the `svg/` directory follows the guidelines present in: https://gitlab.com/SUSE-UIUX/eos/wikis/Icon-Design-Guide . [LINK TO BE UPDATED BY KEN]
+1. Check that the SVG icon added to the `svg/` directory follows the guidelines present in: https://gitlab.com/SUSE-UIUX/eos/wikis/Icon-Review-Checklist
 2. Check that the icon font compiled correctly by simply checking the `dist/index.html` file and that the new icon appears in there correctly. If it doesnt, it is most likely an issue with the file name or the SVG file itself.
 3. Check that the new icon looks good in all the different sizes the `dist/index.html` demo page allows you to test. Other sizes are not required to be tested since those are the recommended sizes.
