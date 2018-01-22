@@ -26,6 +26,7 @@ The following documentation defines the Design System used to deliver UX, UI, fr
 - [Photoshop documents guideline] (https://gitlab.com/SUSE-UIUX/eos/wikis/photoshop-documents-rules)
 - [Icon design guide](https://gitlab.com/SUSE-UIUX/eos/wikis/Icon-design-guide)
 - [Adobe design file versioning and naming](https://gitlab.com/SUSE-UIUX/eos/wikis/Adobe-design-file-versioning-and-naming)
+- [Designing and compiling svg icons](https://gitlab.com/SUSE-UIUX/eos/wikis/Designing-and-compiling-svg-icons)
 
 
 ## Investigations:
