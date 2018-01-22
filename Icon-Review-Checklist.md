@@ -2,7 +2,7 @@ It is important that each icon pull-request is reviewed properly before merging.
 
 1. Clone or download the pull-request branch in order to view the file locally. Do not view the icon in the browser!
 
-1. Check two see that the name of the icon follows the rules here: https://gitlab.com/SUSE-UIUX/eos/wikis/Designing-and-compiling-svg-icons#naming-conventions-for-icons-files
+1. Check two see that the name of the icon follows the [icon naming rules](https://gitlab.com/SUSE-UIUX/eos/wikis/Designing-and-compiling-svg-icons#naming-conventions-for-icons-files) 
 
 1. Check to see that the .ai original file is properly saved in the correct repository: https://github.com/SUSE/eos-backup
 
