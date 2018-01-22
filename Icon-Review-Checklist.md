@@ -16,7 +16,7 @@ It is important that each icon pull-request is reviewed properly before merging.
 
 1. Check that the icon canvas is 24p high and 24px wide and that there are 2 empty pixels on all sides of the icon.
 
-1. Check that lines and shapes are aligned to the grid.
+1. Check that lines and shapes are aligned to the grid and, where possible, the keyline shapes (the squares, rectangles, and circle visible in the grid).
 
 1. Check to see that the grid is not visible in the icon.
 
