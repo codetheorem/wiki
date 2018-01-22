@@ -12,11 +12,11 @@ It is important that each icon pull-request is reviewed properly before merging.
 
 1. Check that the icon is front-facing and fits with the other material and Eos icons.
 
-1. Check that the icon forms and lines cannot be simplified.
+1. Check whether icon forms and lines can be simplified.
 
-1. Check that the icon is 24p high and 24px wide and that there are 2 empty pixels on all sides of the icon.
+1. Check that the icon canvas is 24p high and 24px wide and that there are 2 empty pixels on all sides of the icon.
 
-1. Check if the lines and shapes in the icon are aligned to the grid.
+1. Check that lines and shapes are aligned to the grid.
 
 1. Check to see that the grid is not visible in the icon.
 
