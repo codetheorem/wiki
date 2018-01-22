@@ -26,7 +26,7 @@ Some icons might exhibit differences in line-thickness and padding(?). Every suc
 
 1. Check that line-ends are not rounded.
 
-1. Check to see that none of the interior corners are rounded.
+1. Check that none of the interior corners are rounded.
 
 1. Check that the grid is not visible.
 
