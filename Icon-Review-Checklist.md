@@ -26,6 +26,6 @@ It is important that each icon pull-request is reviewed properly before merging.
 
 1. Check to see that the ends of lines are not rounded.
 
-1. Check to see that all interior corners are not rounded.
+1. Check to see that _none of_ interior corners are rounded.
 
 1. Discuss any exceptions to the rules above with the submitter in the pull-request itself. Exceptions are allowed but should stay in the minority or they are no longer exceptions but rather become the rule.
