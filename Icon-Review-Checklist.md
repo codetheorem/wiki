@@ -8,7 +8,7 @@ Some icons might exhibit differences in line-thickness and padding(?). Every suc
 
 1. Check that the .ai source file is properly saved in the [correct repository] (https://github.com/SUSE/eos-backup). Open the .ai file to ensure that it is the identical to the svg file from the pull-request.
 
-1. Check if the icon fits the description of its purpose in the trello card for each specific icon.
+1. Check if the icon fits the description of its purpose in the associated trello card.
 
 1. Check whether there are any existing material or Eos icons which use a similar visual metaphor.
 
