@@ -14,7 +14,7 @@ Some icons might exhibit differences in line-thickness and padding(?). Every suc
 
 1. Check that the icon is front-facing and fits with the other material and Eos icons.
 
-1. Check whether icon forms and lines can be simplified.
+1. Check whether icon forms and lines can be simplified. Ensure that negative space is optimally used.
 
 1. Check that the canvas is 24p high and 24px wide and that there are 2 empty pixels on all sides of the icon.
 
