@@ -1,6 +1,6 @@
 It is important that each icon pull-request is reviewed properly before merging. The checklist below can help you ensure that a given pull-request is ready to be  merged.
 
-Some icons might exhibit differences in line-thickness and padding(?). Every such case should be discussed with the submitter to determine whether an exception to the rule is warranted (#15). Exceptions are allowed but should stay in the minority or they are no longer exceptions but rather become the rule.
+Some icons might exhibit differences in line-thickness and padding(?). Every such case should be discussed with the submitter to determine whether an exception to the rule is warranted (#15). Exceptions are allowed but should stay in the minority or they are no longer exceptions but rather should become the rule.
 
 1. Clone or download the pull-request branch in order to view the file locally. Do not view the icon in the browser!
 
