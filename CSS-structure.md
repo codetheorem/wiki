@@ -10,9 +10,9 @@ We have the following folders:
 * layout
 * vendor
 
-**Base**
-**Components**
-**Helpers**
-**Landing page**
-**Layout**
-**Vendor**
+### Base
+### Components
+### Helpers
+### Landing page
+### Layout
+### Vendor
