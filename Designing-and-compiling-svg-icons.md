@@ -22,16 +22,6 @@ The library used to compile the icon font requires some strict naming convention
 
 - When choosing a file name for the icon, always check that this icon name doesnt exist already in Material Icons: https://material.io/icons/. If it does, then it can be confusing when using EOS-icons together to Material Icons.
 
-### Exporting SVG from Adobe Illustrator
-
-- Use illustrator "Save as" or "Save as copy". Do not use "Export as" or "Export for screens"
-
-- Select CSS Properties: "Style Attributes (Entity References)"
-
-- Set the "Decimal Places" to 5
-
-- Check the "Responsive" checkbox.
-
 ### Compiling the icon font:
 
 All you have to do is:
