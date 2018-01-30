@@ -23,6 +23,16 @@ All icons must have a prefix "eos-" in its .svg file name. For the second part, 
 
 Please note that we do **not** follow Googles suggested colour/opacity for the various icon states but rather adhere to the EOS Colour Palette [to be defined in a later stage].
 
+### Exporting SVG from Adobe Illustrator
+
+- Use illustrator "Save as" or "Save as copy". Do not use "Export as" or "Export for screens"
+
+- Select CSS Properties: "Style Attributes (Entity References)"
+
+- Set the "Decimal Places" to 5
+
+- Check the "Responsive" checkbox.
+
 
 
 
