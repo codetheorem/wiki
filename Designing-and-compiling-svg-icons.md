@@ -30,7 +30,7 @@ The library used to compile the icon font requires some strict naming convention
 
 - Set the "Decimal Places" to 5
 
-- Click the "Responsive" checkbox.
+- Check the "Responsive" checkbox.
 
 ### Compiling the icon font:
 
