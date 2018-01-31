@@ -25,13 +25,7 @@ Please note that we do **not** follow Googles suggested colour/opacity for the v
 
 ### Exporting SVG from Adobe Illustrator
 
-- Use "Save as" or "Save as copy". Do not use "Export as" or "Export for screens"
-
-- Select CSS Properties: "Style Attributes (Entity References)"
-
-- Set the "Decimal Places" to 5
-
-- Check the "Responsive" checkbox.
+- Use "Export for screens"
 
 
 
