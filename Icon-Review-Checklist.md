@@ -6,7 +6,7 @@ Some icons might exhibit differences in line-thickness and padding(?). Every suc
 
 1. Check that the name of the icon follows the [icon naming rules](https://gitlab.com/SUSE-UIUX/eos/wikis/Designing-and-compiling-svg-icons#naming-conventions-for-icons-files).
 
-1. Check that the .ai source file is properly saved in the [correct repository] (https://github.com/SUSE/eos-backup). Open the .ai file to ensure that it is the identical to the svg file from the pull-request.
+1. Check that the .ai source file is properly saved in the [correct repository] (https://github.com/SUSE/eos-backup). Open the .ai file to ensure that it is identical to the svg file from the pull-request.
 
 1. Check if the icon fits the description of its purpose in the associated trello card.
 
@@ -31,3 +31,5 @@ Some icons might exhibit differences in line-thickness and padding(?). Every suc
 1. Check that the grid is not visible.
 
 1. Discuss any exceptions to the rules above with the submitter in the pull-request itself.
+
+1. Open index.html in the /dist folder to ensure that the font has been compiled correctly and that all icons are shown.
