@@ -21,8 +21,10 @@ A demo of a draft:
 
 ### Feedback gathering:
 
-<img src='https://invisionapp.com/assets/img/invision-logo-square.png' height='100px'>
-<img src='https://mobilelabtutorials.files.wordpress.com/2017/02/adobe-xd-logo.png' height='100px'>
+
+<img src='https://invisionapp.com/assets/img/invision-logo-square.png' height='120px'>
+<img src='https://mobilelabtutorials.files.wordpress.com/2017/02/adobe-xd-logo.png' height='120px'>
+
 
 It is important that all feedback is tracked in tools made for it: Invision or Adobe XD. 
 Both software are approved to be used by the company and team, and both provide prototyping tools that can be shared among the team:
