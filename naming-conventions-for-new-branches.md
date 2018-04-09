@@ -12,8 +12,8 @@ They are:
 
 The Theme and Branch name should always be in lowercase and for the branch name if it contains more than 1 words in it, use minus (-) to separate them
 
-Valid example: **ui/collapsable-notifications**
-Invalid example: **UI/Collapsable-Notifications**
+Valid example: **ui/collapsible-notifications**
+Invalid example: **UI/Collipsable-Notifications**
 
 This theme will be easy for you to find out since it will be part of the card you are working on. If the card you are working on has no theme, then this card is not properly following the **Definition of Ready** and it should be moved back to the backlog column **New cards**
 
