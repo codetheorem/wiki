@@ -10,6 +10,12 @@ They are:
 5. training
 6. front-end
 
+Exceptions: Since the introduction of Fruit cards and a Maintenance and Operations board, the following 3 labels are permitted: 
+
+1. ops
+2. maint
+3. fruit
+
 The Theme and Branch name should always be in lowercase and for the branch name if it contains more than 1 words in it, use minus (-) to separate them
 
 Valid example: **ui/collapsible-notifications**
