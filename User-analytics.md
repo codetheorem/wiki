@@ -1,5 +1,3 @@
-** This is a draft
-
 We use [Google Analytics](https://analytics.google.com/) to track the EOS website. Analytics is added to the page by using [Google's Tag Manager](http://tagmanager.google.com/)
 
 ---
