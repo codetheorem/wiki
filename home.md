@@ -33,3 +33,6 @@ The following documentation defines the Design System used to deliver UX, UI, fr
 
 ## Investigations:
 - [SVG icons to font](https://gitlab.com/SUSE-UIUX/eos/wikis/svg-icons-to-font:-automated)
+
+## User Analytics
+- [User analytics](User-analytics)
