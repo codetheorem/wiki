@@ -11,10 +11,12 @@ Google Tag Manager (GTM) is a tag management system created by Google to manage 
 
 ### Setting up a tag & its trigger
 How to set up a tag (Google Analytics)
+
 [![how to set up Analytics with GTM](https://img.youtube.com/vi/28d60ejfk3s/0.jpg)](https://www.youtube.com/watch?v=28d60ejfk3s)
 
 ## Analytics
 Brief Google Analytics for beginners tutorial
+
 [![Google Analytics for beginners tutorial](https://img.youtube.com/vi/mreOWm3e9lg/0.jpg)](https://www.youtube.com/watch?v=mreOWm3e9lg)
 
 ### Prevent internal traffic from appearing in Google Analytics
