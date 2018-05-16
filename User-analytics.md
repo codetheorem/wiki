@@ -1,4 +1,4 @@
-We use [Google Analytics](https://analytics.google.com/) to track the EOS website. Analytics is added to the page by using [Google's Tag Manager](http://tagmanager.google.com/)
+We use [Google Analytics](https://analytics.google.com/) to track the EOS website. Analytics is added to the page by using [Google's Tag Manager](http://tagmanager.google.com/). Please bear in mind that Ad blockers and script blockers such as [uBlock](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en) will disable GTM.
 
 ---
 
