@@ -595,5 +595,6 @@ Comment style should be simple and consistent within a single code base.
 // Preprocessor style comments inside nested selectors & code explanations
 ```
 
+* Note: Once the comment changes are in the codebase, we'll add links to files showing how comments are formatted
 
 
