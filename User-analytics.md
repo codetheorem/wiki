@@ -21,9 +21,11 @@ Google Analytics is one of the best, free tools you can have for UX research. It
 [Brief Google Analytics for beginners tutorial](https://www.youtube.com/watch?v=mreOWm3e9lg)
 
 We've created a Dashboard that digests UX data that is relevant to the EOS project. You can access it from Customisation > Dashboards > EOS UX Analytics Dashboard
-![EOS UX Dashboard](https://i.imgur.com/WOrTXKU.png)
+
+![EOS UX Dashboard](https://i.imgur.com/polzCEZ.png)
 
 In order to get a good range of data, we need to set a relevant date range
+
 ![Analytics date range](https://i.imgur.com/JALcFsV.png)
 
 ### Prevent internal traffic from appearing in Google Analytics
