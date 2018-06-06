@@ -617,6 +617,28 @@ Comment style should be simple and consistent within a single code base.
 // Preprocessor style comments inside nested selectors & code explanations
 ```
 
-* Note: Once the comment changes are in the codebase, we'll add links to files showing how comments are formatted
+Here's an example of the usage of our comment format in our codebase. You can find the [component file here](https://gitlab.com/SUSE-UIUX/eos/blob/master/assets/stylesheets/components/icons/installing.scss)
 
+```scss
+/* Installing icon
+   ========================================================================== */
+/**
+*  Use it in HTML as
+*  <div class='icon-installing md-18'></div>
+*  add md-18, md-24, md-36 or md-48 class for sizes
+*
+*  the default icon size is 24px. Divided by 3 squares: 8px minus 2px padding between blocks = 6px
+*/
+// sass-lint:disable variable-for-property
 
+/* Variables */
+$icon-installing-bg: $sb-gray-800;
+// 18px
+$icon-size-18: md-18;
+$icon-installing-block-18: 4px;
+$icon-installing-margin-18: 7px;
+$icon-installing-padding-18: 6px;
+$icon-installing-padding-negative-18: -6px;
+
+...
+```
