@@ -17,7 +17,7 @@
 *  [:hover and :focus](#hover-and-focus)
 *  [Width and height on components](#width-and-height-on-components)
 *  [Single quotes](#single-quotes)
-*  [Comment formatting](/#comment-formatting)
+*  [Comment formatting](#comment-formatting)
 
 ## Introduction
 The main principle behind EOS theme is: never modify Bootstrap vendor files, but overwrite it in a smart way to make it reusable across the product and sub-products.
