@@ -1,3 +1,25 @@
+## Table of contents
+*  [Introduction](/#introduction)
+*  [Override Bootstrap](/#)
+*  [Class Names](/#)
+*  [Declaration order](/#)
+*  [Indentation](/#)
+*  [Brace Alignment](/#)
+*  [Property Format](/#)
+*  [No ID selectors](/#)
+*  [JavaScript hooks](/#)
+*  [Using CSS Preprocessors](/#)
+*  [Mixins](/#)
+*  [Vendor-Prefixed: auto-prefixes](/#)
+*  [Border](/#)
+*  [Do not use units with zero values](/#)
+*  [Selectors](/#selectors)
+*  [:hover and :focus](/#:hover-and:focus)
+*  [Width and height on components](/#width-and-height-on-components)
+*  [Single quotes](/#single-quotes)
+*  [Comment formatting](/#comment-formatting)
+
+## Introduction
 The main principle behind EOS theme is: never modify Bootstrap vendor files, but overwrite it in a smart way to make it reusable across the product and sub-products.
 
 We use most of OOCSS standards and have created our own rules as well in order to have a flexible codebase that can live in harmony with Bootstrap classes, variables and mixins.
