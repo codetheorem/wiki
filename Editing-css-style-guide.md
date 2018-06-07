@@ -640,5 +640,11 @@ $icon-installing-margin-18: 7px;
 $icon-installing-padding-18: 6px;
 $icon-installing-padding-negative-18: -6px;
 
-...
 ```
+
+**Tools for your IDE**
+These plugins add Idiomatic CSS comments to your code:
+* Idiomatic CSS comments plugins:
+* VS Code: https://bit.ly/2J0cTcJ
+* Atom: https://bit.ly/2J1ikID
+* Sublime Text: https://bit.ly/2su6RpH
