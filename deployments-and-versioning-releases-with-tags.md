@@ -44,5 +44,4 @@ This part would show the content in our `localhost`or `eos-test` website but not
 
 ----
 **Test production locally:**  
-In your terminal write `npm run env:prod`  this would change your env from `development` to `production`.  
-To go back to development, `npm run env:dev`
+To test production locally run `npm run env:prod`.
