@@ -26,7 +26,7 @@ Once a versioned package has been released, the contents of that version MUST NO
 Deployment to production is manual and it is available in gitlab for the PO or deputy PO to deploy once the work is ready to be published.
 WARNING: the pipeline might let other members of the team deploy to production, please avoid this action and only let PO decide when it is ready to be deployed.
 
-# Test production in local envionment
+# Test production in local environment
 
 **How it works:**  
 We use the build-in env variables created by node. The default value is `development` and in heroku it's set to `production`.
