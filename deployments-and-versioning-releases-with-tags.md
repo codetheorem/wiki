@@ -1,4 +1,4 @@
-# Continues integration with Gitlab CI
+# Continuous integration with Gitlab CI
 
 Our CI is configured to continuously deploy to our staging server (with URL: http://eos-test.herokuapp.com) every time a PR is merged into the Master branch.
 
