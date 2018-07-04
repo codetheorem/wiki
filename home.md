@@ -30,6 +30,7 @@ The following documentation defines the Design System used to deliver UX, UI, fr
 - [Adobe design file versioning and naming](https://gitlab.com/SUSE-UIUX/eos/wikis/Adobe-design-file-versioning-and-naming)
 - [Designing and compiling svg icons](https://gitlab.com/SUSE-UIUX/eos/wikis/Designing-and-compiling-svg-icons)
 - [Design process and feedback gathering](https://gitlab.com/SUSE-UIUX/eos/wikis/Design-process-and-feedback-gathering)
+- [Backing up design files](https://gitlab.com/SUSE-UIUX/eos/wikis/Backing-up-design-files)
 
 
 ## Investigations:
