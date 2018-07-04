@@ -3,9 +3,9 @@
 ![image](/uploads/27a330e76ff3a11f260a32bfa71d676c/image.png)
 
 1. Pick your challenge.
-2. Create a new file inside the [shared CC Folder](https://adobe.ly/2IS6ATN) and use this file to  work your card.   
+2. Create a new file inside the [shared CC Folder](https://adobe.ly/2KP6k9Y) and use this file to  work your card.   
 3. Once your card pass revision and the design moves to development make sure you push the .xd file to github.
 4. Upload the file to the EOS Backup
 
-[Click here to suscribe to the shared folder](https://adobe.ly/2IS6ATN)
+[Click here to suscribe to the shared folder](https://adobe.ly/2KP6k9Y)
 
