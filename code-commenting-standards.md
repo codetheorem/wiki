@@ -7,10 +7,10 @@ Comment style should be simple and consistent within a single code base.
 
 * Place comments on a new line above their subject.
 * Keep line-length to a sensible maximum, e.g., 80 columns.
-* Make liberal use of comments to break CSS code into discrete sections.
+* Make liberal use of comments to break code into discrete sections.
 * Use "sentence case" comments and consistent text indentation.
 
-```scss
+```
 /* ==========================================================================
    Section comment block
    ========================================================================== */
