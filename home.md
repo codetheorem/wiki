@@ -22,6 +22,7 @@ The following documentation defines the Design System used to deliver UX, UI, fr
 - [Writing standard JS code](Writing-standard-JS-code)
 - [Writing standard pug code](Writing-standard-pug-code)
 - [Semantic releases](semantic-releases)
+- [Idiomatic comments] (code-commenting-standards)
 
 ## Designing the EOS project:
 - [Personas](https://gitlab.com/SUSE-UIUX/eos/wikis/Personas)
