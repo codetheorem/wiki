@@ -11,7 +11,7 @@ All icons are created in SVG format. There should only be one path and no groups
 
 When creating icons it is important to first ensure that no icon already exists for this purpose. It is equally important to not re-use an existing icon for a different purpose.
 
-All icons should follow Googles' [Guide for Creating System Icons](https://material.io/guidelines/style/icons.html#icons-system-icons).
+All icons should follow Googles' [Guide for Creating System Icons](https://material.io/design/iconography/system-icons.html).
 
 All additional icons "live" in the gitlab repository: https://gitlab.com/SUSE-UIUX/eos-icons.
 
