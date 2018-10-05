@@ -17,7 +17,7 @@ All additional icons "live" in the gitlab repository: https://gitlab.com/SUSE-UI
 
 ### File name
 
-All icons must have a prefix "eos-" in its .svg file name. For the second part, which contains the actual name of the icon, please follow the naming conventions: https://gitlab.com/SUSE-UIUX/eos/wikis/Adobe-design-file-versioning-and-naming
+The .svg file name should not contain the name "eos" or "eos-" but the actual name of the icon, as the compiler will automatically add "eos-" to all icons, please follow the naming conventions: https://gitlab.com/SUSE-UIUX/eos/wikis/Adobe-design-file-versioning-and-naming
 
 ### Exceptions make the Rule
 
