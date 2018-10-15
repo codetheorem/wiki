@@ -11,7 +11,7 @@ A demo of wireframe:
 
 A demo of a draft:
 
-![draft](http://clevrrrr.com/wp-content/uploads/2014/06/sketch.jpg)
+![draft](https://xd.adobe.com/view/5848dbde-f1f2-40d5-75a2-d87598c2f6f7-2e79/?fullscreen)
 
 (Normally made with pen and paper or on a whiteboard)
 
@@ -34,6 +34,6 @@ Both software are approved to be used by the company and team, and both provide 
 
 - Always add the link to the Adobe XD prototype to the card in Trello that you are working on.
 - When requesting feedback, make sure you only put the link of the Trello card. A bot will automatically assign a reviewer to it. 
-- The reviewer's role is to remind the team to have a look at the design and leave feedback. The reviewer will also ensure to give the thumbs up once all comments on a design have been resolved.
+- The reviewer's role is to remind the team to have a look at the design and leave feedback. The reviewer will also ensure to give the thumbs up once all comments on a design have been resolved by its author.
 - The team members interested in giving feedback will then be able to read the card description and then click on the link to the prototype you created.
 - Avoid leaving feedback on Trello if there is a prototype attached to the card. Use Trello for feedback only when no prototype exists.
