@@ -33,5 +33,7 @@ Both software are approved to be used by the company and team, and both provide 
 **Main rules:**
 
 - Always add the link to the Adobe XD prototype to the card in Trello that you are working on.
-- When requesting feedback, make sure you only put the link of the trello card in the Rocket Chat channel. The team members interested in giving feedback will then be able to read the card description and then click on the link to the prototype you created.
-- Avoid living feedback on Trello if there is a prototype attached to the card. Use Trello for feedback only when no prototype exists.
+- When requesting feedback, make sure you only put the link of the Trello card. A bot will automatically assign a reviewer to it. 
+- The reviewer's role is to remind the team to have a look at the design and leave feedback. The reviewer will also ensure to give the thumbs up once all comments on a design have been resolved.
+- The team members interested in giving feedback will then be able to read the card description and then click on the link to the prototype you created.
+- Avoid leaving feedback on Trello if there is a prototype attached to the card. Use Trello for feedback only when no prototype exists.
