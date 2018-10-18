@@ -10,12 +10,13 @@ They are:
 5. training
 6. front-end
 
-Exceptions: Since the introduction of Fastlane, Fruit cards and a Maintenance and Operations board, the following 4 labels are permitted: 
+Exceptions: Since the introduction of Fastlane, Fruit cards and a Maintenance and Operations board, the following 5 labels are permitted: 
 
 1. ops
 2. maint
 3. fruit
 4. fastlane
+5. bugfix
 
 The Theme and Branch name should always be in lowercase and for the branch name if it contains more than 1 words in it, use minus (-) to separate them
 
