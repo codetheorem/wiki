@@ -24,6 +24,7 @@ The following documentation defines the Design System used to deliver UX, UI, fr
 - [Semantic releases](semantic-releases)
 - [Idiomatic comments](code-commenting-standards)
 - [Adding/changing Front-end packages](installing-front-end-packages)
+- [Environment variables](environment-variables)
 
 ## Designing the EOS project:
 - [Personas](https://gitlab.com/SUSE-UIUX/eos/wikis/Personas)
