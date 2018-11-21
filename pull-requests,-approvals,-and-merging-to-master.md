@@ -16,7 +16,7 @@ These are some basic general rules for creating PRs (pull requests) in git, plus
 
 5. On top of the UX/UI or code approval, you will need the approval of PO (Cynthia Sanchez) or PO deputy (Kenneth Wimer)
 
-# Being assigned to a PR, approving it, and Mergin to Master
+# Being assigned to a PR, approving it, and Merging to Master
 
 When being assigned to a PR, you must:
 - Verify the work done in the UI, by pulling the changes and running the server locally to then be able to verify the implementation satisfies all requirements in the UI.
