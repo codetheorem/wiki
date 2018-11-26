@@ -28,7 +28,7 @@ The following documentation defines the Design System used to deliver UX, UI, fr
 
 ## Designing the EOS project:
 - [Personas](https://gitlab.com/SUSE-UIUX/eos/wikis/Personas)
-- [Photoshop documents guideline] (https://gitlab.com/SUSE-UIUX/eos/wikis/photoshop-documents-rules)
+- [Photoshop documents guideline](https://gitlab.com/SUSE-UIUX/eos/wikis/photoshop-documents-rules)
 - [Icon design guide](https://gitlab.com/SUSE-UIUX/eos/wikis/Icon-design-guide)
 - [Icon review checklist](https://gitlab.com/SUSE-UIUX/eos/wikis/Icon-Review-Checklist)
 - [Adobe design file versioning and naming](https://gitlab.com/SUSE-UIUX/eos/wikis/Adobe-design-file-versioning-and-naming)
