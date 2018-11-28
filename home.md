@@ -17,7 +17,7 @@ The following documentation defines the Design System used to deliver UX, UI, fr
 - [Naming conventions for new branches](naming-conventions-for-new-branches)
 - [Pull requests, approvals, and merging to Master](pull-requests,-approvals,-and-merging-to-master)
 - [Deployments and versioning releases with tags](deployments-and-versioning-releases-with-tags)
-- [Writing CSS/SASS style guide](https://gitlab.com/SUSE-UIUX/eos/wikis/Editing-css-style-guide)
+- [Writing CSS/SASS style guide](Editing-css-style-guide)
 - [CSS structure](CSS-structure)
 - [Writing standard JS code](Writing-standard-JS-code)
 - [Writing standard pug code](Writing-standard-pug-code)
@@ -25,6 +25,7 @@ The following documentation defines the Design System used to deliver UX, UI, fr
 - [Idiomatic comments](code-commenting-standards)
 - [Adding/changing Front-end packages](installing-front-end-packages)
 - [Environment variables](environment-variables)
+- [Gmail configuration](gmail-configuration)
 
 ## Designing the EOS project:
 - [Personas](https://gitlab.com/SUSE-UIUX/eos/wikis/Personas)
