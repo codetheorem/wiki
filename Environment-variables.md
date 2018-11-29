@@ -12,7 +12,7 @@ Example of use
 var transporter = nodemailer.createTransport({
     service: 'gmail',
     auth: {
-      user: 'email@adress.com',
+      user: process.env.SMTP_EMAIL,
       pass: process.env.SMTP_TOKEN
     }
   })
