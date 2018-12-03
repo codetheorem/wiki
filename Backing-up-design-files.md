@@ -10,9 +10,8 @@
 
  and use this file to work your card.   
 
-3. Once your card passes revision and the design moves to development make sure you push the .xd file to github.
+3. Once your card passes revision and the design moves to development make sure you push the .xd file to Github.
 
 4. Upload the file to the EOS Backup
 
-[Click here to suscribe to the shared folder](https://adobe.ly/2KP6k9Y)
-
+[Click here to subscribe to the shared folder](https://adobe.ly/2KP6k9Y)
