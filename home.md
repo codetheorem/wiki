@@ -2,9 +2,9 @@
 
 The following documentation defines the Design System used to deliver UX, UI, front-end, and other deliverables required in the product roadmap of the EOS project found at: https://trello.com/b/PauX7Rel/eos-roadmap-backlog
 
-## EOS project vision:
+## EOS product vision:
 
-*A living Design System, for front-end developers and UI designers, to efficiently improve the quality and consistency of SUSE products*
+*A living, open, and customizable Design System for front-end developers and UX designers at SUSE and SMEs to efficiently deliver and implement industry standard practices that will help brands achieve consistency and success.*
 
 ## EOS Design System, what is it actually?
 
