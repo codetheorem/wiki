@@ -18,6 +18,17 @@ var transporter = nodemailer.createTransport({
   })
 ```
 
+Current Variables
+----
+```js
+/* SMTP */
+process.env.SMTP_EMAIL
+process.env.SMTP_TOKEN
+/* Unleash */
+process.env.UNLEASH_APPNAME
+process.env.UNLEASH_INSTANCEID
+```
+
 Important
 ----
 We only share the values via PM, so make sure you ask the team for them
