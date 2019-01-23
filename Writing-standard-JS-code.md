@@ -11,7 +11,7 @@ It is good practice to keep javascript code and html elements separated. It 
 Instead of creating HTML element inside javascript, create it in HTML page and update it with javascript.
 
 ```html
-/* Good - ordered */
+/* Good */
 
 $("button").click(function(){
     var tagTemplate = $('.js-tags').text(tagName)
