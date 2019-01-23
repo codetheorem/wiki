@@ -5,7 +5,7 @@ And, because we follow the standards, we get to put this badge in our wiki:
 
 [![JavaScript Style Guide](https://cdn.rawgit.com/standard/standard/master/badge.svg)](https://github.com/standard/standard)
 
-#### Don't create HTML elements inside javascript 
+#### Do not create HTML elements inside javascript 
 It is good practice to keep javascript code and html elements separated. It makes it more easy to maintain, debug and reusable. 
 
 Instead of creating HTML element inside javascript, create it in HTML page and update it with javascript.
