@@ -8,7 +8,7 @@ And, because we follow the standards, we get to put this badge in our wiki:
 #### Do not use HTML elements in javascript  files
 It is good practice to keep javascript code and html elements separated. It makes it easier to maintain and debug, and  is reusable. 
 
-Instead of creating HTML element inside javascript, create it in HTML page and update it with javascript.
+Instead of creating HTML element inside javascript, create it in an HTML page and update it with javascript.
 
 ```html
 /* Good */
