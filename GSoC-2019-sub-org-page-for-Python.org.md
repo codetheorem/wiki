@@ -77,12 +77,25 @@ Take some hours to read the full WIKI page of EOS: https://gitlab.com/SUSE-UIUX/
 
 > We also want to have a sense of who you are as an individual. At EOS we are young and very energetic. We have artists, musicians, gamers, and all types of people ready to have some quality time on Slack too.
 
-# Project 2
+# Project Ideas
 
-**Project Title:** Customizable icons font
+## Project 1
 
+**Project Title:** Icons page
 
-# Project 2
+**Description:** EOS delivers also a set of icons that are made 1-to-1 following
+
+**Deliverable:** The main objective of this project is to deliver a basic web UI builder that can easily register new UI elements, and that can export mockups (perhaps just a PDF or screenshot at first).
+
+**Mentors:** Cynthia Sanchez, Sorin Curescu.
+
+**Skills:** Node.js, Express.js, CI, Angular/React/Backbone, Pug.js, SCSS, Bootstrap 4, Heroku.
+
+**Skill Level:** Intermediate
+
+**Get started:** Research and test the waters first. Grapesjs may not be the only open source available solution. Start small and keep a close communication gap with your mentors, we are entirely available for you. Your success is our main priority.
+
+## Project 2
 
 **Project Title:** Web UI builder
 
@@ -100,10 +113,10 @@ If you want to understand more about Atomic Design, I recommend you reading the 
 
 **Deliverable:** The main objective of this project is to deliver a basic web UI builder that can easily register new UI elements, and that can export mockups (perhaps just a PDF or screenshot at first).
 
-**Mentor:** Cynthia Sanchez. Co-mentor: Sorin Curescu.
+**Mentors:** Cynthia Sanchez, Sorin Curescu.
 
 **Skills:** Node.js, Express.js, CI, Angular/React/Backbone, Pug.js, SCSS, Bootstrap 4, Heroku.
 
-**Skill Level:** Medium
+**Skill Level:** Intermediate
 
 **Get started:** Research and test the waters first. Grapesjs may not be the only open source available solution. Start small and keep a close communication gap with your mentors, we are entirely available for you. Your success is our main priority.
