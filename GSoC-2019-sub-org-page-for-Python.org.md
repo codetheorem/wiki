@@ -1,5 +1,24 @@
 # About EOS Design System
 
+Many companies of all different sizes struggle with today's IT agendas: bleeding edge software, agile development, short time-to-market, etc., and this "new" (and really not so) kid on the block is not making it any easier for developer and designers to keep up: UX design. 
+
+Design Systems can help solve this problem, and a few more. Design Systems serve as a centralized source of information for UX, UI, and other brand-related guidelines that help not only developers find the UI element or component they need, but also designers to build faster prototypes while streamlining the collaboration between the two.
+
+At EOS, we are creating the first open source and customizable Design System to help open source, SMEs, and all types of organizations deliver outstanding user interfaces, and consistent user experience cross-products by the hand of the current industry standards.
+
+EOS also created an iconic font made specifically to fit more complex scenarios seen in more technical OSS, as for example: endpoints_disconnected, file_system, repositories, proxy, and some other icons not found in the most popular and open source iconic fonts out there.
+
+Our project relies upon several open source technologies:
+Node.js, Express.js, Fontforge, Strapi CMS, Bootstrap 4, Pug.js, and others.
+
+# Contacting EOS Design System
+
+Our main communication channel is Slack, although you will need to be invited first to join: eos-community.slack.com.
+To be invited to our Slack channel, get in touch with us via any of the following:
+- Email: eos@suse.de.
+- Twitter: @eosdesignsystem.
+- Gitlab: https://gitlab.com/SUSE-UIUX/eos
+
 # Project 2
 
 **Project Title:** Customizable icons font
