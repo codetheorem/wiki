@@ -16,8 +16,66 @@ Node.js, Express.js, Fontforge, Strapi CMS, Bootstrap 4, Pug.js, and others.
 Our main communication channel is Slack, although you will need to be invited first to join: eos-community.slack.com.
 To be invited to our Slack channel, get in touch with us via any of the following:
 - Email: eos@suse.de.
-- Twitter: @eosdesignsystem.
+- Twitter: https://twitter.com/eosdesignsystem
 - Gitlab: https://gitlab.com/SUSE-UIUX/eos
+
+Please bear in mind that all of EOS mentors live and work in Europe so you should use CET time when contacting us, preferably between 09:00 - 18:00 CET.
+
+# Getting Started
+
+Setting up EOS locally is pretty easy. Our readme.md file in our repository explains everything you should do to have the instance running in your machine. It is important that you follow the instructions correctly, specially the version numbers indicated for Node.js and NPM:
+
+Read the instructions at: https://gitlab.com/SUSE-UIUX/eos
+
+As you have seen above, we use Gitlab as source control, which is a web runner of GIT (read more about GIT https://git-scm.com/). If GIT is new to you, we recommend you spending 20 minutes in this beginners course https://www.codecademy.com/learn/learn-git.
+We also recommend you using Fork if you use Mac or Windows: https://git-fork.com/. It is an excellent GUI (graphical user interface) to use GIT avoiding the terminal.
+
+To submit a bug, you should simply go to our issues list in Gitlab (https://gitlab.com/SUSE-UIUX/eos/issues) and report in as many words as possible, using examples (images if you can, too), and everything you can so other contributors can understand exactly the issue and how to reproduce it or understand it.
+
+If you would like to submit a bug fix for an already submitted issue, please make sure that the issue has been assigned a label first. Issues with no labels assigned are not yet ready, they are either waiting for a response, have not been read, or are not aligned with the current roadmap.
+
+# Writing your GSoC application
+
+The first and most important step to not get rejected is to remember to add the name of our sub-org (EOS) in the title of your GSoC application. Students not adding "EOS" will be rejected by Python.org. More information at http://python-gsoc.org/index.html#apply
+
+Get in contact with the mentors of the project you chose ASAP. The time you wait to get in touch could be the difference between getting selected or going home.
+
+Before even submitting the idea, get a feeling of EOS: clone the repository and get a better understanding of what we're doing. Again, ask as many questions as you want!
+
+Take some hours to read the full WIKI page of EOS: https://gitlab.com/SUSE-UIUX/eos/wikis/home. Yes we have a lot of pages but they will help you get those Pull Requests merged faster if you understand our coding conventions beforehand.
+
+### Application template
+
+* Contact information *
+
+> Name:
+> E-mail address:
+> Time zone: 
+> Other information that may be useful to contact you.
+
+* Synopsis *
+
+> Give us the “elevator pitch“. You have 30 seconds to tell us what you are going to make, why we will like this project, and to convince us that you are qualified to do it! (You might want to write this section last).
+
+* Which of the published tasks are you interested in? What do you plan to do? *
+
+> Detail your idea. Take into consideration the current technologies used at EOS and explain how they can be used, perhaps introducing new ones, to successfully achieve the task.
+
+* What have you done so far with this idea ? *
+
+> Research, benchmark with other tools available in the market, analyze the best options, try out EOS, and possible even make a PR or 2 to warm up with the team.
+
+* Schedule of Deliverables *
+
+> Make a plan. Being disciplined is important and it will help you have a stress-free summer coding amazing features. We won't micromanage you if you haven't stuck to the plan by the hour, it is not the point. We want you to be organized and in sync with the EOS team.
+
+* Tell us about your previous experience * 
+
+> Take the time to tell us about previous work experiences, courses you've taken, open source projects you've contributed to.
+
+* Tell us a bit about you *
+
+> We also want to have a sense of who you are as an individual. At EOS we are young and very energetic. We have artists, musicians, gamers, and all types of people ready to have some quality time on Slack too.
 
 # Project 2
 
