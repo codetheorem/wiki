@@ -87,7 +87,7 @@ Take some hours to read the full WIKI page of EOS: https://gitlab.com/SUSE-UIUX/
 
 **Deliverable:** The main objective of this project is to deliver a web interface for EOS icons and EOS Design System, where both are aligned in terms of UX/UI and ideally the "documentation" section can be managed with a headless CMS, such as Strapi [this is the currently used and preferred CMS at EOS].
 
-**Mentors:** Cynthia Sanchez, Jesus Herman, Sorin Curescu.
+**Mentors:** Cynthia Sanchez, Jesus Herman, Sorin Curescu, Manuele Carlini.
 
 **Skills:** SCSS, Bootstrap 4, Heroku, Adobe XD.
 
