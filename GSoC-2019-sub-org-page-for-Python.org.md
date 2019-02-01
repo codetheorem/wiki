@@ -6,7 +6,7 @@ Design Systems can help solve this problem, and a few more. Design Systems serve
 
 At EOS, we are creating the first open source and customizable Design System to help open source, SMEs, and all types of organizations deliver outstanding user interfaces, and consistent user experience cross-products by the hand of the current industry standards.
 
-EOS also created an iconic font made specifically to fit more complex scenarios seen in more technical OSS, as for example: endpoints_disconnected, file_system, repositories, proxy, and some other icons not found in the most popular and open source iconic fonts out there.
+EOS also created an iconic font made specifically to fit more complex scenarios seen in more technical OSS, as for example endpoints_disconnected, file_system, repositories, proxy, and some other icons not found in the most popular and open source iconic fonts out there.
 
 Our project relies upon several open source technologies:
 Node.js, Express.js, Fontforge, Strapi CMS, Bootstrap 4, Pug.js, and others.
@@ -23,7 +23,7 @@ Please bear in mind that all of EOS mentors live and work in Europe so you shoul
 
 # Getting Started
 
-Setting up EOS locally is pretty easy. Our readme.md file in our repository explains everything you should do to have the instance running in your machine. It is important that you follow the instructions correctly, specially the version numbers indicated for Node.js and NPM:
+Setting up EOS locally is pretty easy. Our readme.md file in our repository explains everything you should do to have the instance running in your machine. It is important that you follow the instructions correctly, especially the version numbers indicated for Node.js and NPM:
 
 Read the instructions at: https://gitlab.com/SUSE-UIUX/eos
 
@@ -42,7 +42,7 @@ Get in contact with the mentors of the project you chose ASAP. The time you wait
 
 Before even submitting the idea, get a feeling of EOS: clone the repository and get a better understanding of what we're doing. Again, ask as many questions as you want!
 
-Take some hours to read the full WIKI page of EOS: https://gitlab.com/SUSE-UIUX/eos/wikis/home. Yes we have a lot of pages but they will help you get those Pull Requests merged faster if you understand our coding conventions beforehand.
+Take some hours to read the full WIKI page of EOS: https://gitlab.com/SUSE-UIUX/eos/wikis/home. Yes, we have a lot of pages but they will help you get those Pull Requests merged faster if you understand our coding conventions beforehand.
 
 ### Application template
 
@@ -61,9 +61,9 @@ Take some hours to read the full WIKI page of EOS: https://gitlab.com/SUSE-UIUX/
 
 > Detail your idea. Take into consideration the current technologies used at EOS and explain how they can be used, perhaps introducing new ones, to successfully achieve the task.
 
-* What have you done so far with this idea ? *
+* What have you done so far with this idea? *
 
-> Research, benchmark with other tools available in the market, analyze the best options, try out EOS, and possible even make a PR or 2 to warm up with the team.
+> Research, benchmark with other tools available in the market, analyze the best options, try out EOS, and possibly even make a PR or 2 to warm up with the team.
 
 * Schedule of Deliverables *
 
@@ -81,19 +81,19 @@ Take some hours to read the full WIKI page of EOS: https://gitlab.com/SUSE-UIUX/
 
 ## Project 1
 
-**Project Title:** Icons page
+**Project Title:** Icons page and EOS documentation
 
-**Description:** EOS delivers also a set of icons that are made 1-to-1 following
+**Description:** EOS delivers a set of icons that are made 1-to-1 following Material Design Icons. They are currently published at https://suse-uiux.gitlab.io/eos-icons/. The problem with this page is that it lacks engagement and information about the project: how to contribute new icons, how to submit icons request, how to install it, etc. On the other hand, EOS has a landing page that is more engaging, but it still lacks a documentation page that explains how to use, install, and customize EOS for your company/project.
 
-**Deliverable:** The main objective of this project is to deliver a basic web UI builder that can easily register new UI elements, and that can export mockups (perhaps just a PDF or screenshot at first).
+**Deliverable:** The main objective of this project is to deliver a web interface for EOS icons and EOS Design System, where both are aligned in terms of UX/UI and ideally the "documentation" section can be managed with a headless CMS, such as Strapi [this is the currently used and preferred CMS at EOS].
 
-**Mentors:** Cynthia Sanchez, Sorin Curescu.
+**Mentors:** Cynthia Sanchez, Jesus Herman, Sorin Curescu.
 
-**Skills:** Node.js, Express.js, CI, Angular/React/Backbone, Pug.js, SCSS, Bootstrap 4, Heroku.
+**Skills:** SCSS, Bootstrap 4, Heroku, Adobe XD.
 
-**Skill Level:** Intermediate
+**Skill Level:** Easy
 
-**Get started:** Research and test the waters first. Grapesjs may not be the only open source available solution. Start small and keep a close communication gap with your mentors, we are entirely available for you. Your success is our main priority.
+**Get started:** You will need to learn more about Strapi first (https://strapi.io), implement it in a free Heroku node so you can use it in your front-end. Consider learning about JAMstack (https://jamstack.org/) as this may be a perfect use case for it. Once you have all the technical preparation, you should research and find the best ideas for the UI of the pages. Our team will certainly help you with illustrations and others if you need, but the general layout and idea have to come from you. It is recommended that we use the Design System as a baseline for the UI pieces.
 
 ## Project 2
 
@@ -101,7 +101,7 @@ Take some hours to read the full WIKI page of EOS: https://gitlab.com/SUSE-UIUX/
 
 **Description:** EOS Design System is an open source set of guidelines, components, elements, and more. All these tools are there to help developers and designers create products in a consistent and efficient way. The goal of a Design System is that all products in a portfolio look and feel the same in order to enhance the user experience and brand perception. While a good documentation of all these components help designers and developers understand how and when to use them, nothing could make their life easier than enabling developers and designers to create quick mockups in an online web UI builder that use the exact color, size, and shape of the UI block defined in the design system.
 
-There is already an open source web builder available: https://github.com/artf/grapesjs. You can checkout the demo at: https://grapesjs.com/demo.html. And several other proprietary builders:
+There is already an open source web builder available: https://github.com/artf/grapesjs. You can check out the demo at: https://grapesjs.com/demo.html. And several other proprietary builders:
 https://www.layoutit.com/build, https://pingendo.com/
 Use the examples above to get the best ideas for the UI builder, keeping in mind that we expect a more minimal result given the size of a project like that, so you will need to plan this accordingly. We will help you.
 
@@ -109,11 +109,11 @@ EOS follows the Atomic Design process for building UI blocks:
 
 ![image](https://user-images.githubusercontent.com/5013096/49255397-2c134980-f42c-11e8-852b-9bc32e4aa743.png)
 
-If you want to understand more about Atomic Design, I recommend you reading the following article: https://medium.muz.li/building-design-systems-with-atomic-design-93a13286f676
+If you want to understand more about Atomic Design, we recommend you read the following article: https://medium.muz.li/building-design-systems-with-atomic-design-93a13286f676
 
 **Deliverable:** The main objective of this project is to deliver a basic web UI builder that can easily register new UI elements, and that can export mockups (perhaps just a PDF or screenshot at first).
 
-**Mentors:** Cynthia Sanchez, Sorin Curescu.
+**Mentors:** Cynthia Sanchez, Jesus Herman, Sorin Curescu.
 
 **Skills:** Node.js, Express.js, CI, Angular/React/Backbone, Pug.js, SCSS, Bootstrap 4, Heroku.
 
