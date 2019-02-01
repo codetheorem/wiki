@@ -120,3 +120,20 @@ If you want to understand more about Atomic Design, we recommend you read the fo
 **Skill Level:** Intermediate
 
 **Get started:** Research and test the waters first. Grapesjs may not be the only open source available solution. Start small and keep a close communication gap with your mentors, we are entirely available for you. Your success is our main priority.
+
+
+## Project 3
+
+**Project Title:** Icons picker and custom font generator
+
+**Description:** EOS delivers a set of icons that are made 1-to-1 following Material Design Icons. They are currently published at https://suse-uiux.gitlab.io/eos-icons/ for you to see them. These icons are also available in an extended version which includes both fonts (EOS and Material Design) in one. Some users will use the extended version, some other will use only the EOS icons, however, in both scenarios it would be unusual that a project uses all of the icons available in a font. Including a library of 90% unused icons in a web project reduces performance unnecessarily. 
+
+**Deliverable:** Having an icon picker to chose the icons needed from the 2 available icon fonts. Once the icons are selected, the application should enable the user to generate and download the custom font. A nice to have for this project would be to enable recurrent users to continue building their previous selections.
+
+**Mentors:** Cynthia Sanchez, Jesus Herman, Sorin Curescu.
+
+**Skills:** JS, Grunt, Adobe XD, Gitlab CI, some HTML and SCSS.
+
+**Skill Level:** Easy
+
+**Get started:** We use Fontforge with Grunt to automatically generate the EOS icon font with a simple CLI script. Take the time to understand the bases of how the font is generated, how Fontforge is configured, and the extent of what this last one can do. You will need to work on a UI to pick the icons. We expect to see some mockups creations and the implementation of them. You need to get some understanding of how Gitlab CI works, for this you should read more about YAML (https://yaml.org) and the concepts of CI/CD (https://about.gitlab.com/product/continuous-integration/). This is important because the webpage is currently served by Gitlab pages and generated in CI. 
