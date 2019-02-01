@@ -83,6 +83,8 @@ Take some hours to read the full WIKI page of EOS: https://gitlab.com/SUSE-UIUX/
 
 **Project Title:** Icons page and EOS documentation
 
+**Skill Level:** Easy
+
 **Description:** EOS delivers a set of icons that are made 1-to-1 following Material Design Icons. They are currently published at https://suse-uiux.gitlab.io/eos-icons/. The problem with this page is that it lacks engagement and information about the project: how to contribute new icons, how to submit icons request, how to install it, etc. On the other hand, EOS has a landing page that is more engaging, but it still lacks a documentation page that explains how to use, install, and customize EOS for your company/project.
 
 **Deliverable:** The main objective of this project is to deliver a web interface for EOS icons and EOS Design System, where both are aligned in terms of UX/UI and ideally the "documentation" section can be managed with a headless CMS, such as Strapi [this is the currently used and preferred CMS at EOS].
@@ -91,13 +93,13 @@ Take some hours to read the full WIKI page of EOS: https://gitlab.com/SUSE-UIUX/
 
 **Skills:** SCSS, Bootstrap 4, Heroku, Adobe XD.
 
-**Skill Level:** Easy
-
 **Get started:** You will need to learn more about Strapi first (https://strapi.io), implement it in a free Heroku node so you can use it in your front-end. Consider learning about JAMstack (https://jamstack.org/) as this may be a perfect use case for it. Once you have all the technical preparation, you should research and find the best ideas for the UI of the pages. Our team will certainly help you with illustrations and others if you need, but the general layout and idea have to come from you. It is recommended that we use the Design System as a baseline for the UI pieces.
 
 ## Project 2
 
 **Project Title:** Web UI builder
+
+**Skill Level:** Intermediate
 
 **Description:** EOS Design System is an open source set of guidelines, components, elements, and more. All these tools are there to help developers and designers create products in a consistent and efficient way. The goal of a Design System is that all products in a portfolio look and feel the same in order to enhance the user experience and brand perception. While a good documentation of all these components help designers and developers understand how and when to use them, nothing could make their life easier than enabling developers and designers to create quick mockups in an online web UI builder that use the exact color, size, and shape of the UI block defined in the design system.
 
@@ -117,14 +119,14 @@ If you want to understand more about Atomic Design, we recommend you read the fo
 
 **Skills:** Node.js, Express.js, CI, Angular/React/Backbone, Pug.js, SCSS, Bootstrap 4, Heroku.
 
-**Skill Level:** Intermediate
-
 **Get started:** Research and test the waters first. Grapesjs may not be the only open source available solution. Start small and keep a close communication gap with your mentors, we are entirely available for you. Your success is our main priority.
 
 
 ## Project 3
 
 **Project Title:** Icons picker and custom font generator
+
+**Skill Level:** Easy
 
 **Description:** EOS delivers a set of icons that are made 1-to-1 following Material Design Icons. They are currently published at https://suse-uiux.gitlab.io/eos-icons/ for you to see them. These icons are also available in an extended version which includes both fonts (EOS and Material Design) in one. Some users will use the extended version, some other will use only the EOS icons, however, in both scenarios it would be unusual that a project uses all of the icons available in a font. Including a library of 90% unused icons in a web project reduces performance unnecessarily. 
 
@@ -133,7 +135,5 @@ If you want to understand more about Atomic Design, we recommend you read the fo
 **Mentors:** Cynthia Sanchez, Jesus Herman, Sorin Curescu.
 
 **Skills:** JS, Grunt, Adobe XD, Gitlab CI, some HTML and SCSS.
-
-**Skill Level:** Easy
 
 **Get started:** We use Fontforge with Grunt to automatically generate the EOS icon font with a simple CLI script. Take the time to understand the bases of how the font is generated, how Fontforge is configured, and the extent of what this last one can do. You will need to work on a UI to pick the icons. We expect to see some mockups creations and the implementation of them. You need to get some understanding of how Gitlab CI works, for this you should read more about YAML (https://yaml.org) and the concepts of CI/CD (https://about.gitlab.com/product/continuous-integration/). This is important because the webpage is currently served by Gitlab pages and generated in CI. 
