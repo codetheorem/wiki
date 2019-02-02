@@ -115,7 +115,7 @@ If you want to understand more about Atomic Design, we recommend you read the fo
 
 **Deliverable:** The main objective of this project is to deliver a basic web UI builder that can easily register new UI elements, and that can export mockups (perhaps just a PDF or screenshot at first).
 
-**Mentors:** Cynthia Sanchez, Jesus Herman, Sorin Curescu.
+**Mentors:** Cynthia Sanchez, Jesus Herman, Sorin Curescu, Manuele Carlini.
 
 **Skills:** Node.js, Express.js, CI, Angular/React/Backbone, Pug.js, SCSS, Bootstrap 4, Heroku.
 
@@ -132,7 +132,7 @@ If you want to understand more about Atomic Design, we recommend you read the fo
 
 **Deliverable:** Having an icon picker to chose the icons needed from the 2 available icon fonts. Once the icons are selected, the application should enable the user to generate and download the custom font. A nice to have for this project would be to enable recurrent users to continue building their previous selections.
 
-**Mentors:** Cynthia Sanchez, Jesus Herman, Sorin Curescu.
+**Mentors:** Cynthia Sanchez, Jesus Herman, Sorin Curescu, Manuele Carlini.
 
 **Skills:** JS, Grunt, Adobe XD, Gitlab CI, some HTML and SCSS.
 
