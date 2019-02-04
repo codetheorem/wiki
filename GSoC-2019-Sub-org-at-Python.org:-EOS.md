@@ -15,7 +15,8 @@ Node.js, Express.js, Fontforge, Strapi CMS, Bootstrap 4, Pug.js, and others.
 
 Our main communication channel is Slack, although you will need to be invited first to join: eos-community.slack.com.
 To be invited to our Slack channel, get in touch with us via any of the following:
-- Email: eos@suse.de.
+- Mailing list: https://groups.google.com/forum/#!forum/eos-design-system
+- Slack: https://eos-community.slack.com
 - Twitter: https://twitter.com/eosdesignsystem
 - Gitlab: https://gitlab.com/SUSE-UIUX/eos
 
