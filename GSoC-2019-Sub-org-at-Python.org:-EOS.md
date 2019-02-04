@@ -13,12 +13,12 @@ Node.js, Express.js, Fontforge, Strapi CMS, Bootstrap 4, Pug.js, and others.
 
 # Contacting EOS Design System
 
-Our main communication channel is Slack, although you will need to be invited first to join: eos-community.slack.com.
-To be invited to our Slack channel, get in touch with us via any of the following:
+Our main communication channel is Slack, although you will need to be invited first to join.
+To be invited get in touch with us via any of the following:
 - Mailing list: https://groups.google.com/forum/#!forum/eos-design-system
-- Slack: https://eos-community.slack.com
 - Twitter: https://twitter.com/eosdesignsystem
 - Gitlab: https://gitlab.com/SUSE-UIUX/eos
+- Slack: https://eos-community.slack.com (for when you already have the invite)
 
 Please bear in mind that all of EOS mentors live and work in Europe so you should use CET time when contacting us, preferably between 09:00 - 18:00 CET.
 
