@@ -82,17 +82,17 @@ Take some hours to read the full WIKI page of EOS: https://gitlab.com/SUSE-UIUX/
 
 ## Project 1
 
-**Project Title:** Icons page and EOS documentation
+**Project Title:** Icons and EOS web page
 
 **Skill Level:** Easy
 
-**Description:** EOS delivers a set of icons that are made 1-to-1 following Material Design Icons. They are currently published at https://suse-uiux.gitlab.io/eos-icons/. The problem with this page is that it lacks engagement and information about the project: how to contribute new icons, how to submit icons request, how to install it, etc. On the other hand, EOS has a landing page that is more engaging, but it still lacks a documentation page that explains how to use, install, and customize EOS for your company/project.
+**Description:** EOS delivers a set of icons that are made 1-to-1 following Material Design Icons. They are currently published at https://suse-uiux.gitlab.io/eos-icons/. The problem with this page is that it lacks engagement and information about the project: how to contribute new icons, how to submit icons request, how to install it, etc. On the other hand, EOS has a landing page that is more engaging, but there is a lot of useful information missing too. On the other hand, at the moment all the content is created manually, we could have a more automated way to scale the pages.
 
-**Deliverable:** The main objective of this project is to deliver a web interface for EOS icons and EOS Design System, where both are aligned in terms of UX/UI and ideally the "documentation" section can be managed with a headless CMS, such as Strapi [this is the currently used and preferred CMS at EOS].
+**Deliverable:** The main objective of this project is to deliver a web interface for EOS icons and EOS Design System, where both are aligned in terms of UX/UI and ideally can be managed with a headless CMS, such as Strapi [this is the currently used and preferred CMS at EOS].
 
 **Mentors:** Cynthia Sanchez, Jesus Herman, Sorin Curescu, Manuele Carlini.
 
-**Skills:** SCSS, Bootstrap 4, Heroku, Adobe XD.
+**Skills:** SCSS, Bootstrap 4, Heroku, Adobe XD, Headless CMSs.
 
 **Get started:** You will need to learn more about Strapi first (https://strapi.io), implement it in a free Heroku node so you can use it in your front-end. Consider learning about JAMstack (https://jamstack.org/) as this may be a perfect use case for it. Once you have all the technical preparation, you should research and find the best ideas for the UI of the pages. Our team will certainly help you with illustrations and others if you need, but the general layout and idea have to come from you. It is recommended that we use the Design System as a baseline for the UI pieces.
 
