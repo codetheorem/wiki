@@ -8,7 +8,7 @@ When the new flags are created, make sure you set the flag name in the **EXACT**
 In order to avoid unnecessary network requests to Gitlab with each route requests to check for flags, when the servers lunch it'll generate a config file with flags status (`flags.config.js`. This will also help if for some reason Gitlab is not working, we still can use our application without interruptions) and this file it will be used with the middleware. If we want to update the config file without restarting the server (this is used to re-generate the file once a flag status is changed) we can do it at `http://localhost:3000/api/features` 
  
 To allow/disallow a route, we make use of the features-toggle middleware (`modules/features-toggle.js`) that reads the `flags.config.js` and based on the feature status will allow or redirect the requests.  
->  If the env is development/staging we ignore all the flags since we want to display all the pages, we achieve this by passing an empty array.
+>  If the env is development we ignore all the flags since we want to display all the pages, we achieve this by passing an empty array.
 
 ## Menu and submenu items.
 To show/hide an element from the menu:
