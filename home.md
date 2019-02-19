@@ -26,7 +26,7 @@ The following documentation defines the Design System used to deliver UX, UI, fr
 - [Adding/changing Front-end packages](installing-front-end-packages)
 - [Environment variables](environment-variables)
 - [Gmail configuration](gmail-configuration)
-- [Feature flags](Features-flags)
+- [Feature flags](Feature-flags)
 
 ## Designing the EOS project:
 - [Personas](https://gitlab.com/SUSE-UIUX/eos/wikis/Personas)
