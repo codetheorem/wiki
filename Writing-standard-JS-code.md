@@ -4,6 +4,15 @@ https://standardjs.com/rules.html
 And, because we follow the standards, we get to put this badge in our wiki:
 
 [![JavaScript Style Guide](https://cdn.rawgit.com/standard/standard/master/badge.svg)](https://github.com/standard/standard)
+#### ES5/ES6 syntax
+- Use `let` for variables that will change their value over time, and `const` for variables which cannot be reassigned.
+- Always use template literals.
+- Use arrow function and function expression instead of function declaration.
+- For object methods use `arrow function` syntax.
+- Use Async Await for asynchronous tasks.
+
+
+ 
 
 #### Do not use HTML elements in javascript  files
 It is good practice to keep javascript code and html elements separated. It makes it easier to maintain and debug, and  is reusable. 
