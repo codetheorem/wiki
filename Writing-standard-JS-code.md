@@ -13,7 +13,7 @@ And, because we follow the standards, we get to put this badge in our wiki:
 - Use `export default NAME` if you need to export several functions (1)
 - Use named imports when possible/needed (2)
 
-```
+```js
 // (1)
 const fn1 = () => {
    return true
