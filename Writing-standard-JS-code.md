@@ -29,7 +29,7 @@ export default foo
 
 // ====================
 
-(2)
+// (2)
 import { fn1 } from 'dir/foo';
 
 ``` 
