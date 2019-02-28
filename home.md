@@ -8,9 +8,10 @@ The following documentation defines the Design System used to deliver UX, UI, fr
 
 ## EOS Design System, what is it actually?
 
-- The EOS Design System is not limited to 1 specific product or a set of them. Instead, to **any SUSE product**. This means that the results of EOS can be implemented in either existing and upcoming products.
+- The EOS Design System is not limited to 1 specific product or a set of them. Instead, to **any product** in a given organization. This means that the results of EOS can be implemented in either existing and upcoming products.
 - EOS is a Design System, that means, a set of components, guides, and definitions to help designers and front-end developers design their interfaces efficiently and consistently. 
-- Features in a product are, normally, a set of components together to provide a functionality for a certain website following specific use cases and scenarios. EOS doesn't provide features, but components. The product's designers/front-end dev take care of assembling the components into features.
+- Features in a product are, normally, a set of components together to provide functionality for a certain website following specific use cases and scenarios. EOS doesn't provide features, but components. The product's designers/front-end dev take care of assembling the components into features.
+- Read the product mission statement to understand the scope of the product: https://eos-mission.webflow.io/
 
 ## Developing the EOS project:
 
