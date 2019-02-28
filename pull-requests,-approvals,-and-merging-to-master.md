@@ -30,7 +30,7 @@ For every issue you find you should **Start a discussion** from the comments int
 
 Only once all issues are resolved, you can approve the merge request by clicking on the green button so then the person who initially opened the PR can **merge it to master**.
 
-### Deploying to production.
+# Deploying to production.
 
 Once CI has passed after a successful merge into master, Gitlab CI will give the option to manually deploy to production. This should only be made after having properly checked the staging server [undisclosed for security reasons] and by the PO [@cyntss] or acting deputy.
 
