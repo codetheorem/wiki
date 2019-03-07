@@ -37,3 +37,6 @@ Both software are approved to be used by the company and team, and both provide 
 - The reviewer's role is to remind the team to have a look at the design and leave feedback. The reviewer will also ensure to give the thumbs up once all comments on a design have been resolved by its author.
 - The team members interested in giving feedback will then be able to read the card description and then click on the link to the prototype you created.
 - Avoid leaving feedback on Trello if there is a prototype attached to the card. Use Trello for feedback only when no prototype exists.
+- The person asking for review **always** removes the XD as they're responsible for it
+1. Either in order to move to **Done**
+2. Either in order to move it **To do**
