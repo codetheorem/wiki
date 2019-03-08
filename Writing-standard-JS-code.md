@@ -10,6 +10,7 @@ And, because we follow the standards, we get to put this badge in our wiki:
 - Use arrow function and function expression instead of function declaration when possible (use function declaration when the scope of this is needed, ex: jQuery selectors).
 - For object methods use `arrow function` syntax.
 - Use Async Await for asynchronous tasks.
+- Use `_` to define temporary variables, ex: `_data`
 - Use `export default NAME` if you need to export several functions (1)
 - Use named imports when possible/needed (2)
 
