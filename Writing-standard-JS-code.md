@@ -11,31 +11,6 @@ And, because we follow the standards, we get to put this badge in our wiki:
 - For object methods use `arrow function` syntax.
 - Use Async Await for asynchronous tasks.
 - Use `_` to define temporary variables, ex: `_data`
-- Use `export default NAME` if you need to export several functions (1)
-- Use named imports when possible/needed (2)
-
-```js
-// (1)
-const fn1 = () => {
-   return true
-}
-
-const fn2 = () => {
-   return false
-}
-
-const foo = {fn1, fn2}
-
-export default foo
-
-// ====================
-
-// (2)
-import { fn1 } from 'dir/foo';
-
-``` 
-
-
  
 
 #### Do not use HTML elements in javascript  files
