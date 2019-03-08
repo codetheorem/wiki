@@ -7,7 +7,7 @@ And, because we follow the standards, we get to put this badge in our wiki:
 #### ES5/ES6 syntax
 - Use `let` for variables that will change their value over time, and `const` for variables which cannot be reassigned.
 - Always use template literals.
-- Use arrow function and function expression instead of function declaration.
+- Use arrow function and function expression instead of function declaration when possible (use function declaration when the scope of this is needed, ex: jQuery selectors).
 - For object methods use `arrow function` syntax.
 - Use Async Await for asynchronous tasks.
 - Use `export default NAME` if you need to export several functions (1)
