@@ -18,7 +18,7 @@ To be invited get in touch with us via any of the following:
 - Mailing list: https://groups.google.com/forum/#!forum/eos-design-system
 - Twitter: https://twitter.com/eosdesignsystem
 - Gitlab: https://gitlab.com/SUSE-UIUX/eos
-- Slack: https://eos-community.slack.com (for when you already have the invite)
+- Slack: https://eos-community.slack.com. Request an invite at: https://slack.eosdesignsystem.com/
 
 Please bear in mind that all of EOS mentors live and work in Europe so you should use CET time when contacting us, preferably between 09:00 - 18:00 CET.
 
