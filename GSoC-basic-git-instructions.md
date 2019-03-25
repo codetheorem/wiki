@@ -19,7 +19,7 @@ If your `master` branch is clean, to update it you have to do the following:
 
 *Configure your local git**
 
-1- Add upstream (you only need to do this once) `git remote add upstream git@gitlab.com:SUSE-UIUX/eos.git`
+1- Add upstream (you only need to do this once) `git remote add upstream git@gitlab.com:SUSE-UIUX/eos.git` **
 2- Verify it went well: `git remote -v`. You should see
 
 ```
