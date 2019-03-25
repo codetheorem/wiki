@@ -22,10 +22,12 @@ If your `master` branch is clean, to update it you have to do the following:
 1- Add upstream (you only need to do this once) `git remote add upstream git@gitlab.com:SUSE-UIUX/eos.git`
 2- Verify it went well: `git remote -v`. You should see
 
-```origin    git@gitlab.com:YOUR-USERNAME/eos-icons.git (fetch)
+```
+origin    git@gitlab.com:YOUR-USERNAME/eos-icons.git (fetch)
 origin    git@gitlab.com:YOUR-USERNAME/eos-icons.git (push)
 upstream    git@gitlab.com:SUSE-UIUX/eos-icons.git (fetch)
-upstream    git@gitlab.com:SUSE-UIUX/eos-icons.git (push)```
+upstream    git@gitlab.com:SUSE-UIUX/eos-icons.git (push)
+```
 
 Now you are ready to fetch and merge, every time you start a new branch you should do:
 1- `git checkout master`
