@@ -11,7 +11,7 @@ And, because we follow the standards, we get to put this badge in our wiki:
 - For object methods use `arrow function` syntax.
 - Use Async Await for asynchronous tasks.
 - Use `_` to define temporary variables, ex: `_data` to refer to a big object, then `data` to refer to the final form of the object.
-- Use `$` to define templates, ej: `const $video = $('.js-video-container').clone(true)`
+- Use `$` to define template variable, ex: `const $video = $('.js-video-container').clone(true)`
  
 
 #### Do not use HTML elements in javascript  files
