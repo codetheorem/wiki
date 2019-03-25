@@ -40,4 +40,4 @@ upstream    git@gitlab.com:SUSE-UIUX/eos-icons.git (push)
 
 ##### That's it!.. your `master` branch is updated with EOS
 
-** to do this with EOS-icons, the process is the same but you should do it with EOS-icons repo `git@gitlab.com:SUSE-UIUX/eos-icons.git`
+(**) to do this with EOS-icons, the process is the same but you should do it with EOS-icons repo `git@gitlab.com:SUSE-UIUX/eos-icons.git`
