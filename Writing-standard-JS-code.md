@@ -10,7 +10,8 @@ And, because we follow the standards, we get to put this badge in our wiki:
 - Use arrow function and function expression instead of function declaration when possible (use function declaration when the scope of this is needed, ex: jQuery selectors).
 - For object methods use `arrow function` syntax.
 - Use Async Await for asynchronous tasks.
-- Use `_` to define temporary variables, ex: `_data`
+- Use `_` to define temporary variables, ex: `_data` to refer to a big object, then `data` to refer to the final form of the object.
+- Use `$` to define templates, ej: `const $video = $('.js-video-container').clone(true)`
  
 
 #### Do not use HTML elements in javascript  files
@@ -22,13 +23,13 @@ Instead of creating HTML element inside javascript, create it in an HTML page an
 /* Good */
 
 $("button").click(function(){
-    var tagTemplate = $('.js-tags').text(tagName)
+    const $tagTemplate = $('.js-tags').text(tagName)
 });
 
 /* Bad */
 
  $("button").click(function(){
-    tag = '<span class="label label-default">' + tagName + '</span>'
+    tag = `<span class="label label-default">${tagName}</span>`
     $('.js-tags').html(jQuery.parseHTML(tag))
  });
 
