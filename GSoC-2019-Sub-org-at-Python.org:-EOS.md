@@ -138,3 +138,21 @@ If you want to understand more about Atomic Design, we recommend you read the fo
 **Skills:** JS, Grunt, Adobe XD, Gitlab CI, some HTML and SCSS.
 
 **Get started:** We use Fontforge with Grunt to automatically generate the EOS icon font with a simple CLI script. Take the time to understand the bases of how the font is generated, how Fontforge is configured and the extent of what this last one can does. You will need to work on a UI to pick the icons. We expect to see some mockups creations and the implementation of them. You need to get some understanding of how Gitlab CI works, for this you should read more about YAML (https://yaml.org) and the concepts of CI/CD (https://about.gitlab.com/product/continuous-integration/). This is important because the webpage is currently served by Gitlab pages and generated in CI. 
+
+# Useful links:
+
+- Basic instructions to setup and use GIT in open source:
+https://gitlab.com/SUSE-UIUX/eos/wikis/GSoC-basic-git-instructions
+
+- Javascript conventions we follow at EOS:
+https://gitlab.com/SUSE-UIUX/eos/wikis/Writing-standard-JS-code
+https://standardjs.com/rules.html
+https://gitlab.com/SUSE-UIUX/eos/wikis/code-commenting-standards
+
+- CSS conventions:
+https://gitlab.com/SUSE-UIUX/eos/wikis/Editing-css-style-guide
+https://gitlab.com/SUSE-UIUX/eos/wikis/CSS-structure
+https://gitlab.com/SUSE-UIUX/eos/wikis/code-commenting-standards
+
+- How to name your branches:
+https://gitlab.com/SUSE-UIUX/eos/wikis/naming-conventions-for-new-branches
