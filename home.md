@@ -18,7 +18,6 @@ The following documentation defines the Design System used to deliver UX, UI, fr
 - [Naming conventions for new branches](naming-conventions-for-new-branches)
 - [Pull requests, approvals, and merging to Master](pull-requests,-approvals,-and-merging-to-master)
 - [Deployments and versioning releases with tags](deployments-and-versioning-releases-with-tags)
-- [Editor settings](Editor-settings)
 - [Writing CSS/SASS style guide](Editing-css-style-guide)
 - [CSS structure](CSS-structure)
 - [Writing standard JS code](Writing-standard-JS-code)
