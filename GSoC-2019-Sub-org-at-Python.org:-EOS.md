@@ -142,17 +142,25 @@ If you want to understand more about Atomic Design, we recommend you read the fo
 # Useful links:
 
 - Basic instructions to setup and use GIT in open source:
+
 https://gitlab.com/SUSE-UIUX/eos/wikis/GSoC-basic-git-instructions
 
 - Javascript conventions we follow at EOS:
+
 https://gitlab.com/SUSE-UIUX/eos/wikis/Writing-standard-JS-code
+
 https://standardjs.com/rules.html
+
 https://gitlab.com/SUSE-UIUX/eos/wikis/code-commenting-standards
 
 - CSS conventions:
+
 https://gitlab.com/SUSE-UIUX/eos/wikis/Editing-css-style-guide
+
 https://gitlab.com/SUSE-UIUX/eos/wikis/CSS-structure
+
 https://gitlab.com/SUSE-UIUX/eos/wikis/code-commenting-standards
 
 - How to name your branches:
+
 https://gitlab.com/SUSE-UIUX/eos/wikis/naming-conventions-for-new-branches
