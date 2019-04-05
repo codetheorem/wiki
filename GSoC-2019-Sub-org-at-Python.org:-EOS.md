@@ -86,7 +86,7 @@ Take some hours to read the full WIKI page of EOS: https://gitlab.com/SUSE-UIUX/
 
 **Skill Level:** Easy
 
-**Description:** EOS delivers a set of icons that are made 1-to-1 following Material Design Icons. They are currently published at https://suse-uiux.gitlab.io/eos-icons/. The problem with this page is that it lacks engagement and information about the project: how to contribute new icons, how to submit icons request, how to install it, etc. On the other hand, EOS has a landing page that is more engaging, but there is a lot of useful information missing too. On the other hand, at the moment all the content is created manually, we could have a more automated way to scale the pages.
+**Description:** EOS delivers a set of icons that are made 1-to-1 following Material Design Icons. They are currently published at https://suse-uiux.gitlab.io/eos-icons/. The problem with this page is that it lacks engagement and information about the project: how to contribute new icons, how to submit icons request, how to install it, etc. On the other hand, EOS has a landing page that is more engaging, but there is a lot of useful information missing too. The EOS landing page could benefit from a section with a more automated way to scale the sub-pages and content with a CMS.
 
 **Deliverable:** The main objective of this project is to deliver a web interface for EOS icons and EOS Design System, where both are aligned in terms of UX/UI and ideally can be managed with a headless CMS, such as Strapi [this is the currently used and preferred CMS at EOS].
 
