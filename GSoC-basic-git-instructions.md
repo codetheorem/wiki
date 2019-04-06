@@ -41,3 +41,7 @@ upstream    git@gitlab.com:SUSE-UIUX/eos-icons.git (push)
 ##### That's it!.. your `master` branch is updated with EOS
 
 (**) to do this with EOS-icons, the process is the same but you should do it with EOS-icons repo `git@gitlab.com:SUSE-UIUX/eos-icons.git`
+
+### How to merge Upstream Master into the branch you are currently working on
+
+1- First, you need to merge Upstream Master into your local Master by following the steps above (**How to update your Master branch**)
