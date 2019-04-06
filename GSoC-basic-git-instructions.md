@@ -44,4 +44,10 @@ upstream    git@gitlab.com:SUSE-UIUX/eos-icons.git (push)
 
 ### How to merge Upstream Master into the branch you are currently working on
 
-1- First, you need to merge Upstream Master into your local Master by following the steps above (**How to update your Master branch**)
+1- First, you need to merge Upstream Master into your local Master by following the steps above (**How to update your Master branch**).
+
+2- Checkout back into your branch with `git checkout YOUR_BRANCH_NAME`.
+
+3- Merge Master into your branch with `git merge master`.
+
+4- You will possibly have merge conflicts to fix if the files you are modifying in your branch have been modified in Upstream Master. You need to carefully pay attention to what changed in Master and what you changed, and cleanup the code accordingly. If you are having problems understanding how Merge conflicts work, please watch the following video to have a better understanding: https://youtu.be/1MVQYSlgXrI
