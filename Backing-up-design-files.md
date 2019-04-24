@@ -12,6 +12,6 @@
 
 3. Once your card passes revision and the design moves to development make sure you push the .xd file to Github.
 
-4. Upload the file to the EOS Backup
+4. Upload the file to the EOS Backup. Please note that the shared CC folder and the EOS Backup repository need to be carbon copies of each other.
 
 [Click here to subscribe to the shared folder](https://adobe.ly/2KP6k9Y)
