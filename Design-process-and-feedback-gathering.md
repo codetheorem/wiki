@@ -4,7 +4,7 @@ All design cards should follow the full design process as described below:
 
 1). **Research and implement an initial draft or wireframe:** It is important that this initial step is not skipped because it is our best chance to gather information for the main text, elements, and structure of the page. A draft/wireframe should NOT include colors or final styling. The main objective is to learn as quickly as possible and invest as little time as possible designing due to the fact that after having gathered feedback, the wireframe will most likely require changes. Prototyping at this step is also a valid option so your reviewers understand better the path you defined. It is important that you **always present more than one option to the reviewer**. Greater choice will result in better design decisions.
 
-A demo of wireframe:
+A demo of a wireframe:
 
 ![wireframe](https://careerfoundry.com/en/blog/uploads/versions/samuel-student-wireframe---x----972-715x---.png)
 
