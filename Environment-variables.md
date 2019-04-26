@@ -3,8 +3,22 @@ Right now we're not using any library for it (in the future we'll implement dote
 
 Setup instructions 
 ----
-[Setup env variables in MacOS: Bash](https://medium.com/@himanshuagarwal1395/setting-up-environment-variables-in-macos-sierra-f5978369b255)  
+[Setup env variables in MacOS: Bash](https://medium.com/@himanshuagarwal1395/setting-up-environment-variables-in-macos-sierra-f5978369b255)
+
+example:
+
+```
+export DB_CONNECTION=STRING_HERE
+```
+  
 [Setup env variables in MacOS: Fish](https://stackoverflow.com/questions/25632846/how-to-set-environment-variables-in-fish-shell)  
+
+
+example:
+
+```
+set -Ux DB_CONNECTION STRING_HERE
+```
 
 Example of use
 ----
