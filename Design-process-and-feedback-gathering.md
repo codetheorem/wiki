@@ -12,7 +12,7 @@ A demo of a wireframe:
 
 A demo of a draft:
 
-![draft](![image](uploads/853a0e5fa7eee783f672d1f4664b9ad0/image.png))
+![image](uploads/ab71f53a3899564e73352b71ae2c3337/image.png)
 
 (Normally made with pen and paper or on a whiteboard)
 
