@@ -18,6 +18,10 @@ A demo of a draft:
 
 2). **Learn what can be improved and design in high-definition:** After having implemented the changes the team suggested in the previous step, and only after the draft/wireframe has been approved or all issues are marked as resolved and your idea is on the right track should you now invest time on colors, shades, and the final visual design. With this, comes prototyping as well. Using the high definition mockups created, the next step is to provide an interactive prototype (in Adobe XD) to bring behavior to your images. As in the previous step, you are required to gather feedback by simply sharing the prototype link on the Rocket Chat channel.
 
+A demo of a high definition mockup:
+
+![image](uploads/abaadea23138e3071d018c16ec2cee63/image.png)
+
 3). **Help developers implement the design**: Once the prototype is ready and all issues are marked as solved, we begin implementation. This might be part of the same card or in a different card. Either way, the owners of the design should be available to the developer/s implementing the task. Ideally, an implementation guide should be delivered (non-compulsory) to better understand sizes, spaces, colors, and more, but when none is available the collaboration and communication between designers and developers must be optimal in order to ease implementation and achieve the required results.
 
 ### Feedback gathering:
