@@ -12,7 +12,7 @@ A demo of a wireframe:
 
 A demo of a draft:
 
-![draft](https://xd.adobe.com/view/5848dbde-f1f2-40d5-75a2-d87598c2f6f7-2e79/?fullscreen)
+![draft](![image](uploads/853a0e5fa7eee783f672d1f4664b9ad0/image.png))
 
 (Normally made with pen and paper or on a whiteboard)
 
