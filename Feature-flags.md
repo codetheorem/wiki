@@ -1,4 +1,4 @@
-#This needs to be update with new information (Strapi)
+#This needs to be updated with new information (Strapi)
 ## What we do
 We use an [Unleash](https://unleash-eos.herokuapp.com/) server running in Heroku to generate flags in order to control when we show/hide an element or route. 
 When the new flags are created, make sure you set the flag name in the **EXACT** form as the route url.
