@@ -14,8 +14,7 @@
 
 4. You'll need to fill the different fields and click the "Save" button
 
-![May-02-2019_15-54-43](uploads/ad28ad6bd42b8f58f45e7012e70951cf/May-02-2019_15-54-43.mp4)
-
+![Screenshot_2019-05-03_10.51.45](uploads/03b00f1cd4bb10f51d3a404d0a4db0af/Screenshot_2019-05-03_10.51.45.png)
 
 That's it! your design spec will appear in the specs section: https://eos-dev.herokuapp.com/internal/design-specs
 ![Screenshot_2019-05-03_10.21.56](uploads/c3fe572d5a70fae066eb1c2c10240fe3/Screenshot_2019-05-03_10.21.56.png)
