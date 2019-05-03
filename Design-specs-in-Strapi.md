@@ -10,12 +10,12 @@
 
 ![May-02-2019_15-54-43](uploads/ad28ad6bd42b8f58f45e7012e70951cf/May-02-2019_15-54-43.mp4)
 
+
+
 <!-- blank line -->
 <figure class="video_container">
   <video controls="true" allowfullscreen="true" poster="path/to/poster_image.png">
-    <source src="path/to/video.mp4" type="video/mp4">
-    <source src="path/to/video.ogg" type="video/ogg">
-    <source src="path/to/video.webm" type="video/webm">
+    <source src="uploads/ad28ad6bd42b8f58f45e7012e70951cf/May-02-2019_15-54-43.mp4" type="video/mp4">
   </video>
 </figure>
 <!-- blank line -->
