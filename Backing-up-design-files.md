@@ -1,6 +1,6 @@
 1. [Process](#process)
-2. [How does the versioning system work?](#example2)
-3. [Naming Conventions](#third-example)
+2. [How does the versioning system work?](#how-does-the-versioning-system-work)
+3. [Naming Conventions](#naming-conventions)
 
 ## Process
 ![image](/uploads/27a330e76ff3a11f260a32bfa71d676c/image.png)
