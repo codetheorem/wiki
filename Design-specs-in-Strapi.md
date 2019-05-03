@@ -17,5 +17,5 @@
 ![Screenshot_2019-05-03_10.51.45](uploads/03b00f1cd4bb10f51d3a404d0a4db0af/Screenshot_2019-05-03_10.51.45.png)
 
 That's it! your design spec will appear in the specs section: https://eos-dev.herokuapp.com/internal/design-specs
-![Screenshot_2019-05-03_10.21.56](uploads/c3fe572d5a70fae066eb1c2c10240fe3/Screenshot_2019-05-03_10.21.56.png)
+![Screenshot_2019-05-03_10.57.58](uploads/c8e868704d261fb6a17a036b3633eeb6/Screenshot_2019-05-03_10.57.58.png)
 
