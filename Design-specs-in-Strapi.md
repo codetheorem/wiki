@@ -10,6 +10,17 @@
 
 ![May-02-2019_15-54-43](uploads/ad28ad6bd42b8f58f45e7012e70951cf/May-02-2019_15-54-43.mp4)
 
+<!-- blank line -->
+<figure class="video_container">
+  <video controls="true" allowfullscreen="true" poster="path/to/poster_image.png">
+    <source src="path/to/video.mp4" type="video/mp4">
+    <source src="path/to/video.ogg" type="video/ogg">
+    <source src="path/to/video.webm" type="video/webm">
+  </video>
+</figure>
+<!-- blank line -->
+
+
 That's it! your design spec will appear in the specs section: https://eos-dev.herokuapp.com/internal/design-specs
 ![Screenshot_2019-05-03_10.21.56](uploads/c3fe572d5a70fae066eb1c2c10240fe3/Screenshot_2019-05-03_10.21.56.png)
 
