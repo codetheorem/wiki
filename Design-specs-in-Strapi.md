@@ -11,14 +11,12 @@
 ![May-02-2019_15-54-43](uploads/ad28ad6bd42b8f58f45e7012e70951cf/May-02-2019_15-54-43.mp4)
 
 
-
 <!-- blank line -->
 <figure class="video_container">
-  <video controls="true" allowfullscreen="true" poster="uploads/a1ccfdfefccf1af0327777105220c8d5/Screenshot_2019-05-02_15.12.01.png">
-    <source src="uploads/ad28ad6bd42b8f58f45e7012e70951cf/May-02-2019_15-54-43.mp4" type="video/mp4">
-  </video>
+  <iframe src="https://drive.google.com/file/d/0B6m34D8cFdpMZndKTlBRU0tmczg/preview" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 <!-- blank line -->
+
 
 
 That's it! your design spec will appear in the specs section: https://eos-dev.herokuapp.com/internal/design-specs
