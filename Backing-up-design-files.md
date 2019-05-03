@@ -38,29 +38,6 @@ All work (completed and WIP) will be pushed to this git repository.
 
 Another repository will automatically copy this git repository as a backup.
 
-### Automatic Backup
-
-An automatic backup of the main git repository (mentioned above) will be created at regular intervals thanks to github.com's automatic mirroring functionality.
-
-The mirrored repository can be found here: 
-https://github.com/SUSE/eos-backup
-
-In Github's repository settings for this repository the option "Pull from external source" has been configured.
-
-#### Limitations
-There is one limitation of this approach. The mirroring will time-out if the process takes longer than 15min.
-
-If this should become an issue we will use a dual push via the .git/config file as follows:
-```
-[remote "BOTH"]
-	url = https://github.com/SUSE/eos-backup.git
-	url = https://gitlab.com/SUSE-UIUX/eos-backup.git
-```
-__Note: Do not push to the Github repository. Doing so will inactivate the automatic mirroring described above__
-
-By adding a remote as given above to the .git/config of the repository calling ```git push BOTH``` will push to the repositories defined sequentially. In this case, calling anything other than "git push BOTH" will lead to the repositories no longer being in sync. 
- 
-
 ## Naming Conventions
 Naming conventions help provide a consistent way to find the content at a glance. Consistency within the project is vital. Follow the rules below for naming Adobe files as well as the assets produced from them.
 
