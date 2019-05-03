@@ -12,6 +12,14 @@
 
 3. Once your card passes revision and the design moves to development make sure you push the .xd file to Gitlab https://gitlab.com/SUSE-UIUX/eos-backup.
 
-4. Upload the file to the [EOS Backup](https://gitlab.com/SUSE-UIUX/eos-backup). Please note that the shared CC folder and the EOS Backup repository need to be carbon copies of each other.
+4. Upload the file to the [EOS Backup](https://gitlab.com/SUSE-UIUX/eos-backup) repository by using the following commands:
+
+```
+git add .
+git commit -m 'Message detailing the change' 
+git push
+```
+
+Please note that the shared CC folder and the EOS Backup repository **need to be carbon copies of each other**.
 
 [Click here to subscribe to the shared folder](https://adobe.ly/2KP6k9Y)
