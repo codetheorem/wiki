@@ -14,7 +14,7 @@
 
 <!-- blank line -->
 <figure class="video_container">
-  <video controls="true" allowfullscreen="true" poster="path/to/poster_image.png">
+  <video controls="true" allowfullscreen="true" poster="uploads/a1ccfdfefccf1af0327777105220c8d5/Screenshot_2019-05-02_15.12.01.png">
     <source src="uploads/ad28ad6bd42b8f58f45e7012e70951cf/May-02-2019_15-54-43.mp4" type="video/mp4">
   </video>
 </figure>
