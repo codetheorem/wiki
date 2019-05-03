@@ -1,3 +1,9 @@
+<!-- blank line -->
+<figure class="video_container">
+  <iframe src="https://drive.google.com/file/d/0B6m34D8cFdpMZndKTlBRU0tmczg/preview" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line -->
+
 1. Access Strapi: https://eos-strapi.herokuapp.com/admin!
 
 2. Use the credentials provided
@@ -9,14 +15,6 @@
 4. You'll need to fill the different fields and click the "Save" button
 
 ![May-02-2019_15-54-43](uploads/ad28ad6bd42b8f58f45e7012e70951cf/May-02-2019_15-54-43.mp4)
-
-
-<!-- blank line -->
-<figure class="video_container">
-  <iframe src="https://drive.google.com/file/d/0B6m34D8cFdpMZndKTlBRU0tmczg/preview" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-<!-- blank line -->
-
 
 
 That's it! your design spec will appear in the specs section: https://eos-dev.herokuapp.com/internal/design-specs
