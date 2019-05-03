@@ -1,4 +1,5 @@
 1. Access Strapi: https://eos-strapi.herokuapp.com/admin!
+
 2. Use the credentials provided
 ![Screenshot_2019-05-02_15.12.01](uploads/a1ccfdfefccf1af0327777105220c8d5/Screenshot_2019-05-02_15.12.01.png)
 
