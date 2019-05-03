@@ -3,6 +3,7 @@
 3. [Naming Conventions](#naming-conventions)
 
 ## Process
+![Wiki_backing_up_](uploads/c127c8ae44a672f09ecd2923e6c18eb4/Wiki_backing_up_.png)
 ![image](/uploads/27a330e76ff3a11f260a32bfa71d676c/image.png)
 
 1. Pick your challenge.
