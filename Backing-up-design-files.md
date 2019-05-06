@@ -28,7 +28,7 @@ Please note that the shared CC folder and the EOS Backup repository **need to be
 [Click here to subscribe to the shared folder](https://adobe.ly/2KP6k9Y)
 
 ## How does the versioning system work?
-All file versioning and backup will be done via git. An automatic mirroring system has been configured to copy the git repository to another service for backup purposes.
+All file versioning and backup will be done via git.
 
 ### Working Space
 The main repository for our Adobe files is in Gitlab: 
@@ -36,7 +36,6 @@ https://gitlab.com/SUSE-UIUX/eos-backup
 
 All work (completed and WIP) will be pushed to this git repository. 
 
-Another repository will automatically copy this git repository as a backup.
 
 ## Naming Conventions
 Naming conventions help provide a consistent way to find the content at a glance. Consistency within the project is vital. Follow the rules below for naming Adobe files as well as the assets produced from them.
