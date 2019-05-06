@@ -10,6 +10,7 @@ And, because we follow the standards, we get to put this badge in our wiki:
 - Use arrow function and function expression instead of function declaration when possible (use function declaration when the scope of this is needed, ex: jQuery selectors).
 - For object methods use `arrow function` syntax.
 - Use Async Await for asynchronous tasks.
+- Always wrap your async/await code in a try/catch block.
 - Use `_` to define temporary variables, ex: `_data` to refer to a big object, then `data` to refer to the final (reduced) form of the object.
 - Use `$` to define template variable, ex: `const $video = $('.js-video-container').clone(true)`
 - Use `object destructuring` instead of variable assignment, ex: `const { name } = object` instead of `const name = object.name`. We also use a space inside brackets `{ name }`
