@@ -12,7 +12,7 @@ And, because we follow the standards, we get to put this badge in our wiki:
 - Use Async Await for asynchronous tasks.
 - Use `_` to define temporary variables, ex: `_data` to refer to a big object, then `data` to refer to the final (reduced) form of the object.
 - Use `$` to define template variable, ex: `const $video = $('.js-video-container').clone(true)`
- 
+- Use `object destructuring` instead of variable assignment, ex: `const { name } = object` instead of `const name = object.name`. We also use a space inside brackets `{ name }`
 
 #### Do not use HTML elements in javascript  files
 It is good practice to keep javascript code and html elements separated. It makes it easier to maintain and debug, and  is reusable. 
