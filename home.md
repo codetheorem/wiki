@@ -13,6 +13,8 @@ The following documentation defines the Design System used to deliver UX, UI, fr
 - Features in a product are, normally, a set of components together to provide functionality for a certain website following specific use cases and scenarios. EOS doesn't provide features, but components. The product's designers/front-end dev take care of assembling the components into features.
 - Read the product mission statement to understand the scope of the product: https://eos-mission.webflow.io/
 
+## Project setup
+[EOS setup instructions](https://gitlab.com/SUSE-UIUX/eos/wikis/Project-setup)
 ## Developing the EOS project:
 
 - [Naming conventions for new branches](naming-conventions-for-new-branches)
