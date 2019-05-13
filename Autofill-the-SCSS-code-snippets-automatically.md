@@ -12,8 +12,8 @@ Create a service to pull data from SCSS files  .
 
 **Problem:**
 
-It will create duplication of code.( but we can delete these files once we retire data from it)
+It will create duplication of code. ( but we can delete these files once we retrieve data from it)
 
 ** Good:**
 
- It will create separate files for each classes which will be easy to use.
+ It will create separate files for each class which will be easy to use.
