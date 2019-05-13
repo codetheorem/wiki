@@ -2,7 +2,7 @@ Currently we are manually copy-pasting data in our PUG file to shows the differe
 
 ## SCSS code
 
-Create a service to pull data from SCSS files  
+Create a service to pull data from SCSS files  .
 
 **gulp-split-files** URL: https://www.npmjs.com/package/gulp-split-files 
 
