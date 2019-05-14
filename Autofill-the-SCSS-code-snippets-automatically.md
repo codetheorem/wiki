@@ -4,7 +4,7 @@ Currently we are manually copy-pasting data in our PUG file to shows the differe
 
 Create a service to pull data from SCSS files  .
 
-1. **gulp-split-files** URL: https://www.npmjs.com/package/gulp-split-files 
+**gulp-split-files** URL: https://www.npmjs.com/package/gulp-split-files 
 
  Currently, we have only one SCSS file for one component. For Example, buttons.component.scss has CSS classes for all the buttons type, like default button class and Primary button class. We can split this single file into multiple files and create one file for each button types. 
 
