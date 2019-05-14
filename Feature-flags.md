@@ -1,8 +1,8 @@
 ## What we do
-We use Strapi as CMS where we define our pages title, descriptions and status (active/inactive).
+We use Strapi as a CMS to define our pages title, descriptions and status (active/inactive).
 
 ## How we do
-With every requests in our Express app, we make use of the middleware (`config-middleware.js`) that will  check if a route is defined in Strapi.
+With every request in our Express app, we make use of the middleware (`config-middleware.js`) that will  check if a route is defined in Strapi.
 The three posible scenarios are the following:
 - If the route is defined in Strapi, and the page enabled field it's set to true, the page will be rendered.
 - If the route is defined in Strapi and the enabled field it's set to false, it will redirect your requests to `/dashboard`
@@ -10,7 +10,7 @@ The three posible scenarios are the following:
  
 To disallow a route, make sure the pages is defined (Strapi > Pages) and set the `enabled` field to false.
 
->  **NOTE**: If the env is development we ignore all the flags since we want to display all the pages, we achieve this by passing same object but with all the enabled values as true.
+>  **NOTE**: If the env is development, we ignore all flags because we want to display all pages. We achieve this by passing the same object but with all the enabled values as true.
 
 ## Menu and submenu items.
 To add new element to main menu and make use of the features flagging:
