@@ -22,7 +22,7 @@ For example button.scss, default-button.scss etc.
 
 ## Step 2
 ### Pug files
-Generate pug files with the HTML code of each element type. 
+Generate pug files with the Pug(HTML) code of each element type and save it inside the respective element folder.
 **For example** Buttons element folder will have SCSS files and Pug files for each button type.
 
 ```scss
