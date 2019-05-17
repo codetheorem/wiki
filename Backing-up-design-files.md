@@ -6,7 +6,7 @@
 
 Whenever your work involves creating a design file in photoshop, illustrator, adobe XD, premier, or others, you should follow the following steps in order to properly save your files:
 
-For every iteratiom you make on your design yoy should make a git commit sending the current version to Gitlab. To explain it better we will use an exaplen case:
+For every iteratiom you make on your design you should make a git commit saving the current version to Gitlab. To explain it better we will use an exaplen case:
 
 1. You are working on a design for a new logout page. You will normally work on a few proposals, those proposals should all be included in the same XD file. When you are ready to show your design ideas to the team for some feedback you should make a commit saving that current state (before applying changes suggested by team members). 
 
