@@ -3,29 +3,16 @@
 3. [Naming Conventions](#naming-conventions)
 
 ## Process
-![Wiki_backing_up_](uploads/c127c8ae44a672f09ecd2923e6c18eb4/Wiki_backing_up_.png)
 
-1. Pick your challenge.
+Whenever your work involves creating a design file in photoshop, illustrator, adobe XD, premier, or others, you should follow the following steps in order to properly save your files:
 
-2. Create a new file inside the [shared CC Folder](https://adobe.ly/2KP6k9Y) by going to  your local folder "Creative Cloud Files", as shown here:
+For every iteratiom you make on your design yoy should make a git commit sending the current version to Gitlab. To explain it better we will use an exaplen case:
 
-![image](/uploads/c60450cecc431821aff30b97580cf5f4/image.png)
+1. You are working on a design for a new logout page. You will normally work on a few proposals, those proposals should all be included in the same XD file. When you are ready to show your design ideas to the team for some feedback you should make a commit saving that current state (before applying changes suggested by team members). 
 
- and use this file to work your card.   
+2. You now have received some suggestions and you have marked some options as *rejected* and updated others. This is another iteration on your file and you should make a new commit to keep these new options in the history of the file. 
 
-3. Once your card passes revision and the design moves to development make sure you push the .xd file to Gitlab https://gitlab.com/SUSE-UIUX/eos-backup.
-
-4. Upload the file to the [EOS Backup](https://gitlab.com/SUSE-UIUX/eos-backup) repository by using the following commands:
-
-```
-git add .
-git commit -m 'Message detailing the change' 
-git push
-```
-
-Please note that the shared CC folder and the EOS Backup repository **need to be carbon copies of each other**.
-
-[Click here to subscribe to the shared folder](https://adobe.ly/2KP6k9Y)
+3. After a new round of feedback, and having your design finally approved, you are ready to commut the final file to the eos-backup repository. At this point you should make sure to remive all rejected designs and leave only the approved design, then make your commit to Gitlab. 
 
 ## How does the versioning system work?
 All file versioning and backup will be done via git.
@@ -36,6 +23,7 @@ https://gitlab.com/SUSE-UIUX/eos-backup
 
 All work (completed and WIP) will be pushed to this git repository. 
 
+Git allows us to go back to previous changes of a file as long as you carefully took care of following the process defined above. 
 
 ## Naming Conventions
 Naming conventions help provide a consistent way to find the content at a glance. Consistency within the project is vital. Follow the rules below for naming Adobe files as well as the assets produced from them.
