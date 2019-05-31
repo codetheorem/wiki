@@ -4,7 +4,7 @@
 </figure>
 <!-- blank line -->
 
-1. Access Strapi: ​https://eos-strapi-dev.herokuapp.com
+1. Access Strapi: ​https://eos-strapi-dev.herokuapp.com/admin
 
 2. Use the credentials provided
 
