@@ -6,9 +6,9 @@ These are some basic general rules for creating PRs (pull requests) in git, plus
   a. Ask someone to review some particular part of the code/implementation. In this case, don't expect the person to make a full review since your code is not 100% and he/she will have to make a full review after the **WIP:** prefix is removed.
   b. You want to test that CI is green as you continue making commits to the branch. In this case, please make sure you only do it for a limited time and only when your branch is closer to be finished, otherwise, you will be slowing down the CI queue for other PRs in vain.
 
-2. Add the ID of the trello card you are working on in the card description. This will help the reviewers verify if your PR is complaint with all the requirements.
+2. Run `npm run test:all` before you create a PR to make sure your code is in good shape. Gitlab CI will double check again, but for the sake of making the pipeline run faster, we encourage you to always test locally first.
 
-3. Run `npm run test:all` before you create a PR to make sure your code is in good shape. Gitlab CI will double check again, but for the sake of making the pipeline run faster, we encourage you to always test locally first.
+3. Use one of the [templates documented here](/PR-templates) for your PR. Please be as thorough as possible.
 
 4. Our Meggie bot will assign someone to open PRs to review your code. Add the person that got assigned in Gitlab. If the person is either yourself or a person out of the office, close and re-open the PR to get a new assignee. If the PR was about implementing a designer's design, make sure you show it to s/he and get her/his approval too.
 
