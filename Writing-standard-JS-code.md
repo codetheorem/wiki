@@ -4,6 +4,17 @@ https://standardjs.com/rules.html
 And, because we follow the standards, we get to put this badge in our wiki:
 
 [![JavaScript Style Guide](https://cdn.rawgit.com/standard/standard/master/badge.svg)](https://github.com/standard/standard)
+#### Calling app controller
+When we need to call a controller in a specific page/section, make sure you add the `.js-` prefix plus the controller name to the first `.container` element.  
+Inside our JS we use:
+
+```js
+if ($('.js-controllerName').length) {
+    controllerName()
+  }
+```
+to only call the controller when needed.
+
 #### ES5/ES6 syntax
 - Use `let` for variables that will change their value over time, and `const` for variables which cannot be reassigned.
 - Always use template literals.
