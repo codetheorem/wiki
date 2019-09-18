@@ -27,7 +27,6 @@ The following documentation defines the Design System used to deliver UX, UI, fr
 - [Writing standard JS code](Writing-standard-JS-code)
 - [Writing standard pug code](Writing-standard-pug-code)
 - [Semantic releases](semantic-releases)
-- [Idiomatic comments](code-commenting-standards)
 - [Adding/changing Front-end packages](installing-front-end-packages)
 - [Environment variables](environment-variables)
 - [Gmail configuration](gmail-configuration)
