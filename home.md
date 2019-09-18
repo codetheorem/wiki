@@ -31,7 +31,6 @@ The following documentation defines the Design System used to deliver UX, UI, fr
 - [Environment variables](environment-variables)
 - [Gmail configuration](gmail-configuration)
 - [Feature flags](Feature-flags)
-- [Adding design specs in Strapi](Design-specs-in-Strapi)
 
 ## Designing the EOS project:
 - [Personas](https://gitlab.com/SUSE-UIUX/eos/wikis/Personas)
@@ -42,6 +41,7 @@ The following documentation defines the Design System used to deliver UX, UI, fr
 - [Designing and compiling svg icons](https://gitlab.com/SUSE-UIUX/eos/wikis/Designing-and-compiling-svg-icons)
 - [Design process and feedback gathering](https://gitlab.com/SUSE-UIUX/eos/wikis/Design-process-and-feedback-gathering)
 - [Backing up design files](https://gitlab.com/SUSE-UIUX/eos/wikis/Backing-up-design-files)
+- [Adding design specifications in Strapi](Design-specs-in-Strapi)
 
 
 ## Investigations:
