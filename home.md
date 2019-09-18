@@ -22,6 +22,7 @@ The following documentation defines the Design System used to deliver UX, UI, fr
   - [PR templates](/PR-templates)
 - [Deployments and versioning releases with tags](deployments-and-versioning-releases-with-tags)
 - [Writing CSS/SASS style guide](Editing-css-style-guide)
+  - [Code commenting standards](code-commenting-standards)
 - [CSS structure](CSS-structure)
 - [Writing standard JS code](Writing-standard-JS-code)
 - [Writing standard pug code](Writing-standard-pug-code)
