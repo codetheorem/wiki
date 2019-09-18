@@ -32,7 +32,7 @@ The following documentation defines the Design System used to deliver UX, UI, fr
 - [Gmail configuration](gmail-configuration)
 - [Feature flags](Feature-flags)
 
-## Designing the EOS project:
+## Designing the EOS project
 - [Personas](https://gitlab.com/SUSE-UIUX/eos/wikis/Personas)
 - [Photoshop documents guideline](https://gitlab.com/SUSE-UIUX/eos/wikis/photoshop-documents-rules)
 - [Icon design guide](https://gitlab.com/SUSE-UIUX/eos/wikis/Icon-design-guide)
@@ -44,7 +44,7 @@ The following documentation defines the Design System used to deliver UX, UI, fr
 - [Adding design specifications in Strapi](Design-specs-in-Strapi)
 
 
-## Investigations:
+## Investigations
 - [SVG icons to font](https://gitlab.com/SUSE-UIUX/eos/wikis/svg-icons-to-font:-automated)
 - [Autofill the SCSS code snippets automatically](https://gitlab.com/SUSE-UIUX/eos/wikis/Autofill-the-SCSS-code-snippets-automatically)
 
