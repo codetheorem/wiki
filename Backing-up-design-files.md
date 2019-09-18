@@ -4,15 +4,15 @@
 
 ## Process
 
-Whenever your work involves creating a design file in photoshop, illustrator, adobe XD, premier, or others, you should follow the following steps in order to properly save your files:
+Whenever your work involves creating a design file in Photoshop, Illustrator, Adobe XD, Premiere, or others, you should follow the following steps in order to properly save your files:
 
-For every iteratiom you make on your design you should make a git commit saving the current version to Gitlab. To explain it better we will use an exaplen case:
+For every iteration you make on your design you should make a git commit saving the current version to Gitlab. To explain it better we will use an example case:
 
 1. You are working on a design for a new logout page. You will normally work on a few proposals, those proposals should all be included in the same XD file. When you are ready to show your design ideas to the team for some feedback you should make a commit saving that current state (before applying changes suggested by team members). 
 
 2. You now have received some suggestions and you have marked some options as *rejected* and updated others. This is another iteration on your file and you should make a new commit to keep these new options in the history of the file. 
 
-3. After a new round of feedback, and having your design finally approved, you are ready to commut the final file to the eos-backup repository. At this point you should make sure to remive all rejected designs and leave only the approved design, then make your commit to Gitlab. 
+3. After a new round of feedback, and having your design finally approved, you are ready to commit the final file to the eos-backup repository. At this point, you should make sure to remove all rejected designs and leave only the approved design, then make your commit to Gitlab. 
 
 ## How does the versioning system work?
 All file versioning and backup will be done via git.
@@ -35,7 +35,7 @@ Naming conventions help provide a consistent way to find the content at a glance
 * Do name all source files after the conceptual piece(s)/component they contain. Examples are "header", "footer", etc.
 * Do name files using hierarchy within components. Periods will be used for separating component hierarchy. For example  "main_component.more_specific_component_name".
 * Do separate words within one conceptual piece/component. Underscores will be used for separators between words which describe a conceptual piece/component itself. Examples are "header.user_login.psd",  "main_navigation.dropdown_menu.psd", or "main_navigation.accordion.psd".
-* Do use a dash "-" to reflect state. Examples are "button-hover" or "checkbox-on".
+* Do use a dash "-" to reflect the state. Examples are "button-hover" or "checkbox-on".
 * Do add the postfix "WIP" to a filename to save work which is unfinished. Only one "WIP" file should be created for a given name.
 
 
