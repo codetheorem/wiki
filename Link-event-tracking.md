@@ -6,7 +6,7 @@ There are many ways GTM can gather information from a link, but in our case, we'
 
 ### How does event tracking work in EOS?
 
-Events are structured in the following way:
+Google Analytics events are usually structured in the following way:
 * **Event category:** Typically the object that was interacted with (e.g. 'Video')
 * **Event action:** The type of interaction (e.g. 'play')
 * **Event label:** Useful for categorizing events (e.g. 'Fall Campaign')
@@ -25,8 +25,6 @@ a(href='https://xd.adobe.com/spec/32746485-3e9f-4bf0-5592-d0551ff56c9c-4445/', d
       | open_in_new
     | Design specifications
 ```
-
-### GTM structure
 
 ### Events in GA
 This how these events will appear in Google Analytics:
