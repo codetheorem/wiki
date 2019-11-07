@@ -28,17 +28,21 @@ a(href='https://xd.adobe.com/spec/32746485-3e9f-4bf0-5592-d0551ff56c9c-4445/', d
 
 ### How GTM handles events
 There are three elements in GTM: Variables, Triggers & Tags.
+
 **Variables**
+
 This is where we tell GTM what data we want to capture & send to Analytics. This is the data we've added in the `data-` attribute tag. In the case of the `data-event-action` attribute we've specified before, it would look like this:
 
 ![variable](uploads/d71d13daa26bd4e66b0ed08d61992911/variable.png)
 
 **Triggers**
+
 Next we need to tell GTM when to trigger the loading of the analytics tag. GTM is listening to all events but only when a link includes a specific `data-event-` attribute it should trigger. Something else we need to consider in the case of EOS is that this should only happen if the user has previously accepted the privacy policy and a confirmation cookie is present in the browser:
 
 ![trigger](uploads/7a038d46949e633eb2866e064b3b9428/trigger.png)
 
 **Tags**
+
 The trigger loads a tag whic takes care of sending the data present in all the `data-event-` attributes. It also maps it to GA's event structure: Category, Action & Label:
 
 ![tag](uploads/65f3e1bb05a77ad6c8e40509b9b55df1/tag.png)
