@@ -33,6 +33,6 @@ This how these events will appear in Google Analytics:
 
 ![Screenshot_2019-11-06_at_14.16.04](uploads/684f9a44c3298ac997ff43e17f734c74/Screenshot_2019-11-06_at_14.16.04.png)
 
-If we drill down in a category, we'll see the label where we'll find out where the link is placed:
+If we drill down in an action, we'll see the label where we'll find out where the link is placed:
 
 ![Screenshot_2019-11-06_at_14.16.14](uploads/a56312bd2e86a1dbc3817c8ea3b7fd5d/Screenshot_2019-11-06_at_14.16.14.png)
