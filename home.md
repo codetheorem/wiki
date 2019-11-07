@@ -43,10 +43,10 @@ The following documentation defines the Design System used to deliver UX, UI, fr
 - [Backing up design files](https://gitlab.com/SUSE-UIUX/eos/wikis/Backing-up-design-files)
 - [Adding design specifications in Strapi](Design-specs-in-Strapi)
 
+## User Analytics
+- [User analytics](User-analytics)
+  [Link event tracking](Link-event-tracking)
 
 ## Investigations
 - [SVG icons to font](https://gitlab.com/SUSE-UIUX/eos/wikis/svg-icons-to-font:-automated)
 - [Autofill the SCSS code snippets automatically](https://gitlab.com/SUSE-UIUX/eos/wikis/Autofill-the-SCSS-code-snippets-automatically)
-
-## User Analytics
-- [User analytics](User-analytics)
