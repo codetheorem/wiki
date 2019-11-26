@@ -1,3 +1,6 @@
+| [back](https://gitlab.com/SUSE-UIUX/eos/wikis/home#developing-the-eos-project) |
+| ---
+
 # Using the slash character in Git branch name
 
 When creating a new branch in git, you need to use the slash character to separate the **Theme** / **name-of-branch**.
