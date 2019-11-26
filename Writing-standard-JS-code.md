@@ -1,3 +1,6 @@
+[Back](https://gitlab.com/SUSE-UIUX/eos/wikis/home#developing-the-eos-project)
+
+
 Our CI is configured to test JS code following the Standard JS Code style defined at:
 https://standardjs.com/rules.html
 
