@@ -1,3 +1,6 @@
+[Back](https://gitlab.com/SUSE-UIUX/eos/wikis/home#developing-the-eos-project)
+
+
 In order to test the emails sent from the app, you need to: 
 
 - The email address must be Gmail and you might need to make some configurations in your Gmail account to allow you to send emails from an external app. Access: https://myaccount.google.com/security and add a password to a new **App passwords** selecting a **custom application** in the menu.
