@@ -3,3 +3,5 @@ EOS depends on Strapi for the configuration of the project and content managemen
 To setup EOS please follow the steps in our temporary documentation https://docs.google.com/document/d/1MB8LfV8eq96cPy7NDRKMkN1TT6gG1bkyfunnEaTGUrg/edit#
 
 NOTE: We're working on a better documentation.
+
+[back](https://gitlab.com/SUSE-UIUX/eos/wikis/home#developing-the-eos-project)
