@@ -5,4 +5,3 @@ To setup EOS please follow the steps in our temporary documentation https://docs
 NOTE: We're working on a better documentation.
 
 [back](https://gitlab.com/SUSE-UIUX/eos/wikis/home#project-setup)
-{{Clickable button|FAQ|Frequently asked questions}} →
