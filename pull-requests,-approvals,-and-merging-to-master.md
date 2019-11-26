@@ -1,3 +1,7 @@
+| [Back](https://gitlab.com/SUSE-UIUX/eos/wikis/home#developing-the-eos-project) |
+| ---
+
+
 # Opening a Pull Request (PR)
 
 These are some basic general rules for creating PRs (pull requests) in git, plus some EOS specific ones.
