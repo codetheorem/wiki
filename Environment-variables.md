@@ -1,3 +1,6 @@
+[Back](https://gitlab.com/SUSE-UIUX/eos/wikis/home#developing-the-eos-project)
+
+
 For some situations in order to test something locally we need to make use of some `env variables`.  
 Right now we're not using any library for it (in the future we'll implement dotenv or similar).
 
