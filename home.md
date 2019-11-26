@@ -15,7 +15,7 @@ The following documentation defines the Design System used to deliver UX, UI, fr
 
 ## Project setup
 [EOS setup instructions](https://gitlab.com/SUSE-UIUX/eos/wikis/Project-setup)
-## Developing the EOS project:
+## Developing the EOS project
 
 - [Naming conventions for new branches](naming-conventions-for-new-branches)
 - [Pull requests, approvals, and merging to Master](pull-requests,-approvals,-and-merging-to-master)
