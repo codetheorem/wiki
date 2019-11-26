@@ -1,3 +1,6 @@
+[Back](https://gitlab.com/SUSE-UIUX/eos/wikis/home#developing-the-eos-project)
+
+
 ## What we do
 We use Strapi as a CMS to define our pages title, descriptions and status (active/inactive).
 
