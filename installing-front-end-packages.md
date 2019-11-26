@@ -1,3 +1,6 @@
+[Back](https://gitlab.com/SUSE-UIUX/eos/wikis/home#developing-the-eos-project)
+
+
 ### How to install a new FE package
 
 You will notice that we have a `node_modules` folder in the root that is managed by our main `package.json` in the root. This is where we save all packages we use for operations (building, testing, etc) and backend (node + express).
