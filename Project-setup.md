@@ -1,4 +1,6 @@
-[back](https://gitlab.com/SUSE-UIUX/eos/wikis/home#project-setup)
+
+| [back](https://gitlab.com/SUSE-UIUX/eos/wikis/home#project-setup) |
+| ---
 
 EOS depends on Strapi for the configuration of the project and content management. We use GraphQL with Strapi to query our data. You can find more at the [Strapi](https://strapi.io/documentation/3.x.x/getting-started/quick-start.html#_5-consume-the-api) documentation and [GraphQL](https://graphql.org/learn/) Documentation
 
