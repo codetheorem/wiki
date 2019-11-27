@@ -1,3 +1,6 @@
+[Back](https://gitlab.com/SUSE-UIUX/eos/wikis/home#designing-the-eos-project)
+
+
 When using Photoshop to create a document that will present the user interface of a given  product based on the UX/UI Guideline some rules must be respected in order to create documents consistent with each other and compatible with our workflow and tools. Here’s the list:
 
 **1) Creating a new photoshop document**
