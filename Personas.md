@@ -1,4 +1,4 @@
-[Back](https://gitlab.com/SUSE-UIUX/eos/wikis/home#designing-the-eos-project)
+[Back](https://gitlab.com/SUSE-UIUX/eos/wikis/home#user-analytics)
 
 
 # List of Current Personas
