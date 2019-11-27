@@ -1,3 +1,6 @@
+[Back](https://gitlab.com/SUSE-UIUX/eos/wikis/home#designing-the-eos-project)
+
+
 #### How to add logo icon
 
 To add icons in logo icon page, paste the logo SVG files inside the folder `assets/images/logo-icons/` and restart the application.
