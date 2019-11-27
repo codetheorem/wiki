@@ -1,3 +1,6 @@
+[Back](https://gitlab.com/SUSE-UIUX/eos/wikis/home#designing-the-eos-project)
+
+
 # This is a guide to how we are designing and compiling the EOS-icons
 
 ### The repositories:
