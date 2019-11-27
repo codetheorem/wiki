@@ -1,3 +1,6 @@
+[Back](https://gitlab.com/SUSE-UIUX/eos/wikis/home#user-analytics)
+
+
 ### What is it?
 
 In order to track links, we use event tracking. Google Tag Manager (GTM) takes care of firing the Google Analytics (GA) script when a click event happens. Then, the information for that link is sent. 
