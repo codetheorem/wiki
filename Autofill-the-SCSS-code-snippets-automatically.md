@@ -1,4 +1,4 @@
-[Back](https://gitlab.com/SUSE-UIUX/eos/wikis/home#investigations)
+◀️ [Back](https://gitlab.com/SUSE-UIUX/eos/wikis/home#investigations)
 
 
 Currently we are manually copy-pasting data in our PUG file to show the different example snippet of SCSS and HTML code and this can bring human error, it isn't scalable because we will always have to go back to the files to find and copy-paste the code, and it isn't maintainable as when something changes in the code it isn't automatically reflected in the UI in the code snippets. 
