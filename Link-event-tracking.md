@@ -1,13 +1,13 @@
-[Back](https://gitlab.com/SUSE-UIUX/eos/wikis/home#user-analytics)
+◀️ [Back](https://gitlab.com/SUSE-UIUX/eos/wikis/home#user-analytics)
 
 
-### What is it?
+## What is it?
 
 In order to track links, we use event tracking. Google Tag Manager (GTM) takes care of firing the Google Analytics (GA) script when a click event happens. Then, the information for that link is sent. 
 
 There are many ways GTM can gather information from a link, but in our case, we're using the HTML 5 `data-` attribute tag. This allows us to send information to GA that is relevant to us. 
 
-### How does event tracking work in EOS?
+## How does event tracking work in EOS?
 
 Google Analytics events are usually structured in the following way:
 * **Event category:** Typically the object that was interacted with (e.g. 'Video')
@@ -19,7 +19,7 @@ Since our current focus is tracking links, we've set up our data attributes the 
 * **Event action:** Here we explain the link action: 'Specifications', 'XD Design'...
 * **Event label:** Here we give context. Where is this link located ('Alerts', 'Buttons', 'Colors'...)
 
-### Code structure
+## Code structure
 Here is an example of how the `data-` attribute tag is used to track a link:
 
 ```
@@ -29,7 +29,7 @@ a(href='https://xd.adobe.com/spec/32746485-3e9f-4bf0-5592-d0551ff56c9c-4445/', d
     | Design specifications
 ```
 
-### How GTM handles events
+## How GTM handles events
 There are three elements in GTM: Variables, Triggers & Tags.
 
 **Variables**
@@ -51,7 +51,7 @@ The trigger loads a tag whic takes care of sending the data present in all the `
 ![tag](uploads/65f3e1bb05a77ad6c8e40509b9b55df1/tag.png)
 
 
-### Events in GA
+## Events in GA
 This how these events will appear in Google Analytics:
 
 ![Screenshot_2019-11-06_at_14.16.04](uploads/684f9a44c3298ac997ff43e17f734c74/Screenshot_2019-11-06_at_14.16.04.png)
