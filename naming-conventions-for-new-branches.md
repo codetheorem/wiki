@@ -1,4 +1,4 @@
-[Back](https://gitlab.com/SUSE-UIUX/eos/wikis/home#developing-the-eos-project)
+[🔙 Back](https://gitlab.com/SUSE-UIUX/eos/wikis/home#developing-the-eos-project)
 
 ## Using the slash character in Git branch name
 
