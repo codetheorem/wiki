@@ -1,11 +1,13 @@
-[Back](https://gitlab.com/SUSE-UIUX/eos/wikis/home#designing-the-eos-project)
+◀️ [Back](https://gitlab.com/SUSE-UIUX/eos/wikis/home#designing-the-eos-project)
 
 
-### Design process:
+# Design process
 
 All design cards should follow the full design process as described below:
 
-1). **Research and implement an initial draft or wireframe:** It is important that this initial step is not skipped because it is our best chance to gather information for the main text, elements, and structure of the page. A draft/wireframe should NOT include colors or final styling. The main objective is to learn as quickly as possible and invest as little time as possible designing due to the fact that after having gathered feedback, the wireframe will most likely require changes. Prototyping at this step is also a valid option so your reviewers understand better the path you defined. It is important that you **always present more than one option to the reviewer**. Greater choice will result in better design decisions.
+## Research and implement an initial draft or wireframe
+
+It is important that this initial step is not skipped because it is our best chance to gather information for the main text, elements, and structure of the page. A draft/wireframe should NOT include colors or final styling. The main objective is to learn as quickly as possible and invest as little time as possible designing due to the fact that after having gathered feedback, the wireframe will most likely require changes. Prototyping at this step is also a valid option so your reviewers understand better the path you defined. It is important that you **always present more than one option to the reviewer**. Greater choice will result in better design decisions.
 
 A demo of a wireframe:
 
@@ -19,7 +21,9 @@ A demo of a draft:
 
 (Normally made with pen and paper or on a whiteboard)
 
-2). **Learn what can be improved and design in high-definition:** After having implemented the changes the team suggested in the previous step, and only after the draft/wireframe has been approved or all issues are marked as resolved and your idea is on the right track should you now invest time on colors, shades, and the final visual design. With this, comes prototyping as well. Using the high definition mockups created, the next step is to provide an interactive prototype (in Adobe XD) to bring behavior to your images. As in the previous step, you are required to gather feedback by simply sharing the prototype link on the chat channel.
+## Learn what can be improved and design in high-definition
+
+After having implemented the changes the team suggested in the previous step, and only after the draft/wireframe has been approved or all issues are marked as resolved and your idea is on the right track should you now invest time on colors, shades, and the final visual design. With this, comes prototyping as well. Using the high definition mockups created, the next step is to provide an interactive prototype (in Adobe XD) to bring behavior to your images. As in the previous step, you are required to gather feedback by simply sharing the prototype link on the chat channel.
 
 3) Use one file for all scenarios. If you are creating a mockup for different devices, use artboards within a single file. 
 
@@ -27,10 +31,12 @@ A demo of a high definition mockup:
 
 ![image](uploads/abaadea23138e3071d018c16ec2cee63/image.png)
 
-3). **Help developers implement the design**: Once the prototype is ready and all issues are marked as solved, we begin implementation. This might be part of the same card or in a different card. Either way, the owners of the design should be available to the developer/s implementing the task. 
+## Help developers implement the design
+
+Once the prototype is ready and all issues are marked as solved, we begin implementation. This might be part of the same card or in a different card. Either way, the owners of the design should be available to the developer/s implementing the task. 
 Ideally, an implementation guide should be delivered (non-compulsory) to better understand sizes, spaces, colors, and more, but when none is available the collaboration and communication between designers and developers must be optimal in order to ease implementation and achieve the required results.
 
-### Feedback gathering:
+## Feedback gathering
 
 
 <img src='https://mobilelabtutorials.files.wordpress.com/2017/02/adobe-xd-logo.png' height='120px'>
