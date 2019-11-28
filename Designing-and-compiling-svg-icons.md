@@ -1,9 +1,9 @@
-[Back](https://gitlab.com/SUSE-UIUX/eos/wikis/home#designing-the-eos-project)
+◀️ [Back](https://gitlab.com/SUSE-UIUX/eos/wikis/home#designing-the-eos-project)
 
 
 # This is a guide to how we are designing and compiling the EOS-icons
 
-### The repositories:
+## The repositories:
 
 We use 2 different repositories when creating new icons:
 
@@ -11,7 +11,7 @@ We use 2 different repositories when creating new icons:
 
 2. The EOS-icons repo: it holds the final .svg icons as well as the compiled version of the icon font (with a nice demo page `dist/index.html`). Repo URL: https://gitlab.com/SUSE-UIUX/eos-icons
 
-### Naming conventions for icons files:
+## Naming conventions for icons files:
 
 The library used to compile the icon font requires some strict naming conventions:
 
@@ -25,7 +25,7 @@ The library used to compile the icon font requires some strict naming convention
 
 - When choosing a file name for the icon, always check that this icon name doesnt exist already in Material Icons: https://material.io/icons/. If it does, then it can be confusing when using EOS-icons together to Material Icons.
 
-### Compiling the icon font:
+## Compiling the icon font:
 
 All you have to do is:
 
@@ -33,7 +33,7 @@ All you have to do is:
 2. Run `grunt` to compile the fonts (follow the instructions in the readme.md file if this is the first time you run the compiler: https://gitlab.com/SUSE-UIUX/eos-icons/blob/version.1.0.0.WIP/README.md)
 3. Check the dist/index.html to see the demo page `open dist/index.html`
 
-### Creating a PR:
+## Creating a PR:
 
 1. When creating a PR for the new icon designed, remember to always:
   - Be in **version.1.0.0.WIP** and Pull for the latest changes
@@ -45,7 +45,7 @@ All you have to do is:
   - Push the changes and go to gitlab.com to create the Merge Request, which you will need to change the destination from **master** to **version.1.0.0.WIP**
   - Tell someone in the EOS Rocket Chat group to review your PR.
 
-### Reviewing an icon PR:
+## Reviewing an icon PR:
 
 First off, make sure that all the above has been followed. Secondarily:
 
