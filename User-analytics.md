@@ -3,7 +3,7 @@
 
 We use [Google Analytics](https://analytics.google.com/) to track the EOS website. Analytics is added to the page by using [Google's Tag Manager](http://tagmanager.google.com/). Please bear in mind that Ad blockers and script blockers such as [uBlock](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en) will disable GTM.
 
----
+
 
 ## Google Tag Manager
 Google Tag Manager (GTM) is a tag management system created by Google to manage JavaScript and HTML tags used for tracking and analytics on websites. It listens for events in the page and is able to insert these tags where needed. Its great advantage is that no coding is required in order to add such scripts as it is all handled by GTM itself.
