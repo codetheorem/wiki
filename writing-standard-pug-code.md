@@ -1,7 +1,7 @@
-[Back](https://gitlab.com/SUSE-UIUX/eos/wikis/home#developing-the-eos-project)
+◀️ [Back](https://gitlab.com/SUSE-UIUX/eos/wikis/home#writing-code)
 
 
-## Rules for writing Pug for EOS:
+# Rules for writing Pug for EOS:
 
 
 ## Class
@@ -19,7 +19,8 @@ input.class(type='text')
 
 ```
 
-<br>
+
+
 #### disallowClassLiteralsBeforeIdLiterals: true
 
 All ID literals must be written before any class literals.
@@ -32,7 +33,9 @@ input.class#id(type='text')
 input#id.class(type='text')
 
 ```
-<br>
+
+
+
 #### disallowClassAttributeWithStaticValue: true
 
 Prefer class literals over class attributes with static values.
@@ -47,6 +50,7 @@ span.foo
 ```
 
 <br>
+
 ## ID
 
 #### disallowIdAttributeWithStaticValue: true
@@ -61,7 +65,8 @@ span(id='foo')
 span#id
 ```
 
-<br>
+
+
 #### requireIdLiteralsBeforeAttributes: true
 
 All ID literals must be written before any attribute blocks.
@@ -74,7 +79,7 @@ input(type='text')#id
 input#id(type='text')
 ```
 
-<br>
+
 #### disallowHtmlText: true
 
 Pug must not contain any HTML text.
@@ -85,7 +90,8 @@ Pug must not contain any HTML text.
 p this is <strong>html</strong> text
 ```
 
-<br>
+
+
 #### disallowBlockExpansion : true
 
 Pug must not contain any block expansion operators.
@@ -96,7 +102,8 @@ p: strong text
 table: tr: td text
 ```
 
-<br>
+
+
 #### disallowAttributeInterpolation: true
 
 Pug must not contain any attribute interpolation operators.
@@ -110,7 +117,7 @@ a(href='text \#{title}') Link
 a(href='text \\#{title}') Link
 ```
 
-<br>
+
 #### disallowDuplicateAttributes: true
 
 Attribute blocks must not contain any duplicates. And if an ID literal is present an ID attribute must not be used. Ignores class attributes.
@@ -124,7 +131,7 @@ div(a='a' a='b')
 .class(class='class')
 ```
 
-<br>
+
 #### disallowMultipleLineBreaks: true
 
 Pug must not contain multiple blank lines in a row.
@@ -142,7 +149,7 @@ div
 div
 ```
 
-<br>
+
 #### requireSpaceAfterCodeOperator: true
 
 All code operators (-/=/!=) must be immediately followed by a single space.
@@ -156,7 +163,8 @@ p!=  'This code is <strong>not</strong> escaped'
 p= 'This code is <escaped>' 
 p!= 'This code is <strong>not</strong> escaped'
 ```
-<br>
+
+
 
 #### disallowSpacesInsideAttributeBrackets: true
 
@@ -170,12 +178,12 @@ input( type='text' name='name' value='value' )
 input(type='text' name='name' value='value')
 ```
 
-<br>
+
 #### requireLineFeedAtFileEnd: true
 
 All files must end with a line feed.
 
-<br>
+
 #### requireLowerCaseAttributes: true
 
 All attributes must be written in lower case. Files with doctype xml are ignored.
@@ -188,7 +196,7 @@ div(Class='class')
 .class(class='class')
 ```
 
-<br>
+
 #### requireLowerCaseTags: true
 
 All tags must be written in lower case. Files with doctype xml are ignored.
@@ -201,7 +209,7 @@ Div
 div
 ```
 
-<br>
+
 #### requireStrictEqualityOperators: true
 
 Requires the use of === and !== instead of == and !=.
@@ -216,7 +224,7 @@ if true === false
 if true !== false
 ```
 
-<br>
+
 #### validateAttributeQuoteMarks: "'"
 
 **e.g.:** "'"
@@ -230,7 +238,7 @@ input(type="text" name="name" value="value")
 input(type='text' name='name' value='value')
 ```
 
-<br>
+
 #### validateAttributeSeparator:
   { "separator": ", "
   , "multiLineSeparator": "\n  "
