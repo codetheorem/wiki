@@ -17,7 +17,7 @@ These are some basic general rules for creating PRs (pull requests) in git, plus
 
 5. The PR should have `master` as a target and never trigger a release, unless the card specifies it. The PO will check when a card is concluding an epic and requires to launch a new release. More info about how to trigger releases [https://gitlab.com/SUSE-UIUX/eos/wikis/Semantic-Releases]
 
-# Being assigned to a PR, approving it, and Merging to Master
+## Being assigned to a PR, approving it, and Merging to Master
 
 When being assigned to a PR, you must:
 - Verify the work done in the UI, by pulling the changes and running the server locally to then be able to verify the implementation satisfies all requirements in the UI.
@@ -35,7 +35,7 @@ Only once all issues are resolved, you can approve the merge request by clicking
 
 **Please make sure that you delete the branch once it merges**.
 
-# Deploying to production.
+## Deploying to production.
 
 Once CI has passed after a successful merge into master, Gitlab CI will give the option to manually deploy to production. This should only be made after having properly checked the staging server [undisclosed for security reasons] and by the PO [@cyntss] or acting deputy.
 
