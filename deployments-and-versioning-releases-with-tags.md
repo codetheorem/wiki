@@ -14,7 +14,7 @@ A tag can be created before all items in the roadmap are done if the PO suggests
 
 We will follow the Semantic Versioning (http://semver.org/) as follows below:
 
-### Given a version number MAJOR.MINOR.PATCH, increment the:
+**Given a version number MAJOR.MINOR.PATCH, increment the:**
 
 MAJOR version when you make incompatible API changes, changes in 
 MINOR version when you add functionality in a backwards-compatible manner, and
