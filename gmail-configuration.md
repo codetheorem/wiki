@@ -1,4 +1,4 @@
-[Back](https://gitlab.com/SUSE-UIUX/eos/wikis/home#developing-the-eos-project)
+◀️ [Back](https://gitlab.com/SUSE-UIUX/eos/wikis/home#developing-the-eos-project)
 
 
 In order to test the emails sent from the app, you need to: 
