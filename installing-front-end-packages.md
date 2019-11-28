@@ -1,7 +1,7 @@
-[Back](https://gitlab.com/SUSE-UIUX/eos/wikis/home#developing-the-eos-project)
+◀️ [Back](https://gitlab.com/SUSE-UIUX/eos/wikis/home#releases)
 
 
-### How to install a new FE package
+## How to install a new FE package
 
 You will notice that we have a `node_modules` folder in the root that is managed by our main `package.json` in the root. This is where we save all packages we use for operations (building, testing, etc) and backend (node + express).
 
@@ -14,7 +14,7 @@ and then
 
 `npm i --save PACKAGE_NAME` (always use --save, otherwise it wont work, since --save-dev is skipped in Heroku)
 
-### How to add the package to be compiled
+## How to add the package to be compiled
 
 Once you had saved it into `vendors/package.json`, then in the same file you will find the object `mainfiles`. Here you have to create a new object following the format it has currently, where the property is the exact name of the package's folder (normally the same name as the package itself), and the value of this property should be an array of strings, where the name of the file/folder should always begin with a `/`
 
