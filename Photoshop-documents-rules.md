@@ -1,21 +1,21 @@
-[Back](https://gitlab.com/SUSE-UIUX/eos/wikis/home#designing-the-eos-project)
+◀️ [Back](https://gitlab.com/SUSE-UIUX/eos/wikis/home#designing-the-eos-project)
 
 
 When using Photoshop to create a document that will present the user interface of a given  product based on the UX/UI Guideline some rules must be respected in order to create documents consistent with each other and compatible with our workflow and tools. Here’s the list:
 
-**1) Creating a new photoshop document**
+## Creating a new photoshop document
 
 ![1](/uploads/9f541badea61da5914fc09391a9f710a/1.png)
 When creating a new document Photoshop proposes to choose among different formats: 
 the one to choose is “Web” because it has “Art boards”,  choose a width of 1366x768 pixels @72 ppi, RGB.
 In case the height of the document is not enough for a certain project it’s possible to increase it, but only on a specific artboard and not across the whole document.
 
-**2) Artboards**
+## Artboards
 ![Screen_Shot_2017-09-25_at_17.01.42](/uploads/dbe15db7623929b8f2ad0d4a4f0d5195/Screen_Shot_2017-09-25_at_17.01.42.png)
 Elements of the user interface that occupy most of the frames will be displayed in artboards, that includes navbars, modals, header etc...
 Each element's status will be displayed on a different Artboard and artboards will be named with the name of the element and his status
 
-**3) Layers**
+## Layers
 
 
 
@@ -39,7 +39,7 @@ Hidden layer should exists only when a part of a document needed to be hidden, i
 
 
 
-**4) Folders**
+## Folders
 
 
 
@@ -65,7 +65,7 @@ EXAMPLE:
 Assuming that in the section folder there is a title and a table you will find first the title, than the subfolder with the table. In the subfolder of the table there will be other subfolder and the elements on the left should be placed first. 
 
 
-**5) Smart objects**
+## Smart objects
 
 
 
@@ -84,7 +84,7 @@ Therefore common elements will be converted into “Smart Objects” and inserte
 
 
 
-**6) Libraries**
+## Libraries
 
 
 
@@ -107,14 +107,14 @@ The elements are:
 
 All the elements that are in the library should be discussed and approved from the team first.
 
-**7) Layers modification**
+## Layers modification
 
 - Never rasterize a layer.
 - when changing the color of a shape don't use the layer effects panel but change the actual color from the top panel
 
 
 
-**8) Guides**
+## Guides
 
 
 
@@ -129,7 +129,7 @@ All the elements that are in the library should be discussed and approved from t
 - Use only essential guides.
 - Guides should reflect the Margins among elements.
 
-**9) Space for experiment**
+## Space for experiment
 
 
 
@@ -143,7 +143,7 @@ All the elements that are in the library should be discussed and approved from t
 
 Make a folder that sits at the bottom of your layers panel and name it “Unused” pile” and throw all of your experimental groups and layers in there. Collaborators will know to ignore the folder and you can go back to it at any time if you decide to change your mind about a design.
 
-**10) Lock element**
+## Lock element
 
 
 
