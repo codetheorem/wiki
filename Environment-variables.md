@@ -35,7 +35,7 @@ var transporter = nodemailer.createTransport({
   })
 ```
 
-Current Variables
+Current variables
 ----
 ```js
 /* SMTP */
