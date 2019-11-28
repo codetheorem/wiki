@@ -17,7 +17,7 @@ These are some basic general rules for creating PRs (pull requests) in git, plus
 
 5. The PR should have `master` as a target and never trigger a release, unless the card specifies it. The PO will check when a card is concluding an epic and requires to launch a new release. More info about how to trigger releases [https://gitlab.com/SUSE-UIUX/eos/wikis/Semantic-Releases]
 
-## Being assigned to a PR, approving it, and merging to Master
+## Being assigned to a PR, approving it, and merging to master
 
 When being assigned to a PR, you must:
 - Verify the work done in the UI, by pulling the changes and running the server locally to then be able to verify the implementation satisfies all requirements in the UI.
