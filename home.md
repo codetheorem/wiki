@@ -21,7 +21,7 @@ The following documentation defines the Design System used to deliver UX, UI, fr
 
 ## Developing the EOS project
 ### Git
-- [Naming conventions for new branches](naming-conventions-for-new-branches)
+- [Naming conventions for new branches](Naming-conventions-for-new-branches)
 - [Pull requests, approvals, and merging to Master](pull-requests,-approvals,-and-merging-to-master)
   - [PR templates](/PR-templates)
 ### Writing code
