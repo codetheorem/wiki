@@ -1,4 +1,4 @@
-[Back](https://gitlab.com/SUSE-UIUX/eos/wikis/home#developing-the-eos-project)
+◀️ [Back](https://gitlab.com/SUSE-UIUX/eos/wikis/home#writing-code)
 
 
 Structuring our Sass files is important, since it will help us to keep a cleaner, more consistent and reusable code. Keeping a structured mindset when defining our CSS will help us avoid technical debt in the near future.
