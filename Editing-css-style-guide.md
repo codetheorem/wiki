@@ -1,6 +1,6 @@
-[Back](https://gitlab.com/SUSE-UIUX/eos/wikis/home#developing-the-eos-project)
+◀️ [Back](https://gitlab.com/SUSE-UIUX/eos/wikis/home#writing-code)
 
-## Table of contents
+# Table of contents
 *  [Introduction](#introduction)
 *  [Override Bootstrap](#override-bootstrap)
 *  [Class Names](#class-names)
@@ -21,7 +21,7 @@
 *  [Single quotes](#single-quotes)
 *  [Comment formatting](https://gitlab.com/SUSE-UIUX/eos/wikis/code-commenting-standards)
 
-## Introduction
+# Introduction
 The main principle behind EOS theme is: never modify Bootstrap vendor files, but overwrite it in a smart way to make it reusable across the product and sub-products.
 
 We use most of OOCSS standards and have created our own rules as well in order to have a flexible codebase that can live in harmony with Bootstrap classes, variables and mixins.
@@ -252,7 +252,7 @@ Keep nesting to 3 levels deep. Always have an empty line when a new class starts
 
 ```
 
-**Nested selectors**
+#### Nested selectors
 
 Nested selectors, if necessary, go last, and nothing goes after them. Add whitespace between your rule declarations and nested selectors, as well as between adjacent nested selectors. Apply the same guidelines as above to your nested selectors.
 
@@ -285,7 +285,8 @@ Nested selectors, if necessary, go last, and nothing goes after them. Add whites
 
 ```
 
-**@extend and @include (SASS) / mixins (LESS)**
+#### @extend and @include (SASS) / mixins (LESS)
+
 Declare @extend followed by @include statements first in a declaration block.
 
 ```scss
@@ -308,8 +309,9 @@ Declare @extend followed by @include statements first in a declaration block.
 }
 ```
 
-**Global variables: hex colors, pixels, fonts, etc.**
-The variables that control all other variables in the document. They don't need to be specific to a class or component, but rather global enough to be applied to other variables.
+#### Global variables
+
+The global variables eg. hex colors, pixels, fonts, etc. that control all other variables in the document. They don't need to be specific to a class or component, but rather global enough to be applied to other variables.
 Consider using the name of the property, element type, status type, and always add at the end **-base**.
 Consider overwriting Bootstrap classes when possible.
 
@@ -347,7 +349,8 @@ Consider overwriting Bootstrap classes when possible.
 ```
 
 
-**Specific variables**
+#### Specific variables
+
 The variables to be used inside a property class.
 Name variables after the class/element, followed by its status, and adding at the end the property it modifies.
 
