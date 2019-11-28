@@ -23,7 +23,7 @@ Additional labels for pre-release and build metadata are available as extensions
 
 Once a versioned package has been released, the contents of that version MUST NOT be modified. Any modifications MUST be released as a new version.
 
-# Deploying to production
+## Deploying to production
 
 Deployment to production is manual and it is available in gitlab for the PO or deputy PO to deploy once the work is ready to be published.
 WARNING: the pipeline might let other members of the team deploy to production, please avoid this action and only let PO decide when it is ready to be deployed.
