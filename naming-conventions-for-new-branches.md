@@ -29,7 +29,7 @@ This theme will be easy for you to find out since it will be part of the card yo
 
 Using the slash character to separate Theme and Branch-name will, in the end, be detected by most git software, as a directory/file format, improving the browsing of extensive lists of branches for later review.
 
-## Using Fork for Mac?
+## Using fork for Mac?
 
 Download from: https://git-fork.com/
 
