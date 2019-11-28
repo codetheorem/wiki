@@ -14,23 +14,26 @@ The following documentation defines the Design System used to deliver UX, UI, fr
 - Read the product mission statement to understand the scope of the product: https://eos-mission.webflow.io/
 
 ## Project setup
-[EOS setup instructions](https://gitlab.com/SUSE-UIUX/eos/wikis/Project-setup)
-## Developing the EOS project
+- [EOS setup instructions](https://gitlab.com/SUSE-UIUX/eos/wikis/Project-setup)
+- [Gmail configuration](gmail-configuration)
+- [Environment variables](environment-variables)
+- [Feature flags](Feature-flags)
 
+## Developing the EOS project
+### Git
 - [Naming conventions for new branches](naming-conventions-for-new-branches)
 - [Pull requests, approvals, and merging to Master](pull-requests,-approvals,-and-merging-to-master)
   - [PR templates](/PR-templates)
-- [Deployments and versioning releases with tags](deployments-and-versioning-releases-with-tags)
+### Writing code
 - [Writing CSS/SASS style guide](Editing-css-style-guide)
   - [Code commenting standards](code-commenting-standards)
 - [CSS structure](CSS-structure)
 - [Writing standard JS code](Writing-standard-JS-code)
 - [Writing standard pug code](Writing-standard-pug-code)
+### Releases
+- [Deployments and versioning releases with tags](deployments-and-versioning-releases-with-tags)
 - [Semantic releases](semantic-releases)
 - [Adding/changing Front-end packages](installing-front-end-packages)
-- [Environment variables](environment-variables)
-- [Gmail configuration](gmail-configuration)
-- [Feature flags](Feature-flags)
 
 ## Designing the EOS project
 - [Personas](https://gitlab.com/SUSE-UIUX/eos/wikis/Personas)
