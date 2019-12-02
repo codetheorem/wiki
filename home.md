@@ -27,7 +27,7 @@ The following documentation defines the Design System used to deliver UX, UI, fr
 ### Writing code
 - [Writing Writing standard CSS code](Writing-standard-css-code)
   - [Code commenting standards](code-commenting-standards)
-- [CSS structure](CSS-structure)
+  - [CSS structure](CSS-structure)
 - [Writing standard JS code](Writing-standard-JS-code)
 - [Writing standard pug code](Writing-standard-pug-code)
 ### Releases
