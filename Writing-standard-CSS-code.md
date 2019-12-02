@@ -10,7 +10,7 @@
 *  [Property Format](#property-format)
 *  [No ID selectors](#no-id-selectors)
 *  [JavaScript hooks](#javascript-hooks)
-*  [Using CSS Preprocessors](#using-css-preprocessors)
+*  [Using SASS](#using-sass)
 *  [Mixins](#mixins)
 *  [Vendor-Prefixed: auto-prefixes](#vendor-prefixed-auto-prefixes)
 *  [Border](#border)
@@ -72,7 +72,7 @@ For regular contributors, alphabetical ordering makes it easier to avoid duplica
 
 /* Bad */
 
-.this_is_bad {
+.this-is-bad {
   background: #ccc;
   height: 100px;
   width: 50px;
@@ -209,8 +209,8 @@ Create JavaScript-specific classes to bind to, prefixed with **.js-**
 
 ````
 
-<a name="css-preprocessors"></a>
-#### Using CSS Preprocessors
+<a name="using-sass"></a>
+#### Using SASS (SCSS)
 
 Keep nesting to 3 levels deep. Always have an empty line when a new class starts and ends
 
@@ -260,23 +260,23 @@ Nested selectors, if necessary, go last, and nothing goes after them. Add whites
 /* Good */
 
 .btn-default {
-  background: @btn-default-bg;
+  background: $btn-default-bg;
   font-weight: bold;
   @include transition(background 0.5s ease);
 
   .icon {
-    margin-right: @space-xs;
+    margin-right: $space-xs;
   }
 }
 
 /* Bad */
 
 .btn-default {
-  background: @btn-default-bg;
+  background: $btn-default-bg;
   @include transition(background 0.5s ease);
 
   .icon {
-    margin-right: @space-xs;
+    margin-right: $space-xs;
   }
   
   font-weight: bold;
@@ -285,8 +285,7 @@ Nested selectors, if necessary, go last, and nothing goes after them. Add whites
 
 ```
 
-#### @extend and @include (SASS) / mixins (LESS)
-
+#### @extend and @include
 Declare @extend followed by @include statements first in a declaration block.
 
 ```scss
@@ -295,14 +294,14 @@ Declare @extend followed by @include statements first in a declaration block.
 .stubbornella {
   @extend .company;
   @include border-rounded(14px);
-  color: @stubbornella-color;
+  color: $stubbornella-color;
   font-style: underline;
 }
 
 /* Bad */
 
 .stubbornella {
-  color: @stubbornella-color;
+  color: $stubbornella-color;
   @extend .company;
   font-style: underline;
   @include border-rounded(14px);
@@ -318,34 +317,34 @@ Consider overwriting Bootstrap classes when possible.
 ```scss
 /* Good */
 
-@font-size-base: 13px;
-@font-color-base: #ccc;
-@bg-color-base: #ccc;
-@danger-color-base: #de1a1a;
-@primary-color-base: #6bbf59;
-@h1-font-size-base: 33px;
+$font-size-base: 13px;
+$font-color-base: #ccc;
+$bg-color-base: #ccc;
+$danger-color-base: #de1a1a;
+$primary-color-base: #6bbf59;
+$h1-font-size-base: 33px;
 
 /* Good usage of global variables */
 
-@panel-title-size: @h1-font-size-base;
+$panel-title-size: $h1-font-size-base;
 
 /* Bad - the font-size of any specific element should come from a -base variable */
 
-@panel-title-size: 33px;
+$panel-title-size: 33px;
 
 /* Bad - no -base added */
 
-@body-bg-color: #ccc;
+$body-bg-color: #ccc;
 
 /* Bad - use a base variable for the font family as well */
 
-@font-family-panel: "Lato";
+$font-family-panel: "Lato";
 
 /* Good */
 
-@font-family-serif-base: "Roboto";
-@font-family-sans-serif-base: "Lato";
-@font-family-base: @font-family-sans-serif-base;
+$font-family-serif-base: "Roboto";
+$font-family-sans-serif-base: "Lato";
+$font-family-base: $font-family-sans-serif-base;
 ```
 
 
@@ -357,12 +356,12 @@ Name variables after the class/element, followed by its status, and adding at th
 ```scss
 /* Good */
 
-@stubbornella-font-size: 14px;
-@stubbornella-color: #ccc;
+$stubbornella-font-size: 14px;
+$stubbornella-color: #ccc;
 
 .stubbornella {
-  color: @stubbornella-color;
-  font-size: @stubbornella-font-size;
+  color: $stubbornella-color;
+  font-size: $stubbornella-font-size;
 }
 
 /* Bad - color should be used from a variable */
@@ -374,7 +373,7 @@ Name variables after the class/element, followed by its status, and adding at th
 /* Bad - a variable for the color in stubbornella should be first defined in the variables.scss file but never use the global variables directly */
 
 .stubbornella {
-  color: @primary-color-base;
+  color: $primary-color-base;
 }
 ```
 
@@ -385,15 +384,15 @@ Group the set of variables in a sensible way, according to the element/block the
 
 //========= stubbornella ==========
 
-@stubbornella-font-size: 14px;
-@stubbornella-color: #ccc;
-@stubbornella-border: 1px solid #ccc;
+$stubbornella-font-size: 14px;
+$stubbornella-color: #ccc;
+$stubbornella-border: 1px solid #ccc;
 
 //========= foo ==========
 
-@foo-bg: #898989;
-@foo-font-size: @font-size-base;
-@foo-margin-top: 8px;
+$foo-bg: #898989;
+$foo-font-size: @font-size-base;
+$foo-margin-top: 8px;
 
 ```
 
@@ -416,7 +415,7 @@ Use mixins inside semantic classes whenever it is possible. Avoid creating a new
 }
 
 .bar {
-  @include text-right;
+  $include text-right;
   font-color: #555;
 }
 ```
@@ -433,7 +432,7 @@ Use mixins inside semantic classes whenever it is possible. Avoid creating a new
 
 #### Vendor-Prefixed: auto-prefixes
 
-Unless special case where a vendor prefix needs special value, avoid using vendor prefixes always.
+Unless there is a special case where a vendor prefix needs special value, avoid using vendor prefixes always.
 
 ```scss
 /* Bad */
@@ -499,43 +498,43 @@ Each selector should appear on its own line. The line should break immediately a
 
 button,
 input.button {
-  color: @button-color;
+  color: $button-color;
 }
 
 /* Bad - selectors on one line */
 
 button, input.button {
-  color: @button-color;
+  color: $button-color;
 }
 ```
 
 #### :hover and :focus
 
-If :hover pseudo class is styled, :focus should also be styled for accessibility. Focus styles should never be removed.
+If the `:hover` pseudo class is styled, `:focus` should also be styled for accessibility. Focus styles should never be removed.
 
 ```scss
 /* Good */
 
 a:hover,
 a:focus {
-  color: @link-hover-color;
+  color: $link-hover-color;
 }
 
 /* Good */
 
 a:hover {
-  color: @link-hover-color;
+  color: $link-hover-color;
 }
 
 a:focus {
-  color: @link-focus-color;
+  color: $link-focus-color;
 }
 
 
 /* Bad - missing :focus */
 
 a:hover {
-  color: @link-hover-color;
+  color: $link-hover-color;
 }
 ```
 
@@ -548,8 +547,8 @@ No heights on anything that contains text. Components should be flexible and the
 /* Good - no width specified */
 
 .callout-content {
-  border: 1px solid @callout-border-color;
-  background: @callout-bg;
+  border: 1px solid $callout-border-color;
+  background: $callout-bg;
 }
 
 /* Bad - dimension specified */
@@ -557,8 +556,8 @@ No heights on anything that contains text. Components should be flexible and the
 .callout-content {
   width: 200px;
   height: 150px;
-  border: 1px solid @callout-border-color;
-  background: @callout-bg;
+  border: 1px solid $callout-border-color;
+  background: $callout-bg;
 }
 ```
 
