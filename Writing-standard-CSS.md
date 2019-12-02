@@ -1,4 +1,4 @@
-◀️ [Back](https://gitlab.com/SUSE-UIUX/eos/wikis/home#writing-code)
+[◀️ Back](https://gitlab.com/SUSE-UIUX/eos/wikis/home#writing-code)
 
 # Table of contents
 *  [Introduction](#introduction)
