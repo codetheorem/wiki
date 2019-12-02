@@ -64,7 +64,7 @@ For regular contributors, alphabetical ordering makes it easier to avoid duplica
 /* Good - ordered */
 
 .this-is-good {
-  background: #ccc;
+  background: $color-var;
   font-size: 14px;
   height: 100px;
   width: 50px;
@@ -73,7 +73,7 @@ For regular contributors, alphabetical ordering makes it easier to avoid duplica
 /* Bad */
 
 .this-is-bad {
-  background: #ccc;
+  background: $color-var;
   height: 100px;
   width: 50px;
   font-size: 14px;
