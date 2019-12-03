@@ -1,4 +1,4 @@
-◀️ [Back](https://gitlab.com/SUSE-UIUX/eos/wikis/home#releases)
+[◀️ Back](https://gitlab.com/SUSE-UIUX/eos/wikis/home#releases)
 
 # Continuous integration with Gitlab CI
 
