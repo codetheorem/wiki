@@ -2,7 +2,7 @@
 
 # Continuous integration with Gitlab CI
 
-Our CI is configured to continuously deploy to our staging server (with URL: http://eos-test.herokuapp.com) every time a PR is merged into the Master branch.
+Our CI is configured to continuously deploy to our staging server (with URL: http://eos-staging.herokuapp.com/) every time a PR is merged into the Master branch.
 
 All PR's should be opened to merge against Master and not any other branch unless specifically required to do so.
 
@@ -25,7 +25,7 @@ Once a versioned package has been released, the contents of that version MUST NO
 
 ## Deploying to production
 
-Deployment to production is manual and it is available in gitlab for the PO or deputy PO to deploy once the work is ready to be published.
+Deployment to production is manual and it is available in Gitlab for the PO or deputy PO to deploy once the work is ready to be published.
 WARNING: the pipeline might let other members of the team deploy to production, please avoid this action and only let PO decide when it is ready to be deployed.
 
 ## Test production in local environment
