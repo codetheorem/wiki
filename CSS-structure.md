@@ -18,22 +18,22 @@ We have the following folders:
 * eos-pages
 
 ### Base
-This is where we define all those essential bits of our page, such as variables & typography. They style Bootstrap's base styles. [Link](https://gitlab.com/SUSE-UIUX/eos/tree/master/assets/stylesheets/eos-base)
+This is where we define all those essential bits of our page, such as variables & typography. They style Bootstrap's base styles. [Link](https://gitlab.com/SUSE-UIUX/eos/tree/master/assets/stylesheets/eos-base).
 
 ### Custom base
-In here we define our own base styles. [Link](https://gitlab.com/SUSE-UIUX/eos/tree/master/assets/stylesheets/eos-custom-base)
+In here we define our own base styles. [Link](https://gitlab.com/SUSE-UIUX/eos/tree/master/assets/stylesheets/eos-custom-base).
 
 ### Components
-This is where we include Bootstrap components that use EOS styles. [Link](https://gitlab.com/SUSE-UIUX/eos/tree/master/assets/stylesheets/eos-components)
+This is where we include Bootstrap components that use EOS styles. [Link](https://gitlab.com/SUSE-UIUX/eos/tree/master/assets/stylesheets/eos-components).
 
 ### Custom components
-Here we include the styles for the components defined by us. [Link](https://gitlab.com/SUSE-UIUX/eos/tree/master/assets/stylesheets/eos-custom-components)
+Here we include the styles for the components defined by us. [Link](https://gitlab.com/SUSE-UIUX/eos/tree/master/assets/stylesheets/eos-custom-components).
 
 ### Elements
-In this folder, we include basic elements such as buttons or icons. [Link](https://gitlab.com/SUSE-UIUX/eos/tree/master/assets/stylesheets/eos-elements)
+In this folder, we include basic elements such as buttons or icons. [Link](https://gitlab.com/SUSE-UIUX/eos/tree/master/assets/stylesheets/eos-elements).
 
 ### Layout
-Here we include all the styles that are used to define the look & feel of the layout we use. [Link](https://gitlab.com/SUSE-UIUX/eos/tree/master/assets/stylesheets/eos-layout)
+Here we include all the styles that are used to define the look & feel of the layout we use. [Link](https://gitlab.com/SUSE-UIUX/eos/tree/master/assets/stylesheets/eos-layout).
 
 ### Pages
-In this folder, we include the styles that are specific to custom features in pages. [Link](https://gitlab.com/SUSE-UIUX/eos/tree/master/assets/stylesheets/eos-pages)
+In this folder, we include the styles that are specific to custom features in pages. [Link](https://gitlab.com/SUSE-UIUX/eos/tree/master/assets/stylesheets/eos-pages).
