@@ -147,6 +147,6 @@ d) https://www.npmjs.com/package/webfonts-generator
 
 
 
-## ALL 
+## All 
 All libraries require a minimum height of 500px in the SVGs.
 
