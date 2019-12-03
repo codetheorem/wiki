@@ -14,7 +14,7 @@ The following documentation defines the Design System used to deliver UX, UI, fr
 - Read the product mission statement to understand the scope of the product: https://eos-mission.webflow.io/
 
 ## Project setup
-- [EOS setup instructions](https://gitlab.com/SUSE-UIUX/eos/wikis/Project-setup)
+- [EOS setup instructions](https://gitlab.com/SUSE-UIUX/eos/blob/master/README.md
 - [Gmail configuration](gmail-configuration)
 - [Environment variables](environment-variables)
 - [Feature flags](Feature-flags)
@@ -31,7 +31,7 @@ The following documentation defines the Design System used to deliver UX, UI, fr
 - [Writing standard JS code](Writing-standard-JS-code)
 - [Writing standard pug code](Writing-standard-pug-code)
 ### Releases
-- [Deployments and versioning releases with tags](deployments-and-versioning-releases-with-tags)
+- [Deploying and versioning releases with tags](Deploying-and-versioning-releases-with-tags)
 - [Semantic releases](semantic-releases)
 - [Adding/changing Front-end packages](installing-front-end-packages)
 
