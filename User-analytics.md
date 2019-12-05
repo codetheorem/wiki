@@ -32,4 +32,4 @@ In order to get a good range of data, we need to set a relevant date range
 ![Analytics date range](https://i.imgur.com/JALcFsV.png)
 
 ### Prevent internal traffic from appearing in Google Analytics
-In order to prevent internal traffic (our own visits) we will use a [Chrome add-on](https://goo.gl/1YFNP7). All that is needed is to activate it when loading our [heroku instance](http://eos-test.herokuapp.com/)
+In order to prevent internal traffic (our own visits) we will use a [Chrome add-on](https://goo.gl/1YFNP7).
