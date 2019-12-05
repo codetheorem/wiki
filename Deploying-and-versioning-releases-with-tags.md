@@ -42,7 +42,7 @@ To hide the content, we do
 - }
 ```
 
-This part would show the content in our `localhost`or `eos-test` website but not our `production` site without any extra changes in our  `npm scripts` 
+This part would show the content in our `localhost` website but not our `production` site without any extra changes in our  `npm scripts` 
 
 ----
 **Test production locally:**  
