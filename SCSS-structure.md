@@ -1,11 +1,11 @@
 [◀️ Back](https://gitlab.com/SUSE-UIUX/eos/wikis/home#writing-code)
 
 
-Structuring our Sass files is important since it will help us to keep a cleaner, more consistent and reusable code. Keeping a structured mindset when defining our CSS will help us avoid technical debt in the near future.
+Structuring our SCSS files is important since it will help us to keep a cleaner, more consistent and reusable code. Keeping a structured mindset when defining our SCSS will help us avoid technical debt in the near future.
 
-We structure our CSS files is inspired by the [SMACSS](https://smacss.com) convention but also other patterns, such as the [7-1 pattern](https://sass-guidelin.es/#the-7-1-pattern).
+We structure our SCSS files is inspired by the [SMACSS](https://smacss.com) convention but also other patterns, such as the [7-1 pattern](https://sass-guidelin.es/#the-7-1-pattern).
 
-Currently, we're compiling all files into a single one. Such structure allows us to use a web components-inspired approach, in which we can use and compile only the CSS that is relevant to a specific component.
+Currently, we're compiling all files into a single one. Such structure allows us to use a web components-inspired approach, in which we can use and compile only the SCSS that is relevant to a specific component.
 
 ## Our current Sass structure explained
 We have the following folders:
