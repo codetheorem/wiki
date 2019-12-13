@@ -33,7 +33,7 @@ The following documentation defines the Design System used to deliver UX, UI, fr
 ### Releases
 - [Deploying and versioning releases with tags](Deploying-and-versioning-releases-with-tags)
 - [Semantic releases](semantic-releases)
-- [Adding/changing Front-end packages](installing-front-end-packages)
+- [Managing front-end packages](Managing-front-end-packages)
 
 ## Designing the EOS project
 - [Personas](https://gitlab.com/SUSE-UIUX/eos/wikis/Personas)
