@@ -1,4 +1,4 @@
-◀️ [Back](https://gitlab.com/SUSE-UIUX/eos/wikis/home#releases)
+[◀️ Back](https://gitlab.com/SUSE-UIUX/eos/wikis/home#releases)
 
 
 ## How to install a new FE package
