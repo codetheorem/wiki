@@ -3,7 +3,7 @@
 
 ## How to install a new front-end package
 
-You will notice that we have a `node_modules` folder in the root that is managed by our main `package.json` in the root. This is where we save all packages we use for operations (building, testing, etc) and backend (node + express).
+You will notice that we have a `node_modules` folder which is managed by our main `package.json` in the root. This is where we save all packages we use for operations (building, testing, etc) and backend (node + express).
 
 But, when you run `npm install` you will see that a new `node_modules` folder is created under `vendors`. This folder is managed by the `vendors/package.json` file.
 In order to install a new front-end package you need to run the normal `npm i ...` but being under the right path in your terminal, meaning `vendors`. The first step when installing a front-end package is to type
