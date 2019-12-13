@@ -25,7 +25,7 @@ The following documentation defines the Design System used to deliver UX, UI, fr
 - [Pull requests, approvals, and merging to Master](pull-requests,-approvals,-and-merging-to-master)
   - [PR templates](/PR-templates)
 ### Writing code
-- [Writing standard CSS code](Writing-standard-css-code)
+- [Writing standard SCSS code](Writing-standard-scss-code)
   - [Code commenting standards](code-commenting-standards)
   - [SCSS structure](SCSS-structure)
 - [Writing standard JS code](Writing-standard-JS-code)
