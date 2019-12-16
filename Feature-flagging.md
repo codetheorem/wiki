@@ -2,7 +2,7 @@
 
 
 ## What we do
-We use Strapi as a CMS to define our pages title, descriptions and status (active/inactive).
+We use [Strapi](https://strapi.io/) as a CMS to define our pages title, descriptions and status (active/inactive).
 
 ## How we do
 With every request in our Express app, we make use of the middleware (`config-middleware.js`) that will check if a route is defined in Strapi.
