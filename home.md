@@ -17,7 +17,7 @@ The following documentation defines the Design System used to deliver UX, UI, fr
 - [EOS setup instructions](https://gitlab.com/SUSE-UIUX/eos/blob/master/README.md)
 - [Gmail configuration](gmail-configuration)
 - [Environment variables](environment-variables)
-- [Feature flags](Feature-flags)
+- [Feature flagging](Feature-flagging)
 
 ## Developing the EOS project
 ### Git
