@@ -13,7 +13,7 @@ The three posible scenarios are the following:
  
 To disallow a route, make sure the pages are defined (Strapi > Pages) and set the `enabled` field to false.
 
->  **NOTE**: If the env is development, we ignore all flags because we want to display all pages. We achieve this by passing the same object but with all the enabled values as true.
+>  **NOTE**: If the environment is development, we ignore all flags because we want to display all pages. We achieve this by passing the same object but with all the enabled values as true.
 
 ## Adding items to the menu and submenu.
 
