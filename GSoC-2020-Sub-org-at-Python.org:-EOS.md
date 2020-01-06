@@ -87,17 +87,21 @@ Take some hours to read the full WIKI page of EOS: https://gitlab.com/SUSE-UIUX/
 
 ## Project 1
 
-**Project Title:** Icons and EOS web page
+**Project Title:** EOS-icons landing page - request icons
 
 **Skill Level:** Easy
 
-**Description:** EOS delivers a set of icons that are made 1-to-1 following Material Design Icons. They are currently published at https://suse-uiux.gitlab.io/eos-icons/. The problem with this page is that it lacks engagement and information about the project: how to contribute new icons, how to submit icons request, how to install it, etc. On the other hand, EOS has a landing page that is more engaging, but there is a lot of useful information missing too. The EOS landing page could benefit from a section with a more automated way to scale the sub-pages and content with a CMS.
+**Description:** EOS delivers a set of icons that are made 1-to-1 following Material Design Icons: icons.eosdesignsystem.com. 
 
-**Deliverable:** The main objective of this project is to deliver a web interface for EOS icons and EOS Design System, where both are aligned in terms of UX/UI and ideally can be managed with a headless CMS, such as Strapi [this is the currently used and preferred CMS at EOS].
+**Goals:** We want more people to suggest and request new icons. Currently, we do this by letting people open an issue in Gitlab. An issue we see is that not a lot of people want to sign in to Gitlab to send an issue, they want something faster, within the same interface of EOS. We've benchmarked and https://iconscout.com/unicons uses https://discuss.iconscout.com/ to let their users request new icons. We would like something similar, although simpler.
 
-**Mentors:** Cynthia Sanchez, Jesus Herman, Sorin Curescu, Manuele Carlini.
+**Deliverable:** The main objective of this project is to deliver a web interface for EOS icons that allow users to request new icons in an easy and intuitive way. The interface should have 2 types of users: 
+- admins: EOS maintainers would have access to this account to be able to leave comments, resolve, close, and revision requests before they become visible for the rest of the users.
+- user: any user should be able to submit a request providing certain information so our designers have data enough to process the request. Ideally, the user should be able to opt for leaving an email address or a twitter user to contact them [more ideas welcome].
 
-**Skills:** SCSS, Bootstrap 4, Heroku, Adobe XD, Headless CMSs.
+**Mentors:** [Cynthia Sanchez](https://twitter.com/cyntss), [Sorin Curescu](https://twitter.com/en3sis), [Kartikay Bhutani](https://twitter.com/kbhutani0001), [Abhinandan Sharma](https://twitter.com/abhinandan0659).
+
+**Skills:** SCSS, Bootstrap 4, Heroku, Headless CMSs.
 
 **Get started:** You will need to learn more about Strapi first (https://strapi.io), implement it in a free Heroku node so you can use it in your front-end. Consider learning about JAMstack (https://jamstack.org/) as this may be a perfect use case for it. Once you have all the technical preparation, you should research and find the best ideas for the UI of the pages (https://www.streamlineicons.com/ is a nice benchmark). Our team will certainly help you with illustrations and others if you need, but the general layout and idea have to come from you. It is recommended that we use the Design System as a baseline for the UI pieces.
 
