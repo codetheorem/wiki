@@ -111,19 +111,12 @@ Take some hours to read the full WIKI page of EOS: https://gitlab.com/SUSE-UIUX/
 
 **Skill Level:** Easy
 
-**Description:** EOS-icons delivers a set of icons in an iconic font that makes it really easy for web developers to implement into their products given that all they have to do it download (or CDN) the font and then simply use ligatures in their `html`
+**Description:** EOS-icons delivers a set of icons in an iconic font that makes it really easy for web developers to implement into their products given that all they have to do it download (or CDN) the font and then simply use ligatures in their `html`. It also delivers a few animated icons. These icons were created with SVG with SMIL animation on top (pure code).
 
-There is already an open source web builder available: https://github.com/artf/grapesjs. You can check out the demo at: https://grapesjs.com/demo.html. And several other proprietary builders:
-https://www.layoutit.com/build, https://pingendo.com/
-Use the examples above to get the best ideas for the UI builder, keeping in mind that we expect a more minimal result given the size of a project like that, so you will need to plan this accordingly. We will help you.
+**Goals:** While an iconic font is really efficient for web platforms, installable software struggles more with this solution. For developers working on products like plugins or executable files it is more efficient to be able to get a `.PNG`, `.GIF`, or `.SVG` of the icon.
+For animated icons we need to extend the number of icons available. There are plenty more animated icons we can recreate for different use cases.
 
-EOS follows the Atomic Design process for building UI blocks:
-
-![image](https://user-images.githubusercontent.com/5013096/49255397-2c134980-f42c-11e8-852b-9bc32e4aa743.png)
-
-If you want to understand more about Atomic Design, we recommend you read the following article: https://medium.muz.li/building-design-systems-with-atomic-design-93a13286f676
-
-**Deliverable:** The main objective of this project is to deliver a basic web UI builder that can easily register new UI elements, and that can export mockups (perhaps just a PDF or screenshot at first).
+**Deliverable:** Allow users to download a `.PNG`, `.GIF`, or `.SVG` of the icon of any of the available icons in EOS-icons (including the extended version). The user should be able to download the icon in the most commonly used sizes (please research and propose the best sizes), as well as in the color they wish.
 
 **Mentors:** Cynthia Sanchez, Jesus Herman, Sorin Curescu, Manuele Carlini.
 
