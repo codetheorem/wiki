@@ -7,7 +7,7 @@
 
 We use 2 different repositories when creating new icons:
 
-1. EOS-backup repo: it holds the original designs in .ai (illustrator extension). The folder where icons in .ai are being saved is: `design-system/EOS-Icons/`. The repository's URL is https://github.com/SUSE/eos-backup. **NOTE**: AI files include a grid layer that must be used to comply with the [general design guidelines](https://gitlab.com/SUSE-UIUX/eos/-/wikis/Icon-Design-Guide).
+1. EOS-backup repo: it holds the original designs in .ai (illustrator extension). The folder where icons in .ai are being saved is: `design-system/EOS-Icons/`. The repository's URL is https://gitlab.com/SUSE-UIUX/eos-backup/. **NOTE**: AI files include a grid layer that must be used to comply with the [general design guidelines](https://gitlab.com/SUSE-UIUX/eos/-/wikis/Icon-Design-Guide).
 
 2. EOS-icons repo: it holds the final .svg icons as well as the compiled version of the icon font (with a nice demo page `dist/index.html`). Repo URL: https://gitlab.com/SUSE-UIUX/eos-icons. **NOTE**: SVG files must not include the grid layer from the `.ai` files.
 
