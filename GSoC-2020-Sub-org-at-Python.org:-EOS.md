@@ -2,6 +2,8 @@
 
 # About EOS Design System
 
+![image](uploads/fe7c791500d57753f652223d9475f0f7/image.png)
+
 Many companies of all different sizes struggle with today's IT agendas: bleeding edge software, agile development, short time-to-market, etc., and this "new" (and really not so) kid on the block is not making it any easier for developer and designers to keep up: UX design. 
 
 Design Systems can help solve this problem, and a few more. Design Systems serve as a centralized source of information for UX, UI, and other brand-related guidelines that help not only developers find the UI element or component they need, but also designers to build faster prototypes while streamlining the collaboration between the two.
