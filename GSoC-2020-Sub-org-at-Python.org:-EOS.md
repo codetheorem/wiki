@@ -101,7 +101,7 @@ Take some hours to read the full WIKI page of EOS: https://gitlab.com/SUSE-UIUX/
 
 **Mentors:** [Cynthia Sanchez](https://twitter.com/cyntss), [Sorin Curescu](https://twitter.com/en3sis), [Kartikay Bhutani](https://twitter.com/kbhutani0001), [Abhinandan Sharma](https://twitter.com/abhinandan0659).
 
-**Skills:** SCSS, Bootstrap 4, Heroku, Headless CMSs, some DB.
+**Skills:** SCSS, Bootstrap 4, Pug.js, CI Heroku, Headless CMSs, some DB.
 
 **Get started:** Make some researches before submitting your application. Read about some CMS, forum tool, etc. There is always something out there that we can re-use to not re-invent the wheel and save ourselves some time. Most likely, you will find a tool we can use. You will have to play with it and plan on spending some time to assemble things together, deploy a server in heroku, have a database functioning, and most importantly, have a nice UI and user experience working.
 
@@ -113,33 +113,18 @@ Take some hours to read the full WIKI page of EOS: https://gitlab.com/SUSE-UIUX/
 
 **Description:** EOS-icons delivers a set of icons in an iconic font that makes it really easy for web developers to implement into their products given that all they have to do it download (or CDN) the font and then simply use ligatures in their `html`. It also delivers a few animated icons. These icons were created with SVG with SMIL animation on top (pure code).
 
-**Goals:** While an iconic font is really efficient for web platforms, installable software struggles more with this solution. For developers working on products like plugins or executable files it is more efficient to be able to get a `.PNG`, `.GIF`, or `.SVG` of the icon.
-For animated icons we need to extend the number of icons available. There are plenty more animated icons we can recreate for different use cases.
+**Goals:** While an iconic font is really efficient for web platforms, installable software struggles more with this solution. For developers working on products like plugins or executable files it is more efficient to be able to get a `.PNG` or `.SVG` of the icon.
+For animated icons we need to extend the number of icons available and also have a customization option to let users change the color of the exported SVG.
 
-**Deliverable:** Allow users to download a `.PNG`, `.GIF`, or `.SVG` of the icon of any of the available icons in EOS-icons (including the extended version). The user should be able to download the icon in the most commonly used sizes (please research and propose the best sizes), as well as in the color they wish.
+**Deliverable:** 
+- Allow users to download a `.PNG` or `.SVG` of the icon of any of the available icons in EOS-icons (including the extended version). The user should be able to download the icon in the most commonly used sizes (please research and propose the best sizes), as well as in the color they wish (see https://www.flaticon.com/free-icon/home_25694?term=home&page=1&position=4 to get some ideas of customization).
+- Create more animated icons. Research use cases, discuss it with the community and increase the number of animated icons using SMIL animation in SVG. The animated icons should be color customizable. Given that they are SVG vectors, users don't need the file in different sizes, only 1 size. Our designers will help you with the graphic design of the icon.
 
-**Mentors:** Cynthia Sanchez, Jesus Herman, Sorin Curescu, Manuele Carlini.
+**Mentors:** [Cynthia Sanchez](https://twitter.com/cyntss), [Sorin Curescu](https://twitter.com/en3sis), [Kartikay Bhutani](https://twitter.com/kbhutani0001), [Abhinandan Sharma](https://twitter.com/abhinandan0659).
 
-**Skills:** Node.js, Express.js, CI, Angular/React/Backbone, Pug.js, SCSS, Bootstrap 4, Heroku.
+**Skills:** Python, Gulp, Pug.js, SCSS, Bootstrap 4, SVG SMIL, Javascript/Jquery.
 
-**Get started:** Research and test the waters first. Grapesjs may not be the only open source available solution. Start small and keep a close communication gap with your mentors, we are entirely available for you. Your success is our main priority.
-
-
-## Project 3
-
-**Project Title:** Icons picker and custom font generator
-
-**Skill Level:** Easy
-
-**Description:** EOS delivers a set of icons that are made 1-to-1 following Material Design Icons. They are currently published at https://suse-uiux.gitlab.io/eos-icons/ for you to see them. These icons are also available in an extended version which includes both fonts (EOS and Material Design) in one. Some users will use the extended version, some other will use only the EOS icons, however, in both scenarios it would be unusual that a project uses all of the icons available in a font. Including a library of 90% unused icons in a web project reduces performance unnecessarily. 
-
-**Deliverable:** Having an icon picker to chose the icons needed from the 2 available icon fonts. Once the icons are selected, the application should enable the user to generate and download the custom font. A nice to have for this project would be to enable recurrent users to continue building their previous selections.
-
-**Mentors:** Cynthia Sanchez, Jesus Herman, Sorin Curescu, Manuele Carlini.
-
-**Skills:** JS, Grunt, Adobe XD, Gitlab CI, some HTML and SCSS.
-
-**Get started:** We use Fontforge with Grunt to automatically generate the EOS icon font with a simple CLI script. Take the time to understand the bases of how the font is generated, how Fontforge is configured and the extent of what this last one can does. You will need to work on a UI to pick the icons. We expect to see some mockups creations and the implementation of them. You need to get some understanding of how Gitlab CI works, for this you should read more about YAML (https://yaml.org) and the concepts of CI/CD (https://about.gitlab.com/product/continuous-integration/). This is important because the webpage is currently served by Gitlab pages and generated in CI. 
+**Get started:** Read about Gulp, 60% of the project will be around this library. Make sure your Javascript skills are good to handle real-time customization. Do your part of benchmarking by visiting and exploring https://www.flaticon.com/free-icon/home_25694?term=home&page=1&position=4 and their customization tool.
 
 # Useful links:
 
