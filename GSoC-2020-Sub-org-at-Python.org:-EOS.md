@@ -101,17 +101,17 @@ Take some hours to read the full WIKI page of EOS: https://gitlab.com/SUSE-UIUX/
 
 **Mentors:** [Cynthia Sanchez](https://twitter.com/cyntss), [Sorin Curescu](https://twitter.com/en3sis), [Kartikay Bhutani](https://twitter.com/kbhutani0001), [Abhinandan Sharma](https://twitter.com/abhinandan0659).
 
-**Skills:** SCSS, Bootstrap 4, Heroku, Headless CMSs.
+**Skills:** SCSS, Bootstrap 4, Heroku, Headless CMSs, some DB.
 
-**Get started:** You will need to learn more about Strapi first (https://strapi.io), implement it in a free Heroku node so you can use it in your front-end. Consider learning about JAMstack (https://jamstack.org/) as this may be a perfect use case for it. Once you have all the technical preparation, you should research and find the best ideas for the UI of the pages (https://www.streamlineicons.com/ is a nice benchmark). Our team will certainly help you with illustrations and others if you need, but the general layout and idea have to come from you. It is recommended that we use the Design System as a baseline for the UI pieces.
+**Get started:** Make some researches before submitting your application. Read about some CMS, forum tool, etc. There is always something out there that we can re-use to not re-invent the wheel and save ourselves some time. Most likely, you will find a tool we can use. You will have to play with it and plan on spending some time to assemble things together, deploy a server in heroku, have a database functioning, and most importantly, have a nice UI and user experience working.
 
 ## Project 2
 
-**Project Title:** Web UI builder
+**Project Title:** Animated icons and icon customization.
 
-**Skill Level:** Intermediate
+**Skill Level:** Easy
 
-**Description:** EOS Design System is an open source set of guidelines, components, elements, and more. All these tools are there to help developers and designers create products in a consistent and efficient way. The goal of a Design System is that all products in a portfolio look and feel the same in order to enhance the user experience and brand perception. While a good documentation of all these components help designers and developers understand how and when to use them, nothing could make their life easier than enabling developers and designers to create quick mockups in an online web UI builder that use the exact color, size, and shape of the UI block defined in the design system.
+**Description:** EOS-icons delivers a set of icons in an iconic font that makes it really easy for web developers to implement into their products given that all they have to do it download (or CDN) the font and then simply use ligatures in their `html`
 
 There is already an open source web builder available: https://github.com/artf/grapesjs. You can check out the demo at: https://grapesjs.com/demo.html. And several other proprietary builders:
 https://www.layoutit.com/build, https://pingendo.com/
