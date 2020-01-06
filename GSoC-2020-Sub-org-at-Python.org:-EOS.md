@@ -124,7 +124,7 @@ For animated icons we need to extend the number of icons available and also have
 
 **Skills:** Python, Gulp, Pug.js, SCSS, Bootstrap 4, SVG SMIL, Javascript/Jquery.
 
-**Get started:** Read about Gulp, 60% of the project will be around this library. Make sure your Javascript skills are good to handle real-time customization. Do your part of benchmarking by visiting and exploring https://www.flaticon.com/free-icon/home_25694?term=home&page=1&position=4 and their customization tool.
+**Get started:** Read about Gulp https://gulpjs.com/, 60% of the project will be around this library. Make sure your Javascript skills are good to handle real-time customization. Do your part of benchmarking by visiting and exploring https://www.flaticon.com/free-icon/home_25694?term=home&page=1&position=4 and their customization tool.
 
 # Useful links:
 
