@@ -39,7 +39,7 @@ Step by step:
 
   - Be inside the **master** branch and pull for the latest changes
   - Create a new branch from **master**. Make sure the name of the branch is descriptive enough. For example, if your branch will add a new icon, use a name such as `new/virtual-reality-icon`, in the contrary, if your branch fixes an icon then use `fix/virtual-reality-inconsistent-design`
-  - Use any icon from the eos-backup repository as your base so you get the grid layer to work with. For example, this is an icon in the eos-backup:
+  - Use any icon from the eos-backup repository as your base so you get the grid layer to work with, or get the grid directly from https://adobe.ly/35u2psC. For example, this is an icon in the eos-backup:
 ![image](uploads/f770f66ccfcf32221ee87bd780b9efbc/image.png)
   - Once you have finished your icon, make a PR against eos-backup with the original **SVG or AI** file which includes the grid (just like the icon shown above). The directory where you should save the icon is:
 https://gitlab.com/SUSE-UIUX/eos-backup/tree/master/design-system-pieces/Building%20blocks/Assets/EOS-Icons
