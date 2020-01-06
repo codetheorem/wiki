@@ -35,15 +35,18 @@ All you have to do is:
 
 ## Creating a PR:
 
-1. When creating a PR for the new icon designed, remember to always:
+Step by step:
+
   - Be inside the **master** branch and pull for the latest changes
   - Create a new branch from **master**. Make sure the name of the branch is descriptive enough. For example, if your branch will add a new icon, use a name such as `new/virtual-reality-icon`, in the contrary, if your branch fixes an icon then use `fix/virtual-reality-inconsistent-design`
-  - Use any icon from the eos-backup repository as your base so you get the grid layer to work with.
-  - Once you have finished your icon, make sure you export a new SVG file with does not include the grid layer in it. Make a PR against eos-backup with the original SVG or AI file which includes the grid. The directory is:
+  - Use any icon from the eos-backup repository as your base so you get the grid layer to work with. For example, this is an icon in the eos-backup:
+![image](uploads/f770f66ccfcf32221ee87bd780b9efbc/image.png)
+  - Once you have finished your icon, make a PR against eos-backup with the original **SVG or AI** file which includes the grid (just like the icon shown above). The directory where you should save the icon is:
 https://gitlab.com/SUSE-UIUX/eos-backup/tree/master/design-system-pieces/Building%20blocks/Assets/EOS-Icons
-![image](uploads/f22c9ac22e8764fe67e5df84bebc154a/image.png)
-  - Add the .svg icon without the grid into the `svg/` folder in the eos-icons repo. (https://gitlab.com/SUSE-UIUX/eos-icons/tree/master/svg)
-  - Inside the eos-icons repo, compile the icon font by running in the command line `grunt` (remember, you need to be inside the project directory for this to work)
+![image](uploads/f22c9ac22e8764fe67e5df84bebc154a/image.png).
+  - Add the .svg icon without the grid into the `svg/` folder in the eos-icons repo. (https://gitlab.com/SUSE-UIUX/eos-icons/tree/master/svg), for example:
+![image](uploads/67b4403ef851d849543afc8b2c15dc01/image.png)
+  - Inside the eos-icons repo, compile the icon font by running in the command line `grunt`.
   - Test that `dist/index.html` works well and you can see your icon there.
   - Create the commit by adding all the changes in `dist/` and your new icon in `svg/`. **IMPORTANT**: Your commit message needs to start with either `New:` or `Fix:`. Read more about our semantic release rules here: https://gitlab.com/SUSE-UIUX/eos-icons/-/wikis/semantic-releases
   - Push the changes and go to gitlab.com to create the Merge Request.
