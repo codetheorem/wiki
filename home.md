@@ -18,6 +18,7 @@ The following documentation defines the Design System used to deliver UX, UI, fr
 - [Gmail configuration](gmail-configuration)
 - [Environment variables](environment-variables)
 - [Feature flagging](Feature-flagging)
+- [Strapi CMS](Strapi-CMS)
 
 ## Developing the EOS project
 ### Git
