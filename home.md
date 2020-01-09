@@ -15,7 +15,7 @@ This Wiki defines the Design System used to deliver UX, UI, front-end, and other
 
 ## Project setup
 - [EOS setup instructions](https://gitlab.com/SUSE-UIUX/eos/blob/master/README.md)
-- [Gmail configuration](gmail-configuration)
+- [Configuring Gmail](Configuring-Gmail)
 - [Environment variables](environment-variables)
 - [Feature flagging](Feature-flagging)
 - [Strapi CMS](Strapi-CMS)
