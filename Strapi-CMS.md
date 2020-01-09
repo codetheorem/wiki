@@ -21,3 +21,24 @@ We recommend using Heroku for the Strapi instance and MongoDB as database (you c
 
 💡 **NOTE**: you can run Strapi in development or production by changing `NODE_ENV`.
 eg: `env NODE_ENV= production npm start`
+
+### Development
+```
+export EOS_DATABASE_DB_DEV= YOUR_MONGODB_DEVELOPMENT_DB_NAME
+export EOS_DATABASE_URI_DEV= YOUR_MONGODB_DEVELOPMENT_DB_URI
+```
+
+### Production
+```
+export EOS_DATABASE_URI_PROD= YOUR_MONGODB_PRODUCTION_DB_URI
+export EOS_DATABASE_DB_PROD= YOUR_MONGODB_PRODUCTION_DB_NAME
+```
+
+## Setting up EOS
+Now the application, page models and their corresponding documents are set up*, we can start by setting the Strapi url.
+
+💡 ***NOTE**: For a route to render the correct title/description, the document path must match the route path. You can find our default structure here.
+
+For this you'll need to set some env_variables with your Strapi endpoint and auth.
+
+💡 **NOTE**: Make sure you set the Authenticated role permission to be able to find and findone (Roles & Permissions > Authenticated)
