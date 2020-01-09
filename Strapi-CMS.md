@@ -19,7 +19,7 @@ We recommend using Heroku for the Strapi instance and MongoDB as database (you c
 3. You'll need to set up two local variables in order for Strapi to connect to your database. (see Development and Production variables names below)
 4. You can start Strapi by running npm start.
 
-💡 **NOTE**: you can run Strapi in development or production by changing `NODE_ENV`.
+⚠️ **NOTE**: you can run Strapi in development or production by changing `NODE_ENV`.
 eg: `env NODE_ENV= production npm start`
 
 ### Development
@@ -37,11 +37,11 @@ export EOS_DATABASE_DB_PROD= YOUR_MONGODB_PRODUCTION_DB_NAME
 ## Setting up EOS
 Now the application, page models and their corresponding documents are set up*, we can start by setting the Strapi url.
 
-*💡 **NOTE**: For a route to render the correct title/description, the document path must match the route path. You can find our default structure here.
+*⚠️ **NOTE**: For a route to render the correct title/description, the document path must match the route path. You can find our default structure here.
 
 For this you'll need to set some `env_variables` with your Strapi endpoint and auth.
 
-💡 **NOTE**: Make sure you set the Authenticated role permission to be able to find and find one (Roles & Permissions > Authenticated)
+⚠️ **NOTE**: Make sure you set the Authenticated role permission to be able to find and find one (Roles & Permissions > Authenticated)
 
 ### Development
 ```
@@ -81,7 +81,7 @@ Once you have Strapi ready, head to the “CONTENT TYPE > Applications” and cl
 ### Pages
 This is used to dynamically set titles, description or enable a page inside the project.
 
-💡 **NOTE**: For a route to render the correct title/description, the document path must match the route path. You can find our default structure [here](https://gist.github.com/en3sis/a7805a6de8dccf88e25dd667c264ad19).
+⚠️ **NOTE**: For a route to render the correct title/description, the document path must match the route path. You can find our default structure [here](https://gist.github.com/en3sis/a7805a6de8dccf88e25dd667c264ad19).
 
 ![Screenshot_2020-01-09_at_14.33.28](uploads/fd130ef027281cc66582fac2f2bf5817/Screenshot_2020-01-09_at_14.33.28.png)
 
