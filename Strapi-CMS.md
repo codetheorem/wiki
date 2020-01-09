@@ -37,8 +37,34 @@ export EOS_DATABASE_DB_PROD= YOUR_MONGODB_PRODUCTION_DB_NAME
 ## Setting up EOS
 Now the application, page models and their corresponding documents are set up*, we can start by setting the Strapi url.
 
-💡 ***NOTE**: For a route to render the correct title/description, the document path must match the route path. You can find our default structure here.
+*💡 **NOTE**: For a route to render the correct title/description, the document path must match the route path. You can find our default structure here.
 
-For this you'll need to set some env_variables with your Strapi endpoint and auth.
+For this you'll need to set some `env_variables` with your Strapi endpoint and auth.
 
-💡 **NOTE**: Make sure you set the Authenticated role permission to be able to find and findone (Roles & Permissions > Authenticated)
+💡 **NOTE**: Make sure you set the Authenticated role permission to be able to find and find one (Roles & Permissions > Authenticated)
+
+### Development
+```
+export EOS_STRAPI_SERVER_DEV=YOUR_DEVELOPMENT_STRAPI_URL
+export EOS_STRAPI_USERNAME_DEV=YOUR_DEVELOPMENT_STRAPI_USERNAME
+export EOS_STRAPI_PASSWORD_DEV=YOUR_DEVELOPMENT_STRAPI_PASSWORD
+```
+
+Run EOS as development with:
+
+`npm run env:dev`
+
+
+###Production
+```
+export EOS_STRAPI_SERVER_PROD=YOUR_PRODUCTION_STRAPI_URL
+export EOS_STRAPI_USERNAME_PROD=YOUR_PRODUCTION_STRAPI_USERNAME
+export EOS_STRAPI_PASSWORD_PROD=YOUR_PRODUCTION_STRAPI_PASSWORD
+```
+
+Run EOS as production with:
+
+`npm run env:prod`
+
+
+Both the application and pages are managed in our middleware inside `modules/config-middleware.js ` 
