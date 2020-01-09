@@ -55,7 +55,7 @@ Run EOS as development with:
 `npm run env:dev`
 
 
-###Production
+### Production
 ```
 export EOS_STRAPI_SERVER_PROD=YOUR_PRODUCTION_STRAPI_URL
 export EOS_STRAPI_USERNAME_PROD=YOUR_PRODUCTION_STRAPI_USERNAME
@@ -68,3 +68,21 @@ Run EOS as production with:
 
 
 Both the application and pages are managed in our middleware inside `modules/config-middleware.js ` 
+
+## Content types in Strapi
+Read more about Content Types [here](https://strapi.io/documentation/3.x.x/guides/models.html).
+
+### Application
+
+Once you have Strapi ready, head to the “CONTENT TYPE > Applications” and click on the button “Add new application”. You should create only 1 application and fill out the fields with your Product’s information. This is the basic configuration to display your brand’s name and some other basic configurations.
+
+![Screenshot_2020-01-09_at_14.29.42](uploads/f0a5f5d575f99da6de44471a9d8d2951/Screenshot_2020-01-09_at_14.29.42.png)
+
+### Pages
+This is used to dynamically set titles, description or enable a page inside the project.
+
+💡 **NOTE**: For a route to render the correct title/description, the document path must match the route path. You can find our default structure [here](https://gist.github.com/en3sis/a7805a6de8dccf88e25dd667c264ad19).
+
+![Screenshot_2020-01-09_at_14.33.28](uploads/fd130ef027281cc66582fac2f2bf5817/Screenshot_2020-01-09_at_14.33.28.png)
+
+
