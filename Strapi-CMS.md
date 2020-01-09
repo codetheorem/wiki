@@ -81,7 +81,7 @@ Once you have Strapi ready, head to the “CONTENT TYPE > Applications” and cl
 ### Pages
 This is used to dynamically set titles, description or enable a page inside the project.
 
-⚠️ **NOTE**: For a route to render the correct title/description, the document path must match the route path. You can find our default structure [here](https://gist.github.com/en3sis/a7805a6de8dccf88e25dd667c264ad19).
+⚠️ **NOTE**: For a route to render the correct title/description, the document path must match the route path. You can find our default structure [here](https://gitlab.com/SUSE-UIUX/eos/snippets/1928439).
 
 ![Screenshot_2020-01-09_at_14.33.28](uploads/fd130ef027281cc66582fac2f2bf5817/Screenshot_2020-01-09_at_14.33.28.png)
 
