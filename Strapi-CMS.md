@@ -11,3 +11,13 @@ We recommend using Heroku for the Strapi instance and MongoDB as database (you c
 
 ## Configuring Strapi with Mongodb / Mlab
 ### Setting Strapi locally
+
+1. Clone our Strapi repository https://gitlab.com/SUSE-UIUX/eos-strapi 
+2. Create a local mongodb database: https://docs.mongodb.com/manual/tutorial/install-mongodb-on-os-x/
+   * Or create it in the cloud with https://cloud.mongodb.com or https://mlab.com/. You’ll require a connection URI and the name of the DB to setup the connection with Strapi.
+   * More info about mongoDB URI format https://docs.mongodb.com/manual/reference/connection-string/
+3. You'll need to set up two local variables in order for Strapi to connect to your database. (see Development and Production variables names below)
+4. You can start Strapi by running npm start.
+
+💡 **NOTE**: you can run Strapi in development or production by changing `NODE_ENV`.
+eg: `env NODE_ENV= production npm start`
