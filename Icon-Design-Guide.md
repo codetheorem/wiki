@@ -14,7 +14,7 @@ When creating icons it is important to first ensure that no icon already exists 
 
 All icons should follow Googles' [Guide for Creating System Icons](https://material.io/design/iconography/system-icons.html).
 
-All additional icons "live" in the gitlab repository: https://gitlab.com/SUSE-UIUX/eos-icons.
+All additional icons "live" in the Gitlab repository: https://gitlab.com/SUSE-UIUX/eos-icons.
 
 ## File name
 
