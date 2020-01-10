@@ -23,7 +23,7 @@ A demo of a draft:
 
 ## Learn what can be improved and design in high-definition
 
-After having implemented the changes the team suggested in the previous step, and only after the draft/wireframe has been approved or all issues are marked as resolved and your idea is on the right track should you now invest time on colors, shades, and the final visual design. With this, comes prototyping as well. Using the high definition mockups created, the next step is to provide an interactive prototype (in Adobe XD) to bring behavior to your images. As in the previous step, you are required to gather feedback by simply sharing the prototype link on the chat channel.
+After having implemented the changes the team suggested in the previous step, and only after the draft/wireframe has been approved or all issues are marked as resolved and your idea is on the right track should you now invest time on colors, shades, and the final visual design. With this, comes prototyping as well. Using the high definition mockups created, the next step is to provide an interactive prototype (in Adobe XD) to bring the behavior to your images. As in the previous step, you are required to gather feedback by simply sharing the prototype link on the chat channel.
 
 3) Use one file for all scenarios. If you are creating a mockup for different devices, use artboards within a single file. 
 
