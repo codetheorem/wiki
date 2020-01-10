@@ -130,7 +130,7 @@
 <br>
 
 ## Application Developer
->  Uses Linux/Chrome & Windows/Chrome, Creates/Maintains their own products
+>  Uses Linux/Chrome & Windows/Chrome, Creates/Maintains its own products
 
 **Technical Knowledge**
 
@@ -151,7 +151,7 @@
 <br>
 
 ## Desktop User
->  A true rarity in nature, the normal desktop user encompasses each and every one of our personas who runs linux. In addition to the software included in SLES the desktop user also requires LibreOffice for editing presentations, spreadsheets and text documents as well as the Evolution email client for Outlook.
+>  A true rarity in nature, the normal desktop user encompasses each and every one of our personas who runs Linux. In addition to the software included in SLES the desktop user also requires LibreOffice for editing presentations, spreadsheets and text documents as well as the Evolution email client for Outlook.
 
 <br>
 
