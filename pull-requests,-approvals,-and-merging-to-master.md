@@ -15,7 +15,7 @@ These are some basic general rules for creating PRs (pull requests) in git, plus
 
 4. Our Meggie bot will assign someone to open PRs to review your code. Add the person that got assigned in Gitlab. If the person is either yourself or a person out of the office, close and re-open the PR to get a new assignee. If the PR was about implementing a designer's design, make sure you show it to s/he and get her/his approval too.
 
-5. The PR should have `master` as a target and never trigger a release, unless the card specifies it. The PO will check when a card is concluding an epic and requires to launch a new release. More info about how to trigger releases [https://gitlab.com/SUSE-UIUX/eos/wikis/Semantic-Releases]
+5. The PR should have `master` as a target and never trigger a release unless the card specifies it. The PO will check when a card is concluding an epic and requires to launch a new release. More info about how to trigger releases [https://gitlab.com/SUSE-UIUX/eos/wikis/Semantic-Releases]
 
 ## Being assigned to a PR, approving it, and merging to master
 
@@ -29,7 +29,7 @@ When being assigned to a PR, you must:
   - https://gitlab.com/SUSE-UIUX/eos/wikis/Editing-css-style-guide#vendor-prefixed-auto-prefixes
   - https://gitlab.com/SUSE-UIUX/eos/wikis/Editing-css-style-guide#hover-and-focus
 
-For every issue you find you should **Start a discussion** from the comments interface or by writing a comment inline in the code written.
+For every issue, you find you should **Start a discussion** from the comments interface or by writing a comment inline in the code written.
 
 Only once all issues are resolved, you can approve the merge request by clicking on the green button so then the person who initially opened the PR can **merge it to master**.
 
