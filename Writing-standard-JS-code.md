@@ -30,7 +30,7 @@ to only call the controller when needed.
 - Use `object destructuring` instead of variable assignment, ex: `const { name } = object` instead of `const name = object.name`. We also use a space inside brackets `{ name }`
 
 ## Do not use HTML elements in javascript  files
-It is good practice to keep javascript code and html elements separated. It makes it easier to maintain and debug, and  is reusable. 
+It is good practice to keep the javascript code and HTML elements separated. It makes it easier to maintain and debug and is reusable. 
 
 Instead of creating HTML element inside javascript, create it in an HTML page and update it with javascript.
 
