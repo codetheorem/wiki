@@ -310,7 +310,7 @@ Declare @extend followed by @include statements first in a declaration block.
 
 #### Global variables
 
-The global variables eg. hex colors, pixels, fonts, etc. that control all other variables in the document. They don't need to be specific to a class or component, but rather global enough to be applied to other variables.
+The global variables eg. hex colours, pixels, fonts, etc. that control all other variables in the document. They don't need to be specific to a class or component, but rather global enough to be applied to other variables.
 Consider using the name of the property, element type, status type, and always add at the end **-base**.
 Consider overwriting Bootstrap classes when possible.
 
@@ -364,13 +364,13 @@ $stubbornella-color: #ccc;
   font-size: $stubbornella-font-size;
 }
 
-/* Bad - color should be used from a variable */
+/* Bad - colour should be used from a variable */
 
 .stubbornella {
   color: #ccc;
 }
 
-/* Bad - a variable for the color in stubbornella should be first defined in the variables.scss file but never use the global variables directly */
+/* Bad - a variable for the colour in stubbornella should be first defined in the variables.scss file but never use the global variables directly */
 
 .stubbornella {
   color: $primary-color-base;
@@ -432,7 +432,7 @@ Use mixins inside semantic classes whenever it is possible. Avoid creating a new
 
 #### Vendor-Prefixed: auto-prefixes
 
-Unless there is a special case where a vendor prefix needs special value, avoid using vendor prefixes always.
+Unless there is a special case where a vendor prefix needs a special value, avoid using vendor prefixes always.
 
 ```scss
 /* Bad */
@@ -510,7 +510,7 @@ button, input.button {
 
 #### :hover and :focus
 
-If the `:hover` pseudo class is styled, `:focus` should also be styled for accessibility. Focus styles should never be removed.
+If the `:hover` pseudo-class is styled, `:focus` should also be styled for accessibility. Focus styles should never be removed.
 
 ```scss
 /* Good */
