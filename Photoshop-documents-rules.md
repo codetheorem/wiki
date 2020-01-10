@@ -1,13 +1,13 @@
 ◀️ [Back](https://gitlab.com/SUSE-UIUX/eos/wikis/home#designing-the-eos-project)
 
 
-When using Photoshop to create a document that will present the user interface of a given  product based on the UX/UI Guideline some rules must be respected in order to create documents consistent with each other and compatible with our workflow and tools. Here’s the list:
+When using Photoshop to create a document that will present the user interface of a given product based on the UX/UI Guideline some rules must be respected in order to create documents consistent with each other and compatible with our workflow and tools. Here’s the list:
 
 ## Creating a new photoshop document
 
 ![1](/uploads/9f541badea61da5914fc09391a9f710a/1.png)
 When creating a new document Photoshop proposes to choose among different formats: 
-the one to choose is “Web” because it has “Art boards”,  choose a width of 1366x768 pixels @72 ppi, RGB.
+the one to choose is “Web” because it has “Artboards”,  choose a width of 1366x768 pixels @72 ppi, RGB.
 In case the height of the document is not enough for a certain project it’s possible to increase it, but only on a specific artboard and not across the whole document.
 
 ## Artboards
@@ -32,10 +32,10 @@ We will follow the rules describer in this webpage: http://photoshopetiquette.co
 plus:
 Layers should always be named with the name of the description and the kind of object;
 
-The layers structure should reflect the actually format of the application.
-The layers on top and those on the left should be first .
+The layers structure should reflect the actual format of the application.
+The layers on top and those on the left should be first.
 
-Hidden layer should exists only when a part of a document needed to be hidden, if I layer has not function should be deleted.
+The hidden layer should exist only when a part of a document needed to be hidden. If a layer doesn't have a function should be deleted.
 
 
 
@@ -55,14 +55,14 @@ Hidden layer should exists only when a part of a document needed to be hidden, i
 - Folders have to be always named.
 - The folder should group objects inside the same conceptual area. For example, the folder “header” will contain all layers that contain objects that are inside the header area. 
 - Inside the header folder, there will be subfolders that will group layers that compose an object. For example, the username and the icon next to it will be grouped in the same subfolder.
-inside each folder there will be subfolders for each element contained in that folder.
+inside each folder, there will be subfolders for each element contained in that folder.
 
 EXAMPLE:
-in the Header folder there will be a subfolder called "user menu" where will be placed the icon for the user and the text layer of the username. If, like in our current version, the user menu area activates dropdown menu on click, than another folder with the drop down menu elements will have to be created.
+In the Header folder there will be a subfolder called "user menu" where will be placed the icon for the user and the text layer of the username. If, like in our current version, the user menu area activates dropdown menu on click, then another folder with the drop-down menu elements will have to be created.
 
 The subfolder structure should be organized creating first the element on top and, in case there are elements that are on the same height, first the one on the left.
 EXAMPLE:
-Assuming that in the section folder there is a title and a table you will find first the title, than the subfolder with the table. In the subfolder of the table there will be other subfolder and the elements on the left should be placed first. 
+Assuming that in the section folder there is a title and a table you will find first the title, then the subfolder with the table. In the subfolder of the table, there will be other subfolder and the elements on the left should be placed first. 
 
 
 ## Smart objects
@@ -80,7 +80,7 @@ Assuming that in the section folder there is a title and a table you will find f
 Certain elements like Header or call-to-action button will repeat on every document, to facilitate the process and to be able to apply changes at once across all artboards use a “Smart Object”.
 Therefore common elements will be converted into “Smart Objects” and inserted into a specific library in order for them to be replicated in a fast way, without error, and by automatically propagating changes across all artboards which use the Smart Object.
 
-*this also means to be very careful with existing smart objects since they may affect not only the document you’re working on, but also other file(s) from other team members.*
+*This also means to be very careful with existing smart objects since they may affect not only the document you’re working on but also other file(s) from other team members.*
 
 
 
@@ -96,7 +96,7 @@ Therefore common elements will be converted into “Smart Objects” and inserte
 
 
 
-All the common elements will be stored in our Adobe shared library for a faster and consistent design. 
+All the common elements will be stored in our Adobe shared library for faster and consistent design. 
 The elements are:
 - Colors
 - Logos
@@ -129,7 +129,7 @@ All the elements that are in the library should be discussed and approved from t
 - Use only essential guides.
 - Guides should reflect the Margins among elements.
 
-## Space for experiment
+## Space for experimenting
 
 
 
@@ -141,7 +141,7 @@ All the elements that are in the library should be discussed and approved from t
 
 
 
-Make a folder that sits at the bottom of your layers panel and name it “Unused” pile” and throw all of your experimental groups and layers in there. Collaborators will know to ignore the folder and you can go back to it at any time if you decide to change your mind about a design.
+Make a folder that sits at the bottom of your layers panel and name it “Unused” pile” and throw all of your experimental groups and layers in there. Collaborators will know to ignore the folder and you can go back to it at any time if you decide to change your mind about the design.
 
 ## Lock element
 
@@ -155,4 +155,4 @@ Make a folder that sits at the bottom of your layers panel and name it “Unused
 
 
 
-Element that are already discussed, approved and in his final design version should be locked to avoid mistakes. There could be the case where someone need to unlock to experiment something, that's ok, but always remember to lock it again.
+Elements that have already been discussed, approved and in his final design version should be locked to avoid mistakes. There could be the case where someone need to unlock to experiment something, that's ok, but always remember to lock it again.
