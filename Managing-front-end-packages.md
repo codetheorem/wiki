@@ -31,4 +31,4 @@ example:
 
 Once you have included there the name of the file/s you need, you only need to run `gulp` and it will take care of compiling the new vendor files.
 
-NOTE: if you never install a new package, you dont need to run `gulp` at all, since it is triggered once when you run `npm install` in the root of the repository. `gulp` is only useful if you already installed all packages for EOS and added/changed a FE package (development reasons)
+NOTE: if you never install a new package, you don't need to run `gulp` at all, since it is triggered once when you run `npm install` in the root of the repository. `gulp` is only useful if you already installed all packages for EOS and added/changed a FE package (development reasons)
