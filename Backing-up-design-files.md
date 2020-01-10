@@ -1,4 +1,4 @@
-◀️ [Back](https://gitlab.com/SUSE-UIUX/eos/wikis/home#designing-the-eos-project)
+[◀️ Back](https://gitlab.com/SUSE-UIUX/eos/wikis/home#designing-the-eos-project)
 
 
 1. [Process](#process)
@@ -34,7 +34,7 @@ Naming conventions help provide a consistent way to find the content at a glance
 * Do not use capital letters.
 * Do avoid "special" characters (: / \ ¢ ™ $ ® [ ] { } ( ) ! ; " ' * ? < > |) and never use spaces, tabs, new lines and embedded returns.
 * Do use consistent names for all assets named after what they represent.
-* Do match the assets file name to the naming in the source file (group name or layer name, etc.) Being consistent is important in order to improve clarity when looking for a specific item in a psd file.
+* Do match the assets file name to the naming in the source file (group name or layer name, etc.) Being consistent is important in order to improve clarity when looking for a specific item in a PSD file.
 * Do name all source files after the conceptual piece(s)/component they contain. Examples are "header", "footer", etc.
 * Do name files using hierarchy within components. Periods will be used for separating component hierarchy. For example  "main_component.more_specific_component_name".
 * Do separate words within one conceptual piece/component. Underscores will be used for separators between words which describe a conceptual piece/component itself. Examples are "header.user_login.psd",  "main_navigation.dropdown_menu.psd", or "main_navigation.accordion.psd".
