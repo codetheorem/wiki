@@ -1,12 +1,12 @@
 [◀️ Back](https://gitlab.com/SUSE-UIUX/eos/wikis/home#project-setup)
 
 
-## What we do
+## What we do it
 We use [Strapi](https://strapi.io/) as a CMS to define our pages title, descriptions and status (active/inactive).
 
 ## How we do
 With every request in our Express app, we make use of the middleware (`config-middleware.js`) that will check if a route is defined in Strapi.
-The three posible scenarios are the following:
+The three possible scenarios are the following:
 - If the route is defined in Strapi, and the page enabled field it's set to true, the page will be rendered.
 - If the route is defined in Strapi and the enabled field it's set to false, it will redirect your requests to `/dashboard`.
 - If the route is not defined in Strapi, it will set the document title and description (meta tags) to default values, including setting enabled -used for feature flag- to true (see config-middleware.js).
