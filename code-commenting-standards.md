@@ -33,7 +33,7 @@ Comment style should be simple and consistent within a single code base.
  * @tag This is a tag named 'tag'
  *
  * TODO: This is a todo statement that describes an atomic task to be completed
- *   at a later date. It wraps after 80 characters and following lines are
+ *   at a later date. It wraps after 80 characters and the following lines are
  *   indented by 2 spaces.
  */
 
