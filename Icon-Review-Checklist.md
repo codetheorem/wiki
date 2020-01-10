@@ -1,7 +1,7 @@
 ◀️ [Back](https://gitlab.com/SUSE-UIUX/eos/wikis/home#designing-the-eos-project)
 
 
-It is important that each icon pull-request is reviewed properly before merging. The checklist below can help you ensure that a given pull-request is ready to be  merged.
+It is important that each icon pull-request is reviewed properly before merging. The checklist below can help you ensure that a given pull-request is ready to be merged.
 
 Some icons might exhibit differences in line-thickness and padding(?). Every such case should be discussed with the submitter to determine whether an exception to the rule is warranted (#15). Exceptions are allowed but should stay in the minority or they are no longer exceptions but rather should become the rule.
 
@@ -9,9 +9,9 @@ Some icons might exhibit differences in line-thickness and padding(?). Every suc
 
 1. Check that the name of the icon follows the [icon naming rules](https://gitlab.com/SUSE-UIUX/eos/wikis/Designing-and-compiling-svg-icons#naming-conventions-for-icons-files).
 
-1. Check that the .ai source file is properly saved in the [correct repository] (https://gitlab.com/SUSE-UIUX/eos-backup). Open the .ai file to ensure that it is identical to the svg file from the pull-request, except the ai. file has the grid in it.
+1. Check that the .ai source file is properly saved in the [correct repository] (https://gitlab.com/SUSE-UIUX/eos-backup). Open the .ai file to ensure that it is identical to the SVG file from the pull-request, except the ai. file has the grid in it.
 
-1. Check if the icon fits the description of its purpose in the associated trello card.
+1. Check if the icon fits the description of its purpose in the associated Trello card.
 
 1. Check whether there are any existing material or Eos icons which use a similar visual metaphor.
 
