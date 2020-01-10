@@ -15,7 +15,7 @@ We use 2 different repositories when creating new icons:
 
 The library used to compile the icon font requires some strict naming conventions:
 
-- No `eos` prefix in the file name. The library will add a `.eos-icons` class for the usage of the icon in html. This class may be overridden by the developers using our iconic font, but this way it is compliant to Material Design Icons.
+- No `eos` prefix in the file name. The library will add a `.eos-icons` class for the usage of the icon in HTML. This class may be overridden by the developers using our iconic font, but this way it is compliant to Material Design Icons.
 
 - No ` ` (spaces) or `-` (minus) to separate a more_than_one_word icon name. Use `_` (underscore) to separete them.
 
@@ -23,7 +23,7 @@ The library used to compile the icon font requires some strict naming convention
 
 - Keep the file name as simple as possible, and as descriptive as possible. If the icon is a cloud, then call it cloud.svg
 
-- When choosing a file name for the icon, always check that this icon name doesnt exist already in Material Icons: https://material.io/icons/. If it does, then it can be confusing when using EOS-icons together to Material Icons.
+- When choosing a file name for the icon, always check that this icon name doesn't exist already in Material Icons: https://material.io/icons/. If it does, then it can be confusing when using EOS-icons together to Material Icons.
 
 ## Compiling the icon font:
 
@@ -56,6 +56,6 @@ https://gitlab.com/SUSE-UIUX/eos-backup/tree/master/design-system-pieces/Buildin
 
 First off, make sure that all the above has been followed. Secondarily:
 
-1. Check that the SVG icon added to the `svg/` directory follows the guidelines present in: https://gitlab.com/SUSE-UIUX/eos/wikis/Icon-Review-Checklist
-2. Check that the icon font compiled correctly by simply checking the `dist/index.html` file and that the new icon appears in there correctly. If it doesnt, it is most likely an issue with the file name or the SVG file itself.
+1. Check that the SVG icon added to the `svg/` directory follows the guidelines present in https://gitlab.com/SUSE-UIUX/eos/wikis/Icon-Review-Checklist
+2. Check that the icon font compiled correctly by simply checking the `dist/index.html` file and that the new icon appears in there correctly. If it doesn't, it is most likely an issue with the file name or the SVG file itself.
 3. Check that the new icon looks good in all the different sizes the `dist/index.html` demo page allows you to test. Other sizes are not required to be tested since those are the recommended sizes.
