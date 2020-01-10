@@ -40,13 +40,13 @@ This is where we tell GTM what data we want to capture & send to Analytics. This
 
 **Triggers**
 
-Next we need to tell GTM when to trigger the loading of the analytics tag. GTM is listening to all events but only when a link includes a specific `data-event-` attribute it should trigger. Something else we need to consider in the case of EOS is that this should only happen if the user has previously accepted the privacy policy and a confirmation cookie is present in the browser:
+Next, we need to tell GTM when to trigger the loading of the analytics tag. GTM is listening to all events but only when a link includes a specific `data-event-` attribute it should trigger. Something else we need to consider in the case of EOS is that this should only happen if the user has previously accepted the privacy policy and a confirmation cookie is present in the browser:
 
 ![trigger](uploads/7a038d46949e633eb2866e064b3b9428/trigger.png)
 
 **Tags**
 
-The trigger loads a tag whic takes care of sending the data present in all the `data-event-` attributes. It also maps it to GA's event structure: Category, Action & Label:
+The trigger loads a tag which takes care of sending the data present in all the `data-event-` attributes. It also maps it to GA's event structure: Category, Action & Label:
 
 ![tag](uploads/65f3e1bb05a77ad6c8e40509b9b55df1/tag.png)
 
