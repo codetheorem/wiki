@@ -16,9 +16,9 @@ Here is an example of the release type that will be done based on a commit messa
 | Commit message                                                                                                                                                                                   | Release type               |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------|
 | `Breaking: change class name for all EOS icons`                                                                                                                             |  Major Release - a version that will break something in the user application after updating the package              |
-| `Update: change design of bootstraping icon` | Minor Release - a version that changes things in the package without the need from the user to modify the code base  |
-| `New: create a login icon` | Minor Release - a version that adds new components that wont damage the existing ones|
-| `Fix: remove 1px space in systems icon`                                                                                                                                                     | Patch Release - a version that wont break anything or add any new feature after updating, just fixes a bug |
+| `Update: change design of bootstrapping icon` | Minor Release - a version that changes things in the package without the need from the user to modify the code base  |
+| `New: create a login icon` | Minor Release - a version that adds new components that won't damage the existing ones|
+| `Fix: remove 1px space in systems icon`                                                                                                                                                     | Patch Release - a version that won't break anything or add any new feature after updating, just fixes a bug |
 
 More information about semantic releases: https://semver.org/
 
