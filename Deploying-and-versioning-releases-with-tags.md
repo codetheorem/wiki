@@ -28,21 +28,21 @@ Once a versioned package has been released, the contents of that version MUST NO
 Deployment to production is manual and it is available in Gitlab for the PO or deputy PO to deploy once the work is ready to be published.
 WARNING: the pipeline might let other members of the team deploy to production, please avoid this action and only let PO decide when it is ready to be deployed.
 
-## Test production in local environment
+## Test production in the local environment
 
 **How it works:**  
-We use the build-in env variables created by node. The default value is `development` and in heroku it's set to `production`.
+We use the build-in env variables created by node. The default value is `development` and in Heroku it's set to `production`.
 
 ----
 **Hide content from production:**  
 To hide the content, we do  
 ```
 - if (process.env.NODE_ENV != 'production') { 
-  Code that would be hide from production
+  Code that would be hidden from production
 - }
 ```
 
-This part would show the content in our `localhost` website but not our `production` site without any extra changes in our  `npm scripts` 
+This part would show the content in our `localhost` website but not our `production` site without any changes in our  `npm scripts` 
 
 ----
 **Test production locally:**  
