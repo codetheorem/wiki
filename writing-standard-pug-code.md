@@ -186,7 +186,7 @@ All files must end with a line feed.
 
 #### requireLowerCaseAttributes: true
 
-All attributes must be written in lower case. Files with doctype xml are ignored.
+All attributes must be written in lower case. Files with doctype XML are ignored.
 
 ```
 //- Invalid 
@@ -199,7 +199,7 @@ div(Class='class')
 
 #### requireLowerCaseTags: true
 
-All tags must be written in lower case. Files with doctype xml are ignored.
+All tags must be written in lower case. Files with doctype XML are ignored.
 
 ```
 //- Invalid 
@@ -246,7 +246,7 @@ input(type='text' name='name' value='value')
 
 **e.g.:** { "separator": ", ", "multiLineSeparator": "\n " }
 
-- All attributes must be immediately followed by a comma and then a space.
+- All attributes must be immediately followed by a comma and then space.
 - All attributes that are on different lines must be preceded by two spaces.
 
 ```
