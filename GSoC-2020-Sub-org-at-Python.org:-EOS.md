@@ -87,23 +87,24 @@ Take some hours to read the full WIKI page of EOS: https://gitlab.com/SUSE-UIUX/
 
 ## Project 1
 
-**Project Title:** EOS-icons landing page - request icons
+**Project Title:** EOS-icons - feature/icon request [backend]
 
-**Skill Level:** Easy
+**Skill Level:** Medium
 
 **Description:** EOS delivers a set of icons that are made 1-to-1 following Material Design Icons: icons.eosdesignsystem.com. 
 
 **Goals:** We want more people to suggest and request new icons. Currently, we do this by letting people open an issue in Gitlab. An issue we see is that not a lot of people want to sign in to Gitlab to send an issue, they want something faster, within the same interface of EOS. We've benchmarked and https://iconscout.com/unicons uses https://discuss.iconscout.com/ to let their users request new icons. We would like something similar, although simpler.
+A really great benchmark is also: https://adobexd.uservoice.com/.
 
 **Deliverable:** The main objective of this project is to deliver a web interface for EOS icons that allow users to request new icons in an easy and intuitive way. The interface should have 2 types of users: 
 - admins: EOS maintainers would have access to this account to be able to leave comments, resolve, close, and revision requests before they become visible for the rest of the users.
-- user: any user should be able to submit a request providing certain information so our designers have data enough to process the request. Ideally, the user should be able to opt for leaving an email address or a twitter user to contact them [more ideas welcome].
+- user: any user should be able to submit a request providing certain information so our designers have data enough to process the request. Ideally, the user should be able to opt for leaving an email address or a twitter user to contact them [more ideas welcome]. We also want users to be able to vote for features/icon requests, and leave comments on other people's requests (much like https://adobexd.uservoice.com/ does)
 
 **Mentors:** [Cynthia Sanchez](https://twitter.com/cyntss), [Sorin Curescu](https://twitter.com/en3sis), [Kartikay Bhutani](https://twitter.com/kbhutani0001), [Abhinandan Sharma](https://twitter.com/abhinandan0659).
 
-**Skills:** SCSS, Bootstrap 4, Pug.js, CI Heroku, Headless CMSs, some DB.
+**Skills:** SCSS, Bootstrap 4, EOS DS, CI, Heroku, DB, React.js, Python or Node.js for the backend.
 
-**Get started:** Make some researches before submitting your application. Read about some CMS, forum tool, etc. There is always something out there that we can re-use to not re-invent the wheel and save ourselves some time. Most likely, you will find a tool we can use. You will have to play with it and plan on spending some time to assemble things together, deploy a server in heroku, have a database functioning, and most importantly, have a nice UI and user experience working.
+**Get started:** Make some researches before submitting your application. You want to learn about React.js mainly since this project is preferable to be built using React.js. You will also need to understand about DB (we prefer Mongo DB, but you can choose to use a relational DB too). For this project, (given the size and complexity) we are only looking into the logical part of the application. Project 3 is about working on the UX/UI and front-end part of it, therefore, there will be a lot of collaboration between projects 1 and 3.
 
 ## Project 2
 
@@ -122,9 +123,29 @@ For animated icons we need to extend the number of icons available and also have
 
 **Mentors:** [Cynthia Sanchez](https://twitter.com/cyntss), [Sorin Curescu](https://twitter.com/en3sis), [Kartikay Bhutani](https://twitter.com/kbhutani0001), [Abhinandan Sharma](https://twitter.com/abhinandan0659).
 
-**Skills:** Python, Gulp, Pug.js, SCSS, Bootstrap 4, SVG SMIL, Javascript/Jquery.
+**Skills:** Python, Gulp, Pug.js, SCSS, Bootstrap 4, SVG SMIL, Javascript/Jquery, React.js.
 
-**Get started:** Read about Gulp https://gulpjs.com/, 60% of the project will be around this library. Make sure your Javascript skills are good to handle real-time customization. Do your part of benchmarking by visiting and exploring https://www.flaticon.com/free-icon/home_25694?term=home&page=1&position=4 and their customization tool.
+**Get started:** Read about Gulp https://gulpjs.com/, 60% of the project will be around this library. Make sure your Javascript skills are good to handle real-time customization. Learn about React.js since we are migrating our projects to this framework. Do your part of benchmarking by visiting and exploring https://www.flaticon.com/free-icon/home_25694?term=home&page=1&position=4 and their customization tool.
+
+## Project 3
+
+**Project Title:** EOS-icons - feature/icon request [front-end and UX]
+
+**Skill Level:** Medium
+
+**Description:** EOS delivers a set of icons that are made 1-to-1 following Material Design Icons: icons.eosdesignsystem.com. 
+
+**Goals:** We want more people to suggest and request new icons. Currently, we do this by letting people open an issue in Gitlab. An issue we see is that not a lot of people want to sign in to Gitlab to send an issue, they want something faster, within the same interface of EOS. We've benchmarked and https://iconscout.com/unicons uses https://discuss.iconscout.com/ to let their users request new icons. Another great benchmark is also: https://adobexd.uservoice.com/. We would like something similar, although simpler.
+
+**Deliverable:** The main objective of this project is to deliver a web interface for EOS icons that allow users to request new icons in an easy and intuitive way. There will be 2 interfaces you will need to create:
+- admins: EOS maintainers would have access to this account to be able to leave comments, resolve, close, and revision requests before they become visible for the rest of the users.
+- user: any user should be able to submit a request providing certain information so our designers have data enough to process the request. Ideally, the user should be able to opt for leaving an email address or a twitter user to contact them [more ideas welcome]. We also want users to be able to vote for features/icon requests, and leave comments on other people's requests (much like https://adobexd.uservoice.com/ does)
+
+**Mentors:** [Cynthia Sanchez](https://twitter.com/cyntss), [Sorin Curescu](https://twitter.com/en3sis), [Kartikay Bhutani](https://twitter.com/kbhutani0001), [Abhinandan Sharma](https://twitter.com/abhinandan0659).
+
+**Skills:** SCSS, Bootstrap 4, EOS DS, CI, Heroku, DB, React.js.
+
+**Get started:** Make some researches before submitting your application. We want you to see the benchmarks and come up with some proposals for the UI you will create. You want to learn about React.js mainly since this project is preferable to be built using React.js. For this project, (given the size and complexity) we are only looking into the front-end and UI part of the application. The project number 1 will be about the logical part of the application, therefore, there will be a lot of collaboration between projects 1 and 3.
 
 # Useful links:
 
