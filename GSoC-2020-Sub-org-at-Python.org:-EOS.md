@@ -100,7 +100,7 @@ A really great benchmark is also: https://adobexd.uservoice.com/.
 - admins: EOS maintainers would have access to this account to be able to leave comments, resolve, close, and revision requests before they become visible for the rest of the users.
 - user: any user should be able to submit a request providing certain information so our designers have data enough to process the request. Ideally, the user should be able to opt for leaving an email address or a twitter user to contact them [more ideas welcome]. We also want users to be able to vote for features/icon requests, and leave comments on other people's requests (much like https://adobexd.uservoice.com/ does)
 
-**Mentors:** [Cynthia Sanchez](https://twitter.com/cyntss), [Sorin Curescu](https://twitter.com/en3sis), [Kartikay Bhutani](https://twitter.com/kbhutani0001), [Abhinandan Sharma](https://twitter.com/abhinandan0659).
+**Mentors:** [Cynthia Sanchez](https://twitter.com/cyntss), [Sorin Curescu](https://twitter.com/en3sis), [Kartikay Bhutani](https://twitter.com/kbhutani0001), [Abhinandan Sharma](https://twitter.com/abhinandan0659), [Jesus Herman](https://twitter.com/hesusjerman)
 
 **Skills:** SCSS, Bootstrap 4, EOS DS, CI, Heroku, DB, React.js, Python or Node.js for the backend.
 
@@ -121,7 +121,7 @@ For animated icons we need to extend the number of icons available and also have
 - Allow users to download a `.PNG` or `.SVG` of the icon of any of the available icons in EOS-icons (including the extended version). The user should be able to download the icon in the most commonly used sizes (please research and propose the best sizes), as well as in the color they wish (see https://www.flaticon.com/free-icon/home_25694?term=home&page=1&position=4 to get some ideas of customization).
 - Create more animated icons. Research use cases, discuss it with the community and increase the number of animated icons using SMIL animation in SVG. The animated icons should be color customizable. Given that they are SVG vectors, users don't need the file in different sizes, only 1 size. Our designers will help you with the graphic design of the icon.
 
-**Mentors:** [Cynthia Sanchez](https://twitter.com/cyntss), [Sorin Curescu](https://twitter.com/en3sis), [Kartikay Bhutani](https://twitter.com/kbhutani0001), [Abhinandan Sharma](https://twitter.com/abhinandan0659).
+**Mentors:** [Cynthia Sanchez](https://twitter.com/cyntss), [Sorin Curescu](https://twitter.com/en3sis), [Kartikay Bhutani](https://twitter.com/kbhutani0001), [Abhinandan Sharma](https://twitter.com/abhinandan0659), [Jesus Herman](https://twitter.com/hesusjerman)
 
 **Skills:** Python, Gulp, Pug.js, SCSS, Bootstrap 4, SVG SMIL, Javascript/Jquery, React.js.
 
@@ -141,7 +141,7 @@ For animated icons we need to extend the number of icons available and also have
 - admins: EOS maintainers would have access to this account to be able to leave comments, resolve, close, and revision requests before they become visible for the rest of the users.
 - user: any user should be able to submit a request providing certain information so our designers have data enough to process the request. Ideally, the user should be able to opt for leaving an email address or a twitter user to contact them [more ideas welcome]. We also want users to be able to vote for features/icon requests, and leave comments on other people's requests (much like https://adobexd.uservoice.com/ does)
 
-**Mentors:** [Cynthia Sanchez](https://twitter.com/cyntss), [Sorin Curescu](https://twitter.com/en3sis), [Kartikay Bhutani](https://twitter.com/kbhutani0001), [Abhinandan Sharma](https://twitter.com/abhinandan0659).
+**Mentors:** [Cynthia Sanchez](https://twitter.com/cyntss), [Sorin Curescu](https://twitter.com/en3sis), [Kartikay Bhutani](https://twitter.com/kbhutani0001), [Abhinandan Sharma](https://twitter.com/abhinandan0659), [Jesus Herman](https://twitter.com/hesusjerman)
 
 **Skills:** SCSS, Bootstrap 4, EOS DS, CI, Heroku, DB, React.js.
 
@@ -149,7 +149,7 @@ For animated icons we need to extend the number of icons available and also have
 
 # Useful links:
 
-- Basic instructions to setup and use GIT in open source:
+- Basic instructions to set up and use GIT in open source:
 
 https://gitlab.com/SUSE-UIUX/eos/wikis/GSoC-basic-git-instructions
 
