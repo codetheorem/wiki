@@ -85,4 +85,28 @@ This is used to dynamically set titles, description or enable a page inside the 
 
 ![Screenshot_2020-01-09_at_14.33.28](uploads/fd130ef027281cc66582fac2f2bf5817/Screenshot_2020-01-09_at_14.33.28.png)
 
+### Backup your database
+For our backup solutions, we're using MongoDB Community Edition to dump the data and Cloudinary as storage.  
+To backup your mlab instance we're using the `api/mongodb` endpoint (see code in `routes/api/mongodb/index.js`).
 
+You'll need to setup your Cloudinary API credentials env variables as follow: 
+```js
+// routes/api/mongodb/index.js, line 15
+cloudinary.config({
+  cloud_name: process.env.EOS_CDN_NAME,
+  api_key: process.env.EOS_CDN_API_KEY,
+  api_secret: process.env.EOS_CDN_API_SEC
+})
+```
+And also your database URI variable:
+```js
+// routes/api/mongodb/index.js, line 23
+exec(`mongodump --uri ${process.env.EOS_DATABASE_URI_PROD} -o ./backup/dump`, async () => { 
+ // ...
+}
+```
+
+Once you define your variable, you can send a post request to http://localhost:3000/api/mongodb that will:
+1.  Generate a dump folder inside the `./backup` folder in the main directory.
+2.  It will compress the folder into a `.zip` file
+3.  It will upload the compressed file into your Cloudinary space, inside `./DB` folder.
