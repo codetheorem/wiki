@@ -98,10 +98,10 @@ cloudinary.config({
   api_secret: process.env.EOS_CDN_API_SEC
 })
 ```
-And also your database URI variable:
+And also your database URI variable, in our case we're using a different user and variable (EOS_DATABASE_BACKUP_URI):
 ```js
 // routes/api/mongodb/index.js, line 23
-exec(`mongodump --uri ${process.env.EOS_DATABASE_URI_PROD} -o ./backup/dump`, async () => { 
+exec(`mongodump --uri ${process.env.EOS_DATABASE_BACKUP_URI} -o ./backup/dump`, async () => { 
  // ...
 }
 ```
