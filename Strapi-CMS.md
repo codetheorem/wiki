@@ -93,9 +93,9 @@ You'll need to setup your Cloudinary API credentials env variables as follow:
 ```js
 // routes/api/mongodb/index.js, line 15
 cloudinary.config({
-  cloud_name: process.env.EOS_CDN_NAME,
-  api_key: process.env.EOS_CDN_API_KEY,
-  api_secret: process.env.EOS_CDN_API_SEC
+  cloud_name: process.env.EOS_CLOUDINARY_NAME,
+  api_key: process.env.EOS_CLOUDINARY_API_KEY,
+  api_secret: process.env.EOS_CLOUDINARY_API_SEC
 })
 ```
 And also your database URI variable, in our case we're using a different user and variable (EOS_DATABASE_BACKUP_URI):
@@ -110,3 +110,5 @@ Once you define your variable, you can send a post request to http://localhost:3
 1.  Generate a dump folder inside the `./backup` folder in the main directory.
 2.  It will compress the folder into a `.zip` file
 3.  It will upload the compressed file into your Cloudinary space, inside `./DB` folder.
+
+⚠️  **NOTE**: Backup must be done locally, it's not working from Heroku
