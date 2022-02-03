@@ -16,31 +16,31 @@ This Wiki defines the Design System used to deliver UX, UI, front-end, and other
 
 ## Developing the EOS projects
 ### Git
-- [Naming conventions for new branches](Naming-conventions-for-new-branches)
-- [Pull requests, approvals, and merging to Master](pull-requests,-approvals,-and-merging-to-master)
-  - [PR templates](/PR-templates)
+- [Naming conventions for new branches](Naming-conventions-for-new-branches.md)
+- [Pull requests, approvals, and merging to Master](pull-requests,-approvals,-and-merging-to-master.md)
+  - [PR templates](/PR-templates.md)
 ### Writing code
-- [Writing standard SCSS code](Writing-standard-scss-code)
-  - [Code commenting standards](code-commenting-standards)
-  - [SCSS structure](SCSS-structure)
-- [Writing standard JS code](Writing-standard-JS-code)
-- [Writing standard pug code](Writing-standard-pug-code)
+- [Writing standard SCSS code](Writing-standard-scss-code.md)
+  - [Code commenting standards](code-commenting-standards.md)
+  - [SCSS structure](SCSS-structure.md)
+- [Writing standard JS code](Writing-standard-JS-code.md)
+- [Writing standard pug code](Writing-standard-pug-code.md)
 ### Releases
-- [Deploying and versioning releases with tags](Deploying-and-versioning-releases-with-tags)
-- [Semantic releases](semantic-releases)
-- [Managing front-end packages](Managing-front-end-packages)
+- [Deploying and versioning releases with tags](Deploying-and-versioning-releases-with-tags.md)
+- [Semantic releases](semantic-releases.md)
+- [Managing front-end packages](Managing-front-end-packages.md)
 
 ## Designing the EOS project
-- [Photoshop documents guideline](photoshop-documents-rules)
-- [Icon design guide](Icon-design-guide)
-- [Icon review checklist](Icon-Review-Checklist)
-- [Logo icon](Logo-icons)
-- [Designing and compiling svg icons](Designing-and-compiling-svg-icons)
-- [Design process and feedback gathering](Design-process-and-feedback-gathering)
-- [Backing up design files](Backing-up-design-files)
-- [Adding design specifications in Strapi](Design-specs-in-Strapi)
+- [Photoshop documents guideline](photoshop-documents-rules.md)
+- [Icon design guide](Icon-design-guide.md)
+- [Icon review checklist](Icon-Review-Checklist.md)
+- [Logo icon](Logo-icons.md)
+- [Designing and compiling svg icons](Designing-and-compiling-svg-icons.md)
+- [Design process and feedback gathering](Design-process-and-feedback-gathering.md)
+- [Backing up design files](Backing-up-design-files.md)
+- [Adding design specifications in Strapi](Design-specs-in-Strapi.md)
 
 ## User Analytics
-- [User analytics](User-analytics)
-  - [Link event tracking](Link-event-tracking)
+- [User analytics](User-analytics.md)
+  - [Link event tracking](Link-event-tracking.md)
 
