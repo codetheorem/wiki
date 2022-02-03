@@ -1,6 +1,6 @@
 # Welcome to the EOS project wiki
 
-This Wiki defines the Design System used to deliver UX, UI, front-end, and other deliverables for the EOS project found at https://gitlab.com/SUSE-UIUX/eos
+This Wiki defines the Design System used to deliver UX, UI, front-end, and other deliverables for the EOS project found at https://github.com/EOS-uiux-Solutions
 
 ## EOS product vision
 
