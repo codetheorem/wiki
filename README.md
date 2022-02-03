@@ -13,14 +13,8 @@ This Wiki defines the Design System used to deliver UX, UI, front-end, and other
 - Features in a product are, normally, a set of components together to provide functionality for a certain website following specific use cases and scenarios. EOS doesn't provide features, but components. The product's designers/front-end dev take care of assembling the components into features.
 - Read the product mission statement to understand the scope of the product: https://eos-mission.webflow.io/
 
-## Project setup
-- [EOS setup instructions](https://gitlab.com/SUSE-UIUX/eos/blob/master/README.md)
-- [Configuring Gmail](Configuring-Gmail)
-- [Environment variables](environment-variables)
-- [Feature flagging](Feature-flagging)
-- [Strapi CMS](Strapi-CMS)
 
-## Developing the EOS project
+## Developing the EOS projects
 ### Git
 - [Naming conventions for new branches](Naming-conventions-for-new-branches)
 - [Pull requests, approvals, and merging to Master](pull-requests,-approvals,-and-merging-to-master)
@@ -37,20 +31,16 @@ This Wiki defines the Design System used to deliver UX, UI, front-end, and other
 - [Managing front-end packages](Managing-front-end-packages)
 
 ## Designing the EOS project
-- [Personas](https://gitlab.com/SUSE-UIUX/eos/wikis/Personas)
-- [Photoshop documents guideline](https://gitlab.com/SUSE-UIUX/eos/wikis/photoshop-documents-rules)
-- [Icon design guide](https://gitlab.com/SUSE-UIUX/eos/wikis/Icon-design-guide)
-- [Icon review checklist](https://gitlab.com/SUSE-UIUX/eos/wikis/Icon-Review-Checklist)
-- [Logo icon](https://gitlab.com/SUSE-UIUX/eos/wikis/Logo-icons)
-- [Designing and compiling svg icons](https://gitlab.com/SUSE-UIUX/eos/wikis/Designing-and-compiling-svg-icons)
-- [Design process and feedback gathering](https://gitlab.com/SUSE-UIUX/eos/wikis/Design-process-and-feedback-gathering)
-- [Backing up design files](https://gitlab.com/SUSE-UIUX/eos/wikis/Backing-up-design-files)
+- [Photoshop documents guideline](photoshop-documents-rules)
+- [Icon design guide](Icon-design-guide)
+- [Icon review checklist](Icon-Review-Checklist)
+- [Logo icon](Logo-icons)
+- [Designing and compiling svg icons](Designing-and-compiling-svg-icons)
+- [Design process and feedback gathering](Design-process-and-feedback-gathering)
+- [Backing up design files](Backing-up-design-files)
 - [Adding design specifications in Strapi](Design-specs-in-Strapi)
 
 ## User Analytics
 - [User analytics](User-analytics)
   - [Link event tracking](Link-event-tracking)
 
-## Investigations
-- [SVG icons to font](https://gitlab.com/SUSE-UIUX/eos/wikis/svg-icons-to-font:-automated)
-- [Autofill the SCSS code snippets automatically](https://gitlab.com/SUSE-UIUX/eos/wikis/Autofill-the-SCSS-code-snippets-automatically)
