@@ -31,8 +31,8 @@ This Wiki defines the Design System used to deliver UX, UI, front-end, and other
 - [Managing front-end packages](Managing-front-end-packages.md)
 
 ## Designing the EOS project
-- [Photoshop documents guideline](photoshop-documents-rules.md)
-- [Icon design guide](Icon-design-guide.md)
+- [Photoshop documents guideline](Photoshop-documents-rules.md)
+- [Icon design guide](Icon-Design-Guide.md)
 - [Icon review checklist](Icon-Review-Checklist.md)
 - [Logo icon](Logo-icons.md)
 - [Designing and compiling svg icons](Designing-and-compiling-svg-icons.md)
