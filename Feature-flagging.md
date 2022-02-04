@@ -32,4 +32,13 @@ a.submenu-item.js-select-current.js-feature-flag(href='PAGE_ROUTE', data-feature
       | PAGE_TITLE
 ```
 
+## Feature flagging menu sections.
+If we want to disable a section in the main menu, create a new page following the structure below: 
 
+![image](uploads/6debf3465ba74ac406c8bc9a2e129996/image.png)
+
+Then in the main-menu.pug file, add the feature flagging class:
+```
+li.menu-item.menu-dropdown.js-feature-flag(data-feature-flag= docEnabled['/menuselection-form'])
+//...
+```

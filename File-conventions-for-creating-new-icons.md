@@ -52,10 +52,7 @@ https://gitlab.com/SUSE-UIUX/eos-backup/tree/master/design-system-pieces/Buildin
   - Push the changes and go to gitlab.com to create the Merge Request.
   - Someone from EOS will review your PR as soon as possible and let you know if there are changes to be done.
 
-## Reviewing an icon PR:
 
-First off, make sure that all the above has been followed. Secondarily:
+### Reviewing icons
 
-1. Check that the SVG icon added to the `svg/` directory follows the guidelines present in https://gitlab.com/SUSE-UIUX/eos/wikis/Icon-Review-Checklist
-2. Check that the icon font compiled correctly by simply checking the `dist/index.html` file and that the new icon appears in there correctly. If it doesn't, it is most likely an issue with the file name or the SVG file itself.
-3. Check that the new icon looks good in all the different sizes the `dist/index.html` demo page allows you to test. Other sizes are not required to be tested since those are the recommended sizes.
+The [Icon review checklist](https://gitlab.com/SUSE-UIUX/eos/wikis/Icon-Review-Checklist) gives you all the information to review someone's icon PR, but also it provides you with the information that you should check before opening a PR.
