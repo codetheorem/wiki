@@ -5,13 +5,15 @@ When using Photoshop to create a document that will present the user interface o
 
 ## Creating a new photoshop document
 
-![1](/uploads/9f541badea61da5914fc09391a9f710a/1.png)
+![image](https://user-images.githubusercontent.com/54779517/152519461-0552b841-f122-4947-9f60-048899b95840.png)
+
 When creating a new document Photoshop proposes to choose among different formats: 
 the one to choose is “Web” because it has “Artboards”,  choose a width of 1366x768 pixels @72 ppi, RGB.
 In case the height of the document is not enough for a certain project it’s possible to increase it, but only on a specific artboard and not across the whole document.
 
 ## Artboards
-![Screen_Shot_2017-09-25_at_17.01.42](/uploads/dbe15db7623929b8f2ad0d4a4f0d5195/Screen_Shot_2017-09-25_at_17.01.42.png)
+![image](https://user-images.githubusercontent.com/54779517/152519513-552ac273-eea4-410c-8cf7-ce2bd9ff12be.png)
+
 Elements of the user interface that occupy most of the frames will be displayed in artboards, that includes navbars, modals, header etc...
 Each element's status will be displayed on a different Artboard and artboards will be named with the name of the element and his status
 
@@ -21,8 +23,8 @@ Each element's status will be displayed on a different Artboard and artboards wi
 
 
 
+![image](https://user-images.githubusercontent.com/54779517/152519579-566f7334-0187-47b3-b504-3149a454e1ee.png)
 
-![Screen_Shot_2017-09-25_at_17.28.02](/uploads/40a0bba659321449f7872449b9ea1f5f/Screen_Shot_2017-09-25_at_17.28.02.png)
 
 
 
@@ -44,7 +46,8 @@ The hidden layer should exist only when a part of a document needed to be hidden
 
 
 
-![Screen_Shot_2017-09-29_at_11.42.22](/uploads/28e159a70bb827b9e1a7315594ec66d0/Screen_Shot_2017-09-29_at_11.42.22.png)
+![image](https://user-images.githubusercontent.com/54779517/152519642-81c3165e-84d3-4802-86bd-d7d707983f7b.png)
+
 
 
 
@@ -71,7 +74,8 @@ Assuming that in the section folder there is a title and a table you will find f
 
 
 
-![5](/uploads/0665d33acb1be19aa029dcfc15e9eba2/5.png)
+![image](https://user-images.githubusercontent.com/54779517/152519686-affad04b-b1dd-42c5-93ed-ac8cba14a256.png)
+
 
 
 
@@ -90,7 +94,8 @@ Therefore common elements will be converted into “Smart Objects” and inserte
 
 
 
-![Screen_Shot_2017-09-21_at_09.35.04](/uploads/df272820971acbe1eb4334436fc03c5c/Screen_Shot_2017-09-21_at_09.35.04.png)
+![image](https://user-images.githubusercontent.com/54779517/152519713-41cb0a30-9cfb-4653-aafc-434c84dafd31.png)
+
 
 
 
@@ -119,7 +124,8 @@ All the elements that are in the library should be discussed and approved from t
 
 
 
-![Screen_Shot_2017-09-21_at_09.47.20](/uploads/8e9a53cd1f37371f3e0c31c7ed05558f/Screen_Shot_2017-09-21_at_09.47.20.png)
+![image](https://user-images.githubusercontent.com/54779517/152519742-0366f143-0d4f-48e3-a348-e2eeaa9a36fb.png)
+
 
 
 
@@ -135,7 +141,8 @@ All the elements that are in the library should be discussed and approved from t
 
 
 
-![Screen_Shot_2017-09-21_at_09.40.30](/uploads/b25f01508eec57ba74e0798a5f4946bd/Screen_Shot_2017-09-21_at_09.40.30.png)
+![image](https://user-images.githubusercontent.com/54779517/152519776-f2d4364b-1611-4c0a-90cc-b9f883912d70.png)
+
 
 
 
@@ -149,7 +156,8 @@ Make a folder that sits at the bottom of your layers panel and name it “Unused
 
 
 
-![Screen_Shot_2017-09-21_at_09.41.23](/uploads/a12083d01838ef0164b6d16ea3b53bf9/Screen_Shot_2017-09-21_at_09.41.23.png)
+![image](https://user-images.githubusercontent.com/54779517/152519795-c4fc0602-7849-48f1-b9c9-18911e3048d8.png)
+
 
 
 
