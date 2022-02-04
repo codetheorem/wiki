@@ -48,7 +48,7 @@ If you are sending a new icon to EOS-icons, please make sure your SVG is complia
 
 1. [Icon design guide](Icon-Design-Guide.md)
 2. [File conventions for creating new icons](https://gitlab.com/SUSE-UIUX/eos/-/wikis/File-conventions-for-creating-new-icons)
-3. [Icon review checklist](Icon-Review-Checklist.md)
+3. [Icon review checklist](https://gitlab.com/SUSE-UIUX/eos/-/wikis/Icon-Review-Checklist)
 
 
 ## User Analytics
